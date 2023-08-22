@@ -1,0 +1,838 @@
+﻿    • We know that the main doors of the debate hall lead to a large domed area with two wings leading off to the left and right. Left has a huge auditorium, right has hallways with small meeting rooms. There’s also an overflow auditorium on the main floor. There’s a side exit in the back that we can use to get out of the building and planeshift, since teleporting isn’t possible in the building.
+    • Meragons typically walk in lockstep, so we’ve been trained to walk like four meragons. The one in front is typically assumed to be the squad leader. They tend to be obsessed with duty and rules.
+    • The Far Flung Fellowship crawls into the barrels of viperwine, cleans off the spilled wine from the floor, and seals the barrels over themselves. They feel as the war machine’s movement becomes stop-and-go as they enter the city. Finally, we stop at the debate hall.
+    • Several fiends enter the wagon and magically scan the barrels. They don’t detect us, but they’re irritated to find some of the other barrels half-empty. Ganth (as a fiend) argues with them that the sellers just had to use larger barrels, and that it’s the same amount of wine. He threatens them until they take our barrels into a storage room. The party hides for hours, with devils going in and out with other deliveries. Finally, it grows quiet for longer than ten minutes, and we infer that it’s evening (and nearly time for the conference).
+    • Kaz cautiously pokes her head out of the barrel, sick of feeling claustrophobic and scared. The party is in a warehouse-like storage room of bulk goods. We’re surrounded by stacks of crates and barrels. We can hear guards posted outside the two doors to the store room.
+    • We consider bringing some goods out of the room with us to make it look like we’re making a delivery, but decide it’ll look suspicious when no one else is making deliveries.
+    • Lana hears the subtle sound of someone breathing in the storage room with us. He sneaks over to investigate, and discovers a sleeping imp in a puddle of wine, belly engorged. We consider selling him out to the door guards, but realize we’d look just as suspicious appearing “out of nowhere” in the storage room. 
+    • Odo grabs the imp, who wakes up and says “Wait, wait, wait, wait, wait!” He expresses his surprise that we’re down in the storage room (and acting strangely for meragons), but assumes we’re in the basement to steal alcohol. He offers us a contract to each go our separate ways and not reveal each others’ crimes. It’s straightforward, with nothing about our souls, so we sign. He definitely looks scared of losing his job for letting us sneak in
+    • The imp shows us to a hidden doorway, which leads to a workshop closet. From there, we can sneak out through the furnace room to a main hallway. He also tells us the building is full of secret passages, though he doesn’t know all of them. He does advise us to use them so we don’t get caught, since that would look very bad for him.
+        ◦ Kaz manages to weasel out the location of another secret passage as a way to “not get caught.” The imp tells her there’s also a secret passage in the upstairs library, but he doesn’t know how to access it. Students leave notes for the other students there, which may be helpful.
+    • We sneak out through the furnace room, past a bone devil (who sees us just as we’re about to leave and kicks us out). We walk through the staff hallways until we reach meeting room hallways. A group of bearded devils looks at us, askance, like “who the fuck are these people?”. One asks Kaz who they are, she gives her fake serial number and cohort, and he tells the group to carry on.
+    • We head upstairs. As we go, we hear a bell ring, and then the telepathic message “Arrival in one bell (one hour). All staff be in their positions by then.”
+    • We climb up to basement level 2. We encounter two bone devils guarding the auditorium dressing rooms, who kick us out and assume we’re Glasyan troops. We also bumble into a staff cafeteria, nearly get caught as outsiders, and are saved when another meragon asks if we’re “Nomenvoti.” Kaz gambles and says yes. The meragon asks to see her ring as a matter of protocol, and she pulls the stolen black ring out of her armor to show it off. That seems to clear suspicion, though the other devils in the cafeteria look exasperated.
+        ◦ A bearded devil tells the Far Flung Fellowship to “turn around, go back down to basement level 3, find your supervisor, and confirm what your orders are”. He seemed to be upset that he couldn’t just boss around meragons from someone else’s hierarchy.
+    • After a lot of lying, looking around and generally acting suspicious, we finally find our way further upward. To reach basement level 1, we need to go through a storage room on level 2 and take a lift guarded by bone devils. Rather than do that, Kaz recalls the party’s impish “friend” telling them about all the secret passages throughout the building, and she manages to find one in the storage room. Lana finds a little hooked implement and jimmies the mechanism to open it. We squeeze into a 2.5x2.5 crawlspace and make our way up a narrow stairway. Lana finds a hidden note on the way up, no doubt left by one of the students.
+        ◦ “To gain the upper hand, my peers, in whispered words, lend me your ears. Where the learned gather, read, and toil, a watchful figure guards the spoils. A heavy work of names and might, upon the lowest shelf, sits tight. Retrieve the key from pages deep, and through the passage, you shall creep.”
+    • We hear two fiends speaking in hushed voices just outside our hidden passage. “It’s such an honor to be able to host a lord of the nine” The other responds “But it’s shocking that a maralith would be here in the Hall of Debate.” They go back and forth for a while about how they’ve seen it, and how disgusting tenar’ri are.
+        ◦ We know that Prazomal is a very powerful maralith, a very powerful breed of demon
+    • We emerge from the secret passage and into a dark library. Assuming that this was the library referred to in the student note, we search for the hidden book. We assume the “watchful figure” is a statue of the fiendish philosopher Zandregash. In the philosophy section, Kaz finds a book called “on the power of true names,” inside of which is a cutout of a key. We slip into the secret passage behind Zandregash’s statue just before two fiendish guards can find us.
+    • We climb up another set of stairs until we’re just below the main level. Above us are two people, speaking another fiendish language that’s related to Infernal but not quite Infernal. Lana recognizes one of the individuals as the fiend in Undersigil, talking to the bearded devils we stole the black rings from (the guard yugoloth, who was in the room beyond the balcony door). The other is clearly a different variety of fiend.
+          Other Fiend: “Why is the meeting here?”
+          Yugoloth: “Because of the portal to Sigil” (we gather that it’s for safety, in case the attendees need to quickly escape to Sigil)
+          The conversation topic changes to the Abyss
+          Yugoloth: “Most of the demon lords have fallen under our sway, but there are still holdouts”
+          Other Fiend: “But what shall be done? How can we make any concerted effort when there are enemies in the back of us?”
+          Yugoloth: “That will be solved soon. There’s going to be an expedition with the lord. I will attend with him. It will be on Toril, in the chasm of Utmo”
+          Other Fiend: “Toril? Really?” (Toril seems to have some sort of significance to him as well)
+          The conversation quickly becomes about how gross devils are
+        ◦ the other fiend doesn’t seem totally comfortable talking about the Toril plan
+        ◦ we also gather that these secret passages are generally built close to the walls so people can spy on each other.
+    • We continue across the entire building through the passages. Suddenly, two glowing portcullises trap us in place in the hallways. A glowing table appears in front of us, with a set of scales and infernal coins. A riddle is written on a placard.
+        ◦ “Your steps through shadows you must tread with care, as only the cunning can thrive in our lair. 
+          Nine coins of souls, each heavy with fate, but one lies empty, a soulless weight.
+          The scale before you, discerning and wise, reveals the truth that before you lies.
+          Twice shall you weigh, no chances to waste,
+          Find the light coin, and forward with haste.
+          Think and discern, use wit and beware, for those who fail shall be caught in despair. Insert this coin in the slot when revealed,
+          The portcullis shall rise, and your path be unsealed.”
+    • We number the coins 1-9, then divide the coins into three groups of three.
+        ◦ 123 left, 456 right (scales are even)
+        ◦ 7 left, 9 right, 8 kept on the table (coin 7 is the false one)
+    • We pass the test, and the portcullis disappears. We keep going until the passage dead-ends at an exit panel, where we enter an empty meeting room. We go to exit the meeting room and find ourselves in the central domed area, which is FILLED with scary creatures. A fiend in golden plate armor threateningly orders us out of the room when we peek through, clearly furious that we’re not with the other meragon guards nearby.
+    • The dome itself is heavily guilded. The walls are covered in horrific mosaics – one is of a woman who looks like blind justice, only she has her boot on the face of a man bound in thorny vines. Guards in various uniforms surround the walls. A velvet carpet covers the marble floor. Standing near the double doors is a maralith – a demon with the torso of a woman, six arms, and a snake’s tail for a lower body. Three glowing motes of light orbit her head, and 6 scimitars are attached to her waist (despite the ban on weapons in Grenpoli). She stares directly at the party as they enter, and maintains her gaze for a solid 30 seconds.
+        ◦ Kaz suspects that the maralith might be able to read our minds, so she allows her mind to be read and starts thinking fiendish thoughts at the others to hint to them that they should do the same. Lana immediately picks up on what she’s putting down, and thinks back “Well, if I were in charge, we’d have been here on time!” Kaz takes a moment to be impressed, then picks a fake fight with Lana to deceive anyone who might be reading their minds.
+    • We continue to stand and wait with the other meragon guards. There’s a tapestry on the wall across from us, with a passage written in fancy Infernal script. We immediately recognize the first and last lines.
+        ◦ When a fell prince and princess vile in unholy union beget a child, lo, the stars shall quake, and fiery comets shall sail the skies, heralding the one in whom two kindreds join, who bears the blood of the lords of three and of nine. Verily, to this one shall the stygian hosts vow obedience. Forth then shall they go to conquer, and the heavens shall know the grip of their yoke. Thence upon mortal worlds shall they turn their fury until all who would defy them shall cower or perish, and then shorn of all ruth shall alone remain the mightiest unyielding lords who with fire and sword shall rule and eschew weakness and mercy.
+    • Finally, two cape-wearing fiends open the double doors for an incredibly tall fiendish woman in a red dress. She’s followed by a bronzed man (Graatz?), and a gray-skinned woman (Darala). The maralith immediately slithers over to Darala, leans down, and whispers in her ear. They both look over at the party, then Darala looks up at the woman in the red dress. She says “Mama?”, then conveys the maralith’s question. Glasya says to the maralith “they belong to my legions, don’t worry”
+        ◦ We FEEL the weight of the radiant evil coming off of the woman in the red dress. She’s almost a deity, and it’s far worse than the weight from the baylor demon.
+        ◦ we learn that the maralith’s name is Eugleska
+    • Glasya: “I’ve neglected to ask you about this boy of yours”
+      Darala: “He’s been trying to get something to work, but he hasn’t been able to. And now he’s been making lots of trips back to his homeworld lately, too.” She pauses thoughtfully. “And papa’s going to Azzy’s homeworld soon too, do you know anything about that?”
+Glasya: nods
+      Darala: “He says I won’t have to flirt with any more ugly Tana’ri “ambassadors” because this will take care of all our enemies in the Abyss. But also (she looks upset), Azzy will be going too and that Excessera [sic] woman will be there and I just don’t like her. I dont like the way she talks to Azzy…”
+        ◦ Excessera could be Xirnaxxsha? She’s a demon who’s disrespected Asger in the past. Her ‘dark mistress’ is Zuggtmoi, demon queen of fungi
+      Glasya: “Remember, we must take care to disguise our true hatred and disgust of the tenar’ri, for the sake of diplomacy. That’s our strength as Devils. Without her dark mistress, we wouldn’t have you, after all.” She nods to the tapestry with Hecorius’ prophecy.
+      Darala: “Oh, I’m not very good at hiding my feelings”
+      Glasya: “Speaking of feelings, how do you feel about this ‘Azzy’ of yours?”
+    • They talk for a while, but Darala is clearly madly in love with Asger. Glasya takes it in. “Just remember darling, in all relationships, there is a master and a slave. The one who falls in love is the slave. Just remember that.” Darala looks disappointed. “Azzie and I are both in love with each other.” Glasya nods, but doesn’t say anything
+    • A rumbling starts, emanating from behind the curtains across the hall. Glasya says “Well, it’s time. Are you ready to meet grandfather?” Darala nods, looking excited, and we realize she’s talking about Asmodeus. As the curtains open, a red light shines through and we’re overwhelmed by a weight of evil that completely eclipses even Glasya’s. We stand, stunned and held up by our fiend suits, as Glasya, Darala, and Eugleska enter through the curtains. Pit fiend royalty exit before them and line the aisleway as they walk. The curtains shut behind them, and only then does the horrible aura start to fade
+    • We stand for a while until the big horned devil comes back and dismisses the meragons. He tries to demote the party, and is shocked when we don’t change shape with the magical demotion. We stay still, not sure what to do, but not willing to give up the game by running for it. Finally, he asks if we’re wearing rings. Kaz shows off hers, he snarls angrily, and dismisses the group with the other meragons.
+    • We follow the other meragons downstairs into a debater’s hall near the library. Most of the other devils are talking about how awesome it was to almost be in Asmodeus’ presence. We slip into the library, enter the secret passage again, and start searching for other secret passages that lead out of the building. We come across an imp, who’s surprised to find us where we don’t belong, and sneaks away invisibly when confronted. The party nearly blasts the imp to keep their existence secret, then realizes that even if he reports them, it’ll just look like Archduchess Glasya’s troops were where they shouldn’t be.
+    • We slip out into another meeting room across the hall of debate, near a side exit. We slink out of the room and toward the exit. Two powerful fiends guard it, and their hands go to their weapons the moment they see us. They demand to know what our purpose is, and why we’re in an area we shouldn’t be in. Kaz gives the identification-number-and-legion spiel, and tells them that we’ve been summoned back to our garrison in Sigil. They ask to see our rings as proof, and we show them off. “Very well, on your head be it. This will be reported.” He opens the door and lets us out. 
+    • The buildings of Grenpoli are all domed, and the streets are clear. Distantly, we see guards keeping a perimeter around the Hall of Debate. We find a nearby alley, leading towards what’s probably the loading dock for the Hall of Debate and planeshift back to Brin’s Haven. Most of the people are shocked to see a group of meragons appear in the middle of their safe haven, but Meili and Torbold quickly escort us back to the lab with a quick “Nothing to see here, folks”
+    • We’re helped out of our fiend suits, then brought upstairs to the conference room and given some Thalassian tea to calm down. Eventually, the Watchful Voyagers look at us expectantly for the story. Lana doesn’t disappoint, repeating every single thing we heard word-for-word. Even repeating Glasya’s voice has a trace of her devilish power, and the whole room shudders at it. Odo provides sound effects. Kaz clutches her arms, tea long finished. Nev stares down into her drink, praying silently.
+        ◦ Torbold asks Nev how she’s feeling. She snaps out of her daze just long enough to give him a look of pure terror, before looking back down at her drink. “You got back, you’re okay, and we know a hell of a lot more than we did before”
+    • We tell the rest of the WV about the hallway conversation we’d overheard, where most demon lords were apparently working together and that something in the “Chasm of Utmo” on our homeworld Toril will remove the last holdouts. Torbold remarks that it’s shocking, since the reason no one thinks the Blood War can end is that demons can’t work with each other (not that they can’t work with devils). He says to the party “Whatever they’re doing on your homeworld, this could be a turning point.”
+        ◦ Ganth recalls that the demon lord summoning was in Toril, when all the demon lords were summoned out of the Abyss many years ago.
+        ◦ Chasm of Utmo is probably in the Underdark. The name Utmo is probably derived from Drow Elvish.
+    • Nomenvoti – it’s from an old form of proto-Infernal. It means “name-sworn” – to swear on one’s true name makes the oath unbreakable. Torbold points to the part of Hecorius’ prophecy where it says “swear obedience” and says “If this completion is real, then the universe is in grave peril.”
+
+
+
+
+
+
+
+
+
+
+
+Text RP
+Text RP channel is currently named “Fun-demon-tal”
+Nevaeh (Alicia) — 03/20/2023 10:37 AM
+(Where are we at currently, for the sake of RP this week)
+Kasma "Kaz" Planewalker — 03/20/2023 10:38 AM
+(Back in Brin’s Haven, I assume)
+John Dungeon Master — 03/20/2023 10:38 AM
+(You were in the meeting room there)
+Nevaeh (Alicia) — 03/20/2023 10:41 AM
+(Ganth, torbold, Meli and Chaswick there?)
+John Dungeon Master — 03/20/2023 8:03 PM
+Yes
+Nevaeh (Alicia) — 03/20/2023 12:59 PM
+"Lana, can you repeat the voice we heard from Fredryk's vision, the female voice that caught my dad and said ‘Bring him to me'?" (did we hear that voice in the meeting?)
+John Dungeon Master — 03/20/2023 8:03 PM
+(Assuming he repeats it, it’s pretty clear that that voice and the one in Asger’s tower, and the one you just heard are the same)
+Ganth starts coughing into a handkerchief again, and this time, it becomes convulsive and his face turns red, and people start asking if he’s ok. Then you all feel a tremor shake the floor under your as objects and windows clatter and vibrate. Suddenly the coughing fit ends and the tremor stops.
+Nevaeh (Alicia) — 03/20/2023 8:08 PM
+Kasma "Kaz" Planewalker — 03/20/2023 8:09 PM
+Nevaeh (Alicia) — 03/20/2023 8:09 PM
+(Okay, so it was Darala that caught Nev's dad)
+John Dungeon Master — 03/20/2023 8:09 PM
+The handkerchief is drenched with blood. Torbold says, “Ganth! How many Wishes have you used today?!”
+Kasma "Kaz" Planewalker — 03/20/2023 8:10 PM
+At the word “Wish”, Kaz looks shocked and even more worried
+John Dungeon Master — 03/20/2023 8:11 PM
+Ganth says, panting, “…a few…”
+Torbold says, “go rest at once!“
+Nevaeh (Alicia) — 03/20/2023 8:14 PM
+Nev instinctively gets up to assist him, and maybe help clean up some of the blood.
+John Dungeon Master — 03/20/2023 8:15 PM
+Ganth says, “I … can … the univer… danger… I…”
+Nevaeh (Alicia) — 03/20/2023 8:16 PM
+"Let me help you. The universe can wait while you get some rest." she smiles
+John Dungeon Master — 03/20/2023 8:18 PM
+Torbold reaches up to put his arm around Ganths shoulders where he sits and says “my friend, you must let others see to that now. As the Lord Commander I’m ordering you to rest. You won’t help anyone if this place disintegrates! You remember you insisted on me taking this job right? Now you have to do what I say!”
+He turns to Nev and says “please do what you can for him”
+Garth nods to Torbold
+Boswell comes over and starts helping him up slowly
+Kasma "Kaz" Planewalker — 03/20/2023 8:20 PM
+Kaz follows Nev, ready to assist her in any way she can
+Softly, she asks "What danger, Ganth? Let us help ye"
+John Dungeon Master — 03/20/2023 8:27 PM
+Ganth opens his mouth to say something to Kaz and then faints and has to be carried off to his chamber by Boswell and Meilii.
+Kasma "Kaz" Planewalker — 03/20/2023 8:29 PM
+Kaz stares silently after him, clutching her journal to her chest.
+(Can Kaz make any kind of guess on what the 'danger' is that Ganth was talking about? Like, are there common dangers when making a demiplane with magic?)
+Nevaeh (Alicia) — 03/20/2023 8:30 PM
+"Can I...er...would it be improper to just...keep an eye on him? I don't mind. I need some time to myself anyways."
+John Dungeon Master — 03/20/2023 8:31 PM
+(He had just moments before been talking about the universe being in peril)
+Kasma "Kaz" Planewalker — 03/20/2023 8:32 PM
+(oh, he meant the WHOLE universe, not just the mini-one we're standing in. Got it 👍) 
+John Dungeon Master — 03/20/2023 8:35 PM
+Boswell says to Nev “I’ll stay with him. You should go. You need to get ready for what ever is next.”
+Nevaeh (Alicia) — 03/20/2023 8:40 PM
+"Of course."
+Kasma "Kaz" Planewalker — 03/20/2023 8:44 PM
+Kaz puts her hand on Nev's shoulder, smiling tremulously. "I think we promised ourselves a bit of time in the Upper Planes to recover anyway. We should go"
+Nevaeh (Alicia) — 03/20/2023 8:47 PM
+"Yeah, we did huh?" Nev dejectedly walks back to sit at the table.
+(It's only been like...maybe two hours at most since we got there, did our mission, and left, right?)
+Kasma "Kaz" Planewalker — 03/20/2023 8:48 PM
+(I think the ride from our battle to the Hall of Debate took a couple hours, and then we spent a little over an hour dicking around in the hall itself)
+Nevaeh (Alicia) — 03/20/2023 8:57 PM
+(Yeah, we heard the bell go off that said we had an hour and then there was a little bit of time before and after. So I'm guessing at the most 2 hours that we were in the hall space)
+Kasma "Kaz" Planewalker — 03/20/2023 8:59 PM
+Her smile falls. She sighs, walks back to her seat at the table, and sets her journal down, then reaches over to the teapot and pours herself some more tea. She raises the pot in Nev's direction, offering to pour her some as well.
+Nevaeh (Alicia) — 03/20/2023 9:04 PM
+"Mmm, please." She hands over her mostly full cup
+Kasma "Kaz" Planewalker — 03/20/2023 9:11 PM
+Kaz tops it off with just enough tea to warm the rest of Nevaeh's cup without overflowing it. As an afterthought, she casts Prestidigitation to make the tea properly hot again.
+She sits down with a sigh, folding her arms in front of her and burying her head in her own embrace
+Nevaeh (Alicia) — 03/20/2023 9:26 PM
+Nev gives a small smile at the warm tea cup then lays her head on the table, reaching out her hand to the middle she puts her palm up. "Kaz..." opens and closes her hand a few times "misery loves company"
+Kasma "Kaz" Planewalker — 03/20/2023 9:28 PM
+Kaz doesn't look up, but she does stick her hand out across the table to hold Nevaeh's. She's silent for a while. Then, abruptly, she speaks. "What are we gonna do about this Chasm thing? The last time we went rushin' in against Asger with no proper plan, he took the mythallar. And now we don't even know what they want"
+Nevaeh (Alicia) — 03/20/2023 9:49 PM
+Nev also speaks face down into the table, muffled "I don't know."
+Lifting her head up, she continues, "Someone has heard of it, so guess we figure out who to ask. But then we probably can't even let on that it's us asking cuz surely that will make it back to the wrong folks." She puts her head back down "I don't know."
+Kasma "Kaz" Planewalker — 03/20/2023 9:55 PM
+Kaz squeezes her hand. "Well... Ganth mentioned the demon lord summoning, so the two could be connected. And even if they aren't, a few no-name history buffs lookin' up places in the Underdark while they study an event that took place in the Underdark probably isn't that suspicious” 
+Nevaeh (Alicia) — 03/20/2023 10:52 PM
+"Hm...yeah. That's true..." Then, after a beat, "Darala loves Asger. Like, actually loves him?"
+Kasma "Kaz" Planewalker — 03/20/2023 10:53 PM
+She raises her head and scrunches up her face. "I suppose so. Or at least, she's infatuated with him. Can fiends love?"
+Nevaeh (Alicia) — 03/20/2023 10:56 PM
+(Would Nev actually know the answer to that question? cuz I think by default she'd say that everyone can.)
+Smutlana "Lana" Smutwhisper — 03/20/2023 11:00 PM
+Fiends can definitely lust.
+Kasma "Kaz" Planewalker — 03/20/2023 11:02 PM
+She snorts. "No kiddin'. And they're probably most attracted to evil bastards, too"
+John Dungeon Master — 03/20/2023 11:17 PM
+(I don’t think Nev would have any way to know that for sure. Maybe roll a religion check or a wisdom check your choice) 
+Nevaeh (Alicia) — 03/20/2023 11:24 PM
+*rolls a natural 20 after rolling three natural ones during session*
+(I just wanted to share cuz I'm so happy about that lol)
+Smutlana "Lana" Smutwhisper — 03/21/2023 12:06 AM
+(Your dice are baller)
+Nevaeh (Alicia) — 03/21/2023 12:08 AM
+(The other dice are fired.)
+(Now to explain why she knows, in intimate detail, the love lives of fiends)
+John Dungeon Master — 03/21/2023 12:48 AM
+Wow. Ok so, love can mean several different things. Selfless love of other beings is essentially antithetical to evil. But lust, infatuation, and alliance forming and lineage building are totally possible for fiends.
+Nevaeh (Alicia) — 03/21/2023 1:10 AM
+"Yeah. There'd have to be something in it for her. Maybe it started as an alliance and turned into infatuation, or vice versa. And that's just currently keeping her appeased. She'll get bored though eventually. Unless the alliance is meant to be long term, Asger's gonna have to keep her attention."
+John Dungeon Master — 03/21/2023 1:12 AM
+(Since you rolled a nat 20, I’ll just add that the boundary between intense infatuation and “romantic love” is something that can be hard to pin down even for mortals) 
+Nevaeh (Alicia) — 03/21/2023 1:35 AM
+(intense infatuation usually ends terribly, so that'll be fun)
+Kasma "Kaz" Planewalker — 03/21/2023 6:34 PM
+Kaz chews her lip for a moment, the looks to the rest of the Watchful Voyagers. “Do you all have any books about Toril, or the demon-summoning?”
+John Dungeon Master — 03/21/2023 6:36 PM
+So at this point only Meilii is sitting in the meeting room, staring off at the large window.
+She says “You’ll have to talk to Leltora Hightop, she looks after the library”
+Nevaeh (Alicia) — 03/21/2023 6:41 PM
+"Thanks for your help out there today, Meilii, by the way."
+Kasma "Kaz" Planewalker — 03/21/2023 6:42 PM
+“Aye. Thank ye” she manages a small and tired, but genuine smile
+John Dungeon Master — 03/21/2023 6:44 PM
+She looks like she’s kind of at a loss for words for a second then says: “I did what I could but, without the four of you, that fight would have been suicide”
+“You fight like you’ve been seasoned on battles in the lower planes for 20 years”
+Kasma "Kaz" Planewalker — 03/21/2023 6:48 PM
+Kaz blushes and shrugs. “Oh, uh, thank you. You fought well yourself.” Her expression shifts, more worried. “How’s Sten doin’?”
+John Dungeon Master — 03/21/2023 6:48 PM
+“He’s fine. His pride’s the only thing still wounded”
+Kasma "Kaz" Planewalker — 03/21/2023 6:49 PM
+She sighs, relieved. “Good. And he has nothin’ to be ashamed of. He fought well too”
+John Dungeon Master — 03/21/2023 6:50 PM
+She emits a grunt of ascent
+Nevaeh (Alicia) — 03/21/2023 6:52 PM
+Nev looks to her mace and shield sitting up against the wall "Certainly had more practice these past couple of months than I'd ever want in my whole life." She looks to Kaz "May I join you at the library?"
+Kasma "Kaz" Planewalker — 03/21/2023 6:59 PM
+Kaz smiles. “I’d appreciate the company”
+(Kaz would search for any information she could find on the demon-summoning, and on the Chasm of Utmo)
+Nevaeh (Alicia) — 03/21/2023 7:23 PM
+(Nev wants to see if they have any books on Shar cultists, what it takes to become a priestess of Shar, and if there are any familiar names mentioned, like Excessera. Been a while since she's brushed up on her Shar cultist lore.)
+Odo Falcanspur (Mike) — 03/22/2023 12:43 AM
+Odo looks to Smutlana after seeing the events unfold with Ganth
+"Hmmm done reckon I don’t be mighty good in the noggin with that there medicine. I suppose Ganth in better hands than I done think I could of ever put ‘um in. ‘Reckon I did done hear to just ‘rub some dirt on it’ and ya feeel better, but eh, that cough... I don’t know how exactly you done be a’ needin’ to rub dirt on things with a cough"
+Odo ponders the thought of rubbing dirt on a cough, shaking his head
+"Welp, also, speaking of dirt, ah ya know Lana, I do still be a mighty thankful you gave Sear’Rebellion his ol’ arm back. Sure do done know he appreciate it too. But uh, Lana, you do done know, like when we was in that there kinda sewer space that had that there magical grate or something above us and we did done deal with them their bearded devils that came all down and what not, and made there rings drop? you remember that ay?"
+(15 to stealthfully slide over closer to Lana)
+Odo's shuffling up real close like, whispering in Lanas ear
+"Uh, did I done well, I might not a’ done be a’ hearing right, but Lana"
+Odo shuffles closer, inhales through his snout, draw air over Lana's feathers
+(17 to Performance, for preforming the softest of whispers)
+"Did I done hear you done uh, hurt yourself for that ol' stick of yours when we was between a grate and a hard place? I’m asssum'n, could be a rock, but I mean a grate since it done had been above… we was all tapped out and I uh - is that there stick of yours or something alive?"
+Odo pauses
+"Can I uh, taste that there stick, like gnaw on it, and sniff it... see if it be a mighty funky like Ranjat’s Bane blade? You know, that thing we sold to that older fella out in that there antique shop"
+Nevaeh (Alicia) — 03/22/2023 12:56 AM
+(Are you asking Lana if they hurt themselves for the Necro staff?)
+Odo Falcanspur (Mike) — 03/22/2023 12:58 AM
+(Odo is, more or less plus some other stuffs hehehe 😆 - yeah)
+(Does Performance count as a Whisper? 😆 - maybe like softer than a stage whisper, Odo definitely wants to stay quiet about that)
+John Dungeon Master — 03/22/2023 12:59 AM
+(Sure)
+Smutlana "Lana" Smutwhisper — Yesterday at 12:39 PM
+Smutlana demurely smutwhispers in response, “You know, Odo, The Circle giveth, and The Circle taketh away. Neither power nor life come for free... nor should they. Ever. Neko is happy to exchange one for the other at my behest. Is that not a fair trade? Don't I deserve to get what I want when I want it?” Smutlana uses druidcraft to draw a portrait-frame-sized rainbow spore Enso into the air using the head of Nekropoietes, and then poses within the circle before it floats into the shape of a heart and disappears.
+Nevaeh (Alicia) — 03/22/2023 1:00 AM
+(Okay, maybe you guys are speaking sweet nothings while Nev and Kaz are heading to the library.)
+Odo Falcanspur (Mike) — 03/22/2023 1:00 AM
+(HAHAH YESS)
+John Dungeon Master — 03/22/2023 1:08 AM
+Nev and Kaz head down to the library. The Archivist Leltora Hightop is a Centaur. She stands at a specially-made desk in her studiolo with the door open to the main library room. Her assistant, a human woman named Marv sits at desk next to the entry door. She welcomes you and has you write your names etc in a book.
+Nevaeh (Alicia) — 03/22/2023 1:10 AM
+(!!!)
+(A Centaur.)
+John Dungeon Master — 03/22/2023 1:11 AM
+(They are way less common in the planes than Bariaurs)
+Nevaeh (Alicia) — 03/22/2023 1:11 AM
+Play it cool Nev
+(I have never heard that word before. Bariaurs. Gonna google.)
+John Dungeon Master — 03/22/2023 1:13 AM
+Her long brown hair is up in an elaborate mound of braids. Her horse portion is gray and she wears a brown tunic of coarse looking, probably homespun
+(You’ve definitely heard it from me because I’ve said it hehe)
+Nevaeh (Alicia) — 03/22/2023 1:14 AM
+(I recall nothing.)
+John Dungeon Master — 03/22/2023 1:16 AM
+(There have been bariaur NPCs in Sigil and you once saw a trio of bariaur street acrobats)
+Nevaeh (Alicia) — 03/22/2023 1:16 AM
+(Ohh okay)
+John Dungeon Master — 03/22/2023 1:16 AM
+(One tried to offer his services as a tout on your first day in Sigil)
+Nevaeh (Alicia) — 03/22/2023 1:17 AM
+(How tall is Archivist Leltora?)
+(I remember that now)
+John Dungeon Master — 03/22/2023 1:19 AM
+(About 7 feet)
+Nevaeh (Alicia) — 03/22/2023 1:23 AM
+(While signing the book can I get a glance of some of the other names on the list?)
+Kasma "Kaz" Planewalker — 03/22/2023 1:39 AM
+Kaz signs the book as well, trying hard not to stare at Leltora
+Nevaeh (Alicia) — 03/22/2023 2:09 AM
+Nev whispers "She's incredible, right?"
+Kasma "Kaz" Planewalker — 03/22/2023 11:42 AM
+“Oh absolutely. I wonder where she’s from.” Kaz responds telepathically
+Nevaeh (Alicia) — 03/22/2023 11:59 AM
+Looking to Leltora and Marv, Nev says "Hi, I'm Nevaeh, nice to meet you." She puts out her hand "Would you be able to direct me to your books on Shar, specifically, Shar cultists? And, by chance have either of you heard the name Excessera before?"
+John Dungeon Master — 03/22/2023 11:13 PM
+Marv says, “Shar? I’m sorry but not sure who that is”
+Leltora comes out of her office. Her eyes you see are milky white and she doesn’t look directly at you. She says “Shar is a power of darkness. We don’t have and detailed works on her cult. The archmage has already asked me to search for information.” 
+Nevaeh (Alicia) — 03/22/2023 11:19 PM
+"I guess that's probably a good th..."
+"Oh, alright." (Is she being legit? Are milky white eyes weird?)
+John Dungeon Master — 03/22/2023 11:21 PM
+(Roll a medicine check)
+Nevaeh (Alicia) — 03/22/2023 11:21 PM
+(WOO)
+John Dungeon Master — 03/22/2023 11:21 PM
+(And an insight check)
+Nevaeh (Alicia) — 03/22/2023 11:21 PM
+(24 medicine, and holy fuck natural 20 on insight for a 25)
+(quick, someone get me some lottery tickets)
+John Dungeon Master — 03/22/2023 11:23 PM
+(You’re sure she’s being forthright. And she’s apparently blind)
+Nevaeh (Alicia) — 03/22/2023 11:24 PM
+(how do I approach this question...lol)
+(Okay, can't do it. Nev wouldn't ask her how she can read cuz that's rude AF)
+"Mmm...the name Excessera come up at all in your reading?”
+Nevaeh (Alicia) — Yesterday at 12:32 PM
+(Update, found my notes from our first time in Sigil and all I wrote was "Barriar(sic) like a Faun")
+John Dungeon Master — Yesterday at 12:32 PM
+(They’re like goat centaurs)
+John Dungeon Master — Yesterday at 5:38 PM
+She thinks for a moment and then goes and retrieves an old book from a shelf in her office and pages through it.
+Kasma "Kaz" Planewalker — Yesterday at 5:56 PM
+(Would Kaz have any idea how blind researchers handle not being able to see the books?)
+John Dungeon Master — Yesterday at 5:58 PM
+(No but I think you might guess that magic could help)
+Nevaeh (Alicia) — Yesterday at 6:01 PM
+Nev holds her breath
+John Dungeon Master — Yesterday at 6:15 PM
+“Perhaps you mean Excrecera el Nerishi? According to Ulmolok,” her gesture indicates she’s referring to the author of the book, “she was the high priestess of a very important temple to this power, but this tome was written 40 years ago.”
+Kasma "Kaz" Planewalker — Yesterday at 6:54 PM
+Kaz looks over in surprise. "Really? May we see that book?"
+John Dungeon Master — Yesterday at 6:59 PM
+She says “please” and steps aside.
+Kasma "Kaz" Planewalker — Yesterday at 7:02 PM
+Kaz takes the book with a quick "thank ye" before passing it off to Nevaeh. "Would you happen to have anythin' about the Chasm of Utmo, or about lords of the Abyss bein' summoned to Toril as well?"
+Nevaeh (Alicia) — Yesterday at 7:05 PM
+(oh hell yeah)
+"Thank you so much! This is perfect." She bounces away.
+Nev is going to immediately start thumbing through and look for missing/torn pages, before actually sitting down to start reading.
+John Dungeon Master — Yesterday at 7:12 PM
+She pulls out a brand new looking book entitled “On the Incursion of Abyssal Demons within the World Beneath”
+She hands it to Kaz.
+Kasma "Kaz" Planewalker — Yesterday at 7:19 PM
+Kaz takes it with a grateful smile. "Thank ye. We'll start with these"
+She heads over to a pair of well-cushioned chairs, with a little table between them. "I figure we'll each take one of the books, and compare notes afterward?" she asks Nevaeh
+Nevaeh (Alicia) — Yesterday at 7:21 PM
+"Perfect."
+(Now watch as Nev takes twice as long to get through her content than it takes Kaz, while Kaz also probably takes incredible notes)
+Kasma "Kaz" Planewalker — Yesterday at 7:23 PM
+(I mean, Kaz is the trained scholar of the group)
+John Dungeon Master — Yesterday at 7:24 PM
+On the contrary, Nev finishes quite quickly, because this tome is an overall description of the powers of Toril and their known proxies, so most of it is known to you already and 40 years out of date and you just skip over it
+Nevaeh (Alicia) — Yesterday at 7:24 PM
+(most of it)
+Odo Falcanspur (Mike) — Yesterday at 7:25 PM
+📚📖
+John Dungeon Master — Yesterday at 7:27 PM
+There is one chapter on Shar. It covers basics that you already know as a Selunite. It also lists some info about major temples and servants in Faerûn and elsewhere. Excrecera was apparently the high priestess, the dancer before the dawn, of the temple of old night in Calimport. But this was 40 years ago, and at that point, based on the chronology in the book, she had been in the position for 20 years.
+The Temple of Old Night is underground and stretches over a considerable region of the city
+(Now I’m going to just point out, I could swear you had heard this name before in our adventure, but I just can’t remember for sure. But I just want to give you a chance to check your notes if you want to)
+Kasma "Kaz" Planewalker — Yesterday at 7:31 PM
+(We have. She was the one with Asger when he captured Kaz's dad)
+Nevaeh (Alicia) — Yesterday at 7:31 PM
+(Yeah, I dug that out of my notes this morning)
+John Dungeon Master — Yesterday at 7:32 PM
+(Ok I thought so)
+Nevaeh (Alicia) — Yesterday at 7:32 PM
+(well "Excessera" not Excrecera lol)
+Kasma "Kaz" Planewalker — Yesterday at 7:32 PM
+(That's all we knew about her though afaik)
+John Dungeon Master — Yesterday at 7:32 PM
+(You definitely would have heard Excrecera)
+Nevaeh (Alicia) — Yesterday at 7:33 PM
+(I'm just saying that's how I wrote it lol. Is Calimport still a bustling city, or a ruin?)
+John Dungeon Master — Yesterday at 7:33 PM
+(Calimport is the city that Smutlana comes from)
+Nevaeh (Alicia) — Yesterday at 7:39 PM
+(Why wouldn't Nev have heard about her in her studies, did she not make that much of an impression? Or is it possible she did read about her and just plum forgot? High Priestess of Shar seems important. But that is a long time ago.)
+John Dungeon Master — Yesterday at 7:43 PM
+(I think you rolled low on a history check when you first heard the name.)
+Nevaeh (Alicia) — Yesterday at 7:43 PM
+(I would not be surprised)
+John Dungeon Master — Yesterday at 7:43 PM
+(Roll another check now though)
+Nevaeh (Alicia) — Yesterday at 7:44 PM
+(23 lol)
+John Dungeon Master — Yesterday at 7:44 PM
+(You remember the names of the last five high priestesses of Shar, none of them is Excrecera)
+(Also, while this high priestess is very important, they’re not like the pope in the sense of being in charge of the whole religion.)
+Nevaeh (Alicia) — Yesterday at 7:48 PM
+(Anything in here talk about what happened to her, or would I know where to look for info like that? Like, would she stay in that role until she died or?...)
+John Dungeon Master — Yesterday at 7:50 PM
+(No this book seems to be too old)
+(Ok so Kaz reads the other book. It was written by a gentleman historian named Donarvarus in the city of Mirabar in 1493 (last year))
+(There is a lot of info in this book about the demons, collected from interviews with travelers and adventurers and officials. The author seems to have had a wizard friend connected to the lords alliance and some dwarvish contacts. It’s not clear how much exaggeration and speculation went into it. But you get a lot of info about the demon incursion.) 
+(Basically for a few months, a lot of very bad demons, lords of the abyss, were wandering around the underdark.)
+Kasma "Kaz" Planewalker — Yesterday at 7:56 PM
+(Does Donarvarus explain how they got there, or where they started off in the Underdark?)
+John Dungeon Master — Yesterday at 7:56 PM
+(If you have any specific questions let me know but you can write down that you read about this too)
+(There are theories but nothing certain, but it is known that they first arrived in the Drow city of Menzobarranzan)
+Kasma "Kaz" Planewalker — Yesterday at 7:59 PM
+(Where is Menzobarranzan, in relation to the overworld?)
+John Dungeon Master — Yesterday at 8:02 PM
+(It’s actually only about 50 miles north by north west from Silverymoon)
+(But far far underground)
+Kasma "Kaz" Planewalker — Yesterday at 8:02 PM
+(Mmmmm)
+John Dungeon Master — Yesterday at 8:04 PM
+(You do see some theories about the Faerzress making it possible for such a large incursion to happen)
+Kasma "Kaz" Planewalker — Yesterday at 8:04 PM
+(What is/are the Faerzress?)
+John Dungeon Master — Yesterday at 8:05 PM
+(The strange magical energy that pervades the underdark. You encountered it before.)
+Kasma "Kaz" Planewalker — Yesterday at 8:08 PM
+(…when? I don’t think you ever mentioned it by name)
+John Dungeon Master — Yesterday at 8:08 PM
+(It was in the claw ring cavern outside the entrance to Terziovoratir’s lair)
+(I’m pretty sure I remember saying the name, but it’s possible I didn’t)
+Kasma "Kaz" Planewalker — Yesterday at 8:12 PM
+(I remember he had a special reason for choosing that cavern, but I thought it was just that he was interested in planar lore and it was the Uvorin Decemvirate offices)
+Kaz looks up from her book and turns to Nevaeh. “Assumin’ Torbold is right, and that whatever the baatezu are plannin’ has somethin’ to do with the tenar’ri summoning, the Chasm of Utmo might be somewhere near Silverymoon”
+“Well, relatively speakin’, anyway”
+Kasma "Kaz" Planewalker — Yesterday at 8:20 PM
+(I’m assuming the book doesn’t mention any Chasm of Utmo?)
+John Dungeon Master — Yesterday at 8:22 PM
+(It doesn’t)
+Nevaeh (Alicia) — Yesterday at 11:27 PM
+"Well...we did hear all that craziness going on on our way there the last time. Though I thought that was just related to the recent happenings....but what if we were close and didn't even know it?"
+(also, Nev shared what info she found that was new to her as soon as she started reading it, just reading out loud and messing up Kaz's rhythm probably, and then went to find a YA romance novel)
+John Dungeon Master — Yesterday at 11:37 PM
+(They do have some fiction literature here, for recreational reading. Books from many worlds have been collected here.)
+Nevaeh (Alicia) — Yesterday at 11:40 PM
+"Excuse me, but do you carry Tusk Love?" :snicker:
+(oh! I wanna ask the ladies which fiction books they recommend and I'll grab one of each recommendation.)
+John Dungeon Master — Yesterday at 11:47 PM
+(The funny thing is that they might have tusk love because in theory it could have been brought from Exandria, but since Nev has never been to Exandria, I’ll assume that was a joke lol)
+Nevaeh (Alicia) — Yesterday at 11:50 PM
+(I'm just happy to know it exists out there somewhere)
+John Dungeon Master — Yesterday at 11:53 PM
+Marv and Leltora are happy to make recommendations. Marv recommends a popular tale of courtly love. Leltora recommends a trilogy of plays called “The Fall of Garden Home” from the world of Dova. Marv whispers to you that all the characters end up tragically dying at the end of the 3rd play and recommends not reading that one. 
+Nevaeh (Alicia) — Yesterday at 11:54 PM
+gasp
+"...maybe just the first two plays"
+I'll take the trilogy to not offend Leltora and Marv's recommendation.
+Nev wants to sit and chitchat with them a bit about their favorite books, spend like 20 mins gabbing.
+(assuming they don't get bored of her immediately lol)
+John Dungeon Master — Yesterday at 11:57 PM
+Marv is happy to, Leltora has work to do
+Nevaeh (Alicia) — Yesterday at 11:57 PM
+(Works for me!)
+Kasma "Kaz" Planewalker — Yesterday at 11:58 PM
+Kaz is a bit thrown by Nev’s initial interruption, but she studiously bookmarks her journal and her book to listen attentively. She finishes her own book after another hour or two of reading, stands, stretches, and joins Nev and Marv at their table.
+Nevaeh (Alicia) — Yesterday at 11:59 PM
+"Kaz, do you read for fun?"
+Kasma "Kaz" Planewalker — Today at 12:00 AM
+She brightens. “Oh all the time! Well, all the time before…” she thinks for a moment, “before the Conclave, honestly”
+Nevaeh (Alicia) — Today at 12:01 AM
+"I just don't think I've seen you read anything...ya know...that wasn't super serious. Maybe today would be a good day to pick up something...light? fun? What did you used to like reading?"
+Kasma "Kaz" Planewalker — Today at 12:03 AM
+“Mostly adventure novels, though I could be swayed by the odd play.”
+She drums her fingers against her lips. “I really liked The Feywild Chronicles and The Casebooks of Kael the Wizard when I was little.” She chuckles. “Still do, to be honest. I like books aimed at children. There’s no contrived romantic subplots or needless adult drama, just a good old-fashioned, larger-than-life adventure. And it’s nice to take a break from all my ‘super serious’ books” 
+Nevaeh (Alicia) — Today at 12:24 AM
+Tucking the romance novels behind her, "I loved The Casebooks of Kael too! Oh my goodness, I probably read them a dozen times! Kael's growth as a character was so...inspiring. And the twists and turns are so good."
+Kasma "Kaz" Planewalker — Today at 12:44 AM
+Kaz grins, excited and open. “Really? Oh, I know! I love how Trick decides to abandon the Thieves’ Guild and reveal herself as a spy at the end of the first book. And then they start workin’ together in the sequels!” She bounces on the balls of her feet.
+Nevaeh (Alicia) — Today at 12:58 AM
+"Yes! I did not see that coming, it was awesome. I loved their banter in the later books. So many good zingers. I'd run around my neighborhood quoting them and pretending I was also going on the same adventures. But, ya know, not too far from the house. Had to be home before dusk." She giggles thinking about it "Did you and your friends recreate any of the adventures?"
+Kasma "Kaz" Planewalker — Today at 6:33 PM
+“Some! Our favorite was the scene in the third book, where Kael infiltrates the Lord’s Palace with Trick’s help to chase down that counterfeiting ring. ‘Do you want my professional opinion on this piece, my lord?’ ‘I would’ ‘It’s worthless’ ‘I know, but do tell us anyway’” She changes her voice to imitate each character, shifting smoothly from ‘faux distinguished art critic’ to ‘lordly’, back to critic and then to ‘childlike’ before breaking off with a chuckle.
+Nevaeh (Alicia) — Today at 7:03 PM
+(Kaz and Nev are definitely going to be quoting books and goofing around on our way back to the room. 😂)
+Kasma "Kaz" Planewalker — Today at 7:05 PM
+(Oh 100%)
+Nevaeh (Alicia) — Today at 7:22 PM
+(If nobody else has anything that they wanted to do with this day in the RP channel then we could move on to the following day and I can get my spells cast to help figure out what we're going to do)
+Kasma "Kaz" Planewalker — Today at 7:22 PM
+(I’m down with that)
+Nevaeh (Alicia) — Today at 7:23 PM
+I think the rest of the day Nev would read and try to forget what awfulness they went through. The library trip helped.
+Kasma "Kaz" Planewalker — Today at 7:23 PM
+Kaz would spend at least part of the evening telling Angela what happened
+Maybe crying on her shoulder a lil
+Nevaeh (Alicia) — Today at 7:25 PM
+Yeah, I wonder what Angela has been up to. Hopefully making friends since she's gonna be here a while...
+Kasma "Kaz" Planewalker — Today at 7:28 PM
+Hopefully having more fun than us, too
+John Dungeon Master — Today at 7:35 PM
+She spent the day learning about the planes along with some of the new recruits
+Kasma "Kaz" Planewalker — Today at 7:37 PM
+Aww. That sounds fun
+Nevaeh (Alicia) — Today at 8:00 PM
+oh yeah...she's gonna need a planes crash course
+Should we be staying the night here at Brin's Haven or go back to Sigil?
+Kasma "Kaz" Planewalker — Today at 8:12 PM
+It's up to Nev, since she's the one who could cast Planeshift
+Nevaeh (Alicia) — Today at 8:15 PM
+If they'd let her keep an eye on Ganth she'd stay at Brins Haven't, but since they're noooot, she'd go with Sigil.
+(Haven't.)
+(I guess my phone doesn't think that Haven is a word)
+(So unless @Odo Falcanspur (Mike) or @Smutlana "Lana" Smutwhisper have any objections, we're heading back to Sigil and moving on to the next day)
+Odo Falcanspur (Mike) — Yesterday at 10:40 AM
+( I'm game to advance the day.  Odo would just want to check in with Sten and the Dragonborn dude whose name I forget.  See how Sten is doing specifically.  Then also thank Meilii)
+(oh and play marbles with Chazwick.  See if Odo can borrow a marble or two from Chazwick )
+( oh and also ask Chazwick if he's got any doodads that Odo could borrow that might be useful to borrow.  Like if we run into any more of Chazwicks creations what we should do instead of fighting them.  Learn me some things from Chazwick )
+( 20 to Persuasion for the Chazwick stuff )
+( dirty 20 )
+John Dungeon Master — Yesterday at 2:08 PM
+Sten and Asim are doing fine. Just training. 
+Smutlana "Lana" Smutwhisper — Yesterday at 11:51 AM
+Smutlana wants to go back to Sigil and spend some time at the sensate guild watching BBC nature docs in the cubes…
+Kasma "Kaz" Planewalker — Yesterday at 11:51 AM
+Niiiiiiice
+Smutlana "Lana" Smutwhisper — Yesterday at 12:05 PM
+During this time, could Smutlana have been reading up on any books they might have on lycanthropy? Smutlana is curious about the relationship of that phenomenon to wildshape, polymorph, etc
+And apparent connection of lycanthropy to moon stuff, like, why the moon specifically
+John Dungeon Master — Yesterday at 12:06 PM
+Sure
+Smutlana "Lana" Smutwhisper — Yesterday at 12:18 PM
+I imagine Odo would be interested in this as well. we've looked into it before to some extent in Sigil, I believe
+But this would be a more focused search
+John Dungeon Master — Yesterday at 12:21 PM
+So you find a book about lycanthropy. Some things are just mysterious like the connection to the full moon. It is technically a curse, but in some communities is is treated as sacred.
+There are some formed that are more prone to evil and others more prone to goodness
+Any other specific questions?
+Smutlana "Lana" Smutwhisper — Yesterday at 12:42 PM
+What specific boons and banes are conferred upon those afflicted by lycanthropy? Extended life span? Strength to certain things, vulnerability to others? Under what conditions can they morph? Is this more nature-related or magic-related, or both? Is it mediated by Gods and/or Nature?
+How does the lycanthropy work, to what extent and under which conditions can it be controlled or uncontrolled?
+John Dungeon Master — Yesterday at 12:43 PM
+Lycanthropes in animal form cannot be harmed by physical weapons unless they are silver (or magical)
+Smutlana "Lana" Smutwhisper — Yesterday at 12:44 PM
+Are there different creature-types or conditions of getting lycanthropy that have different effects? If you're turned by an evil person, are you evil when you turn into the animal?
+It seems that lycanthropes can do two forms - humanoid hybrid or full animal - how does this compare to wildshape or polymorph with respect to gear and stuff, and do all lycanthropes have both forms or sometimes just one or the other?
+John Dungeon Master — Yesterday at 12:45 PM
+In the wide universe, there are many varieties of lycanthropy and the books here can’t begin to cover them all. Many things are possible
+Smutlana "Lana" Smutwhisper — Yesterday at 12:45 PM
+For sure, but for the books that are here, at least
+John Dungeon Master — Yesterday at 12:46 PM
+In some cases it takes over the mind of the lycanthrope and in other cases there is a measure of control over partial or full form changing.
+John Dungeon Master — Yesterday at 1:54 PM
+Ok so did that answer your questions?
+Smutlana "Lana" Smutwhisper — Yesterday at 3:01 PM
+Want to know if dif types animals gravitate toward different alignments, gods, traits, lifestyles, geographic areas, etc
+John Dungeon Master — Yesterday at 3:02 PM
+Yes
+Smutlana "Lana" Smutwhisper — Yesterday at 6:50 PM
+Any specifics? The focus is on BEARS
+John Dungeon Master — Yesterday at 6:52 PM
+Yes, Werebears tend to be good more often than not. The specifics of their communities vary depending on the world. Some only pass on the lycanthropy to their direct descendants. Others take on “apprentices” who learn the ways under the “master” for years
+
+
+
+John Dungeon Master — Yesterday at 2:08 PM
+So Torbold comes to find you all before you leave. He has Boswell and Leehan the bard with him.
+Torbold says “Unfortunately, we can’t rely on Ganth right now to point the way forward. I’ll admit I’m not sure what to make of all the clues. It seems that something is going to happen on your home world but we don’t know exactly when or where? Is that right?” 
+Kasma "Kaz" Planewalker — Yesterday at 2:33 PM
+“Yes. And whatever it is, it will somehow remove the opposing Lords of the Abyss as a threat to the baatezu’s plan”
+John Dungeon Master — Yesterday at 2:38 PM
+“So,” he looks around at everyone, “we need to find out whatever we can about this Baatezu plot. Boswell, lets have all of our teams focus on that.” 
+Kasma "Kaz" Planewalker — Yesterday at 2:39 PM
+Kaz nods. “We’ll focus on finding where the Chasm of Utmo is on our world”
+John Dungeon Master — Yesterday at 2:40 PM
+Leehan speaks up, “I wonder, would you need to know exactly where it is? You can plane shift.”
+Kasma "Kaz" Planewalker — Yesterday at 2:43 PM
+She raises her eyebrows, then digs through her journal for her research notes on Planeshift. “Huh. That’s a good point. Hopefully we wouldn’t end up fallin’ down the chasm itself, or in the middle of a drow city, but...” she trails off, thinking
+John Dungeon Master — Yesterday at 2:47 PM
+“Kezzekek, sometimes just knows the name of a place when he shifts us,” He strokes his chin fur, and looking at Boswell for confirmation “but the less he knows, the longer we usually have to walk to get where we’re going… you being from that world would probably help, I believe…”
+Nevaeh (Alicia) — Yesterday at 3:01 PM
+(so this is what it's like to come back to a day of me and Hannah RPing lol)
+Kasma "Kaz" Planewalker — Yesterday at 3:11 PM
+Kaz turns to the rest of the party. “Should we set off for the chasm tomorrow, then, once Nev and I have our energy back?”
+Nevaeh (Alicia) — Yesterday at 3:14 PM
+"No rest for the wicked."
+Kasma "Kaz" Planewalker — Yesterday at 3:16 PM
+She sighs. “Aye. I know we talked about takin’ a spa day in Elysium after all that, but I don’t like leavin’ our home so vulnerable. Maybe we could go to the spa in Sigil tonight instead?” 
+Nevaeh (Alicia) — Yesterday at 3:19 PM
+"I'm just being dramatic." She feigns fainting. "I'd like to stop by The House of the Moon as soon as possible and check out whatever is going on with this chasm."
+Kasma "Kaz" Planewalker — Yesterday at 3:20 PM
+“Maybe we should Planeshift to the chasm first, though? That way, we’d have more information to look up at the House of the Moon”
+Nevaeh (Alicia) — Yesterday at 3:21 PM
+"Okay"
+Nevaeh (Alicia) — Yesterday at 5:01 PM
+(Do we want to talk to Lady R when we do get back to Sigil?)
+John Dungeon Master — Yesterday at 5:52 PM
+Leehan says, “let’s connect so we can stay in touch.” He points to his eyes.
+Kasma "Kaz" Planewalker — Yesterday at 5:52 PM
+(Let’s handle the Chasm first, since it sounds like Asger will be there soon)
+Kaz nods, stepping forward. Once the connection is made, she steps back again. “Nev? Would you like to connect as well?”
+Nevaeh (Alicia) — Yesterday at 6:04 PM
+"Sure. Of course."
+John Dungeon Master — Yesterday at 6:06 PM
+He has green cat eyes. He chats charismatically while making eye contact
+Nevaeh (Alicia) — Yesterday at 6:08 PM
+"Would it be okay to stop by Ganth's room before leaving. I promise I won't wake him. I just want to check in on him, myself."
+John Dungeon Master — Yesterday at 6:10 PM
+Torbold says “sure, let’s go” and turns toward the stairs.
+You get to his room and you see Nora, Leehan’s wife standing in the hall outside the door along with a gray-haired female halfling who is wearing a necklace
+The necklace has a symbol like this on it
+They seem to be discussing Ganth’s condition quietly
+Nevaeh (Alicia) — Yesterday at 6:15 PM
+Does Nev recognize that?
+John Dungeon Master — Yesterday at 6:15 PM
+Roll a religion check
+Nevaeh (Alicia) — Yesterday at 6:16 PM
+Dirty 20
+John Dungeon Master — Yesterday at 6:18 PM
+You have seen this before. Captain Cloudsilver wears a little pin that looks like this on his uniform
+It’s not a deity you’re familiar with from Faerûn though
+Nevaeh (Alicia) — Yesterday at 6:19 PM
+So it is a religious symbol but I'm not familiar with it
+Nev will (re)introduce herself.
+John Dungeon Master — Yesterday at 6:22 PM
+Torbold says “Nevaeh, this in Niamh (gestures to the halfling) our chief healer, and” he sees Nev’s look of recognition toward Nora. “oh you two have met.” They greet you.
+Torbold says “Niamh this is Nevaeh Moonstar of Toril, she’s well learned in the arts of healing and would like to have a look at Ganth before she leaves” 
+Nevaeh (Alicia) — Yesterday at 6:25 PM
+(ooo she's the one, neat) 
+"I'm sure he's in very capable hands. No doubt."
+John Dungeon Master — Yesterday at 6:27 PM
+“He’s quite unconscious, but please do.” She gestures for you to go in and opens the door for you.
+Nevaeh (Alicia) — Yesterday at 6:27 PM
+"I understand." 
+(Are they letting me go in alone?)
+John Dungeon Master — Yesterday at 6:28 PM
+They seem to be coming in after you
+When you enter the room you see an elf is sitting by his bedside, and he stands up when you enter
+The room is totally spartan. Ganth lies there apparently in deep sleep. 
+Kasma "Kaz" Planewalker — Yesterday at 6:30 PM
+(Could just be a private hospital room?)
+John Dungeon Master — Yesterday at 6:31 PM
+(It’s his dwelling)
+Nevaeh (Alicia) — Yesterday at 6:31 PM
+(No time to decorate when you're saving the universe, I guess)
+Nev will give a little bow and wave to the elf.
+John Dungeon Master — Yesterday at 6:32 PM
+He nods back and looks to the others
+Nevaeh (Alicia) — Yesterday at 6:33 PM
+"May I?" she motions to his spot
+John Dungeon Master — Yesterday at 6:34 PM
+He gestures to invite you to approach
+Nevaeh (Alicia) — Yesterday at 6:36 PM
+She nods and goes to crouch down at the side of his bed 
+(Does he just look like he's sleeping?)
+John Dungeon Master — Yesterday at 6:36 PM
+(Make a Medicine check)
+Nevaeh (Alicia) — Yesterday at 6:37 PM
+(23)
+John Dungeon Master — Yesterday at 6:44 PM
+He seems to be enervated as a result of magical strain. It can really only happen to very powerful spell casters who have learned how to exceed the normal limits on magical exertion. It’s usually not fatal
+Nevaeh (Alicia) — Yesterday at 6:50 PM
+(Like, drained to the point of unconsciousness?)
+Smutlana "Lana" Smutwhisper — Yesterday at 6:52 PM
+Nevaeh, is there a way for you to determine if the damage from magical over-exertion is to the physical body, or also to the soul? (Can Smutlana roll to check one or the other?)
+John Dungeon Master — Yesterday at 6:54 PM
+(Sure, medicine or arcana)
+Smutlana "Lana" Smutwhisper — Yesterday at 6:55 PM
+19 Med, 6 arc
+John Dungeon Master — Yesterday at 6:58 PM
+(It may be a mixture, it’s hard to know for sure)
+Nevaeh (Alicia) — Yesterday at 6:59 PM
+Nev's just gonna look back to the group for a second and then start in on a whispered prayer, just kinda between her and Ganth.
+(also, I have a thing for this)
+"Moonlight shines amid the summer grass, 
+It sways with the gentle touch of winds 
+The moonlight shines beside you, above you, around you, 
+Absolving all your sins 
+
+Rest easy now, my gentle soul: The goddess is all-forgiving 
+She leaves you this forever jewel, 
+The remaining pulse of warmth worth living.
+
+So search no deeper than your sleep 
+To bring you what you're seeking."
+
+And then she'll set down her last moonstone next to him.
+(100% found that poem with just a few minor edits in the book I'm reading and I was like 'I gotta save this')
+John Dungeon Master — Yesterday at 7:03 PM
+(Nice)
+Smutlana "Lana" Smutwhisper — Yesterday at 7:04 PM
+Smutlana pinches his beak repeatedly in thought, and turns to Niamh. “You know, it looks like this body is worse for wear, but that need not be a hindrance. With a new physical vessel for his soul, Ganth could probably be in much better shape.”
+John Dungeon Master — Yesterday at 7:05 PM
+Make an insight check
+Smutlana "Lana" Smutwhisper — Yesterday at 7:06 PM
+16
+John Dungeon Master — Yesterday at 7:06 PM
+You can see that she is staring back at you and is having a hard time fighting off a look of horror.
+“Excuse me?”
+She’s eyeing your staff
+Smutlana "Lana" Smutwhisper — Yesterday at 7:09 PM
+“Niamh, you look perturbed. I’m sorry if I upset you. I’m not sure if you understand, but let me see if I can clarify something for you. Souls are connected to bodies, but they are indeed separate and distinct entities. Were you already aware of this?”
+John Dungeon Master — Yesterday at 7:10 PM
+Torbold says, “Lana, Niamh is a priestess of Celestian, she’s well versed in Soul-lore” 
+Smutlana "Lana" Smutwhisper — Yesterday at 7:11 PM
+“Then how replaceable is Ganth for the Watchful Voyagers? If he expires, what is the plan to maintain Brinshaven?”
+John Dungeon Master — Yesterday at 7:15 PM
+Torbold says “It should last around a year past his death. But some of its magic, like the lift plates would stop working sooner than that, he thinks. We’ve had these discussions… we would have to relocate but we wouldn’t suddenly explode or anything.”
+Kasma "Kaz" Planewalker — Yesterday at 7:15 PM
+Kaz winces. “Ganth is a person. We want to help him no matter how ‘replaceable’ he is. But…” she sighs. “Lana does have a point. And I’m glad to hear that everyone here would be safe regardless”
+John Dungeon Master — Yesterday at 7:18 PM
+Niamh says to Lana, “May I examine your staff?”
+Smutlana "Lana" Smutwhisper — Yesterday at 7:26 PM
+Smutlana turns to face the staff’s skull. “It’s fine, Neko. You’re safe with me.” Turning back to Niamh, he says “You may certainly examine the staff from where you are, but you must understand that this artifact, much like myself, is often misunderstood, and therefore maligned. It is best that those without proper attunement to the power of death preserve some separation between themselves and the artifact.”
+Nevaeh (Alicia) — Yesterday at 7:28 PM
+(Everyone is typing lol)
+Smutlana "Lana" Smutwhisper — Yesterday at 7:28 PM
+(Loooool ikr)
+John Dungeon Master — Yesterday at 7:28 PM
+She has a skeptical look on her face “Forgive me,” she makes eye contact pointedly with Torbold, “are you a… necromancer?”
+Smutlana "Lana" Smutwhisper — Yesterday at 7:30 PM
+“A necromancer? Not anymore so than you. In fact, the most powerful necromancer in this room… is her” Smutlana points the staff at Nevaeh.
+“But she doesn’t have a staff with a spooky skull on it, nor is she evil. Nor are you, nor am I.”
+Nevaeh (Alicia) — Yesterday at 7:31 PM
+Nev is not listening to any of this, she's focused on prayer
+John Dungeon Master — Yesterday at 7:33 PM
+(So, absolutely Smutlana would say that, but also, despite the fact that some good magic is classified as part of the school of necromancy, the term “necromancer” in common parlance still typically refers to one who primarily manipulates death, typically in unnatural ways e.g. animating zombies. Necromancers are assumed to be evil)
+(The idea of cleric resurrection spells as necromancy is purely academic to most people)
+Niamh says, “so you are a necromancer”
+Smutlana "Lana" Smutwhisper — Yesterday at 7:36 PM
+“I won’t mislead you with semantics. I’m not a necromancer at all. These mushrooms decorating my person are not just for show. I am a druid of the spores, a servant of the god Psilofyr. I am connected with The Circle, which contains both life, and death. I can turn one into the other, and back again.”
+John Dungeon Master — Yesterday at 7:36 PM
+(Make a persuasion check)
+Smutlana "Lana" Smutwhisper — Yesterday at 7:37 PM
+“I don’t animate the dead and create undead zombies, this is certain. When Nevaeh finishes the prayer, she can confirm this. Even she didn’t believe me and had to verify for herself.”
+(Could I roll with advantage? Is anyone in the party gonna back Smutlana up?)
+(1 with no advantage, 19 with advantage)
+John Dungeon Master — Yesterday at 7:39 PM
+Actually Torbold says “It’s true, Guided One, Ganth has confirmed it”
+(I had started typing that before you said you got a 1 so that was not a bail out, just fyi, lol)
+Smutlana "Lana" Smutwhisper — Yesterday at 7:40 PM
+“In fact, I am diametrically opposed to undeath. I command life and death, that is all. Undeath is an abomination.”
+John Dungeon Master — Yesterday at 7:41 PM
+She nods at Torbold and you and then dead eyes the staff, which for just a moment almost seems to be looking back at her.
+She breaks eye contact.
+Smutlana "Lana" Smutwhisper — Yesterday at 7:46 PM
+Smutlana taps the staff twice on the ground and gives it a hearty little noogie on the head 
+“As I was saying, life to death and back again, wasn’t it? If Ganth needs a new physical vessel for his soul, I’d be happy to make one. Can’t say it wouldn’t be painless, both for the body and the soul… proooooobably excruciating for both… but we could pull it off if needed.”
+“Smutlana Smutwhisper of the Spooky Spores and Skulls, at your service.”
+John Dungeon Master — Yesterday at 7:49 PM
+Torbold just smiles and says “Thanks but, hard pass”
+Smutlana "Lana" Smutwhisper — Yesterday at 7:54 PM
+“For sure! But if Ganth dies and the demons and devils invade all the planes as a result of your inaction, then I suppose that’s just more corpses for the spores, right? All in service to The Circle. Bit of a waste of all that flesh though. And the devils will probably capture a lot of the souls and do a bunch of weird torturous shit, but… what do I know? I’m the weirdo with the skull staff and ‘bad aesthetics’.” Smutlana does the double quote bunny ears motion with his fingers for the last part
+John Dungeon Master — Yesterday at 7:56 PM
+Torbold’s smile fades
+Nevaeh (Alicia) — Yesterday at 7:56 PM
+"Who says you have bad aesthetics?" Nev says as she stands up.
+Smutlana "Lana" Smutwhisper — Yesterday at 7:57 PM
+Smutlana cackles “Basically everyone… until they try one of my sporific savory Mooncakes, that is.”
+Nevaeh (Alicia) — Yesterday at 7:58 PM
+(what spell is Lana trying to say they can use on Ganth?)
+Smutlana "Lana" Smutwhisper — Yesterday at 7:59 PM
+Smutlana pulls some out of a clean linen napkin and tries to pass them around 
+
+Smutlana "Lana" Smutwhisper — Yesterday at 7:59 PM
+(Reincarnate)
+John Dungeon Master — Yesterday at 7:59 PM
+(Note that the target has to be dead)
+Smutlana "Lana" Smutwhisper — Yesterday at 8:00 PM
+(Yeah, we’d have to kill ‘em first. I said it would be painful)
+(Would be fun to RP)
+Nevaeh (Alicia) — Yesterday at 8:02 PM
+(does the soul have to be willing?) 
+(Nvm it does.)
+John Dungeon Master — Yesterday at 8:02 PM
+Nora says, “His soul is very weary, I’m not at all sure he’d be able to come back at all, and even if he did, the magical strain can’t be cured that easily” 
+Nevaeh (Alicia) — Yesterday at 8:08 PM
+"Not everyone is meant to come back. And most don't even get the chance. And for many, like Ganth, it will finally be peace for body and soul. Life keeps on moving forward, and we shouldn't be making people feel bad for the decisions they make surrounding their deceased loved ones."
+Smutlana "Lana" Smutwhisper — Yesterday at 8:11 PM
+“I don’t really know Ganth or what he wants. All I know is that we can’t let these demons and devils win. But if there’s anything we could have done to prevent that, and we didn’t, well then I know my soul couldn’t rest in peace.”
+Nevaeh (Alicia) — Yesterday at 8:13 PM
+"That's cruel, Lana. We could say that about anyone. The children down the street could be the key to this fight. We don't know. No one knows. We have to do our best with or without him."
+Smutlana "Lana" Smutwhisper — Yesterday at 8:15 PM
+“That’s all I meant, Nev. Was that we have to do our best. And I’m willing to do my smuttiest to help in any way that a dirty little kenku can.”
+John Dungeon Master — Yesterday at 8:16 PM
+Nora nods and smiles at Nev
+Nevaeh (Alicia) — Yesterday at 8:16 PM
+"You've offered, and they said no. Making them feel bad for that decision is wrong. That's what I'm trying to say."
+Putting her hand on Lana's beak "I know you want to help however you can, I do too. But we have to respect the decisions of others. Like how I don't try to convert you and you don't try to convert me because we have mutual respect for each other's beliefs. We'll just...have to find another way. It's a whole new puzzle to solve, is all."
+Smutlana "Lana" Smutwhisper — Yesterday at 8:24 PM
+“I know you mean no harm, and neither do they. And neither do I.  But when I offer help and I get accused of necromancy in return, which you know I despise, I’m gonna retaliate just a little bit; ya know? Just a little bit.”
+John Dungeon Master — Yesterday at 8:26 PM
+Smutlana’s ebon skull-crowned staff of death for just a moment seems to be looking at Nev.
+Nevaeh (Alicia) — Yesterday at 8:27 PM
+"I know that hurts your feelings. We may just have to get used to that if you're going to keep that staff around. I don't think retaliation is the answer though, especially not with these people that have been so kind and helpful to us, right?"
+(can I feel that? Like does it feel like coldness or something?) 
+John Dungeon Master — Yesterday at 8:28 PM
+(No it’s just a skull, it’s silly to think it was looking at you it doesn’t have eyes)
+Smutlana "Lana" Smutwhisper — Yesterday at 8:32 PM
+“Yeah you’re right. Sarcasm is just passive aggression dressed up in a tutu.” Smutlana turns to look at the skull “I know, I know. But that doesn’t mean there’s anything wrong with wanting to wear tutus, that’s beside the point here.”
+Kasma "Kaz" Planewalker — Yesterday at 8:32 PM
+Kaz has remained mostly quiet throughout the conversation, looking towards Ganth's room with a worried, melancholic expression. Abruptly, she says "Torbold, Nora, I assume you've had a similar conversation with Ganth before now. What does he want? Is there truly no other good option than for him to work himself to death on our behalf?"
+She turns to look at the rest of the group. "I'd ask him myself, but, well..."
+John Dungeon Master — Yesterday at 8:36 PM
+Torbold says, “He just needs to stop trying to do everything himself.”
+“When he wakes up I’m not letting him go on any more expeditions”
+Nevaeh (Alicia) — Yesterday at 8:37 PM
+"How do you plan on stopping him?" She realizes a moment later how rude, but funny, that question sounds.
+John Dungeon Master — Yesterday at 8:38 PM
+“I plan to say, ‘that’s a direct order’.”
+“Do you think it would help if I said it while wearing stilts?”
+Kasma "Kaz" Planewalker — Yesterday at 8:39 PM
+Kaz bursts out laughing.
+John Dungeon Master — Yesterday at 8:39 PM
+Nora giggles
+Nevaeh (Alicia) — Yesterday at 8:40 PM
+Nev laughs louder than is appropriate
+Kasma "Kaz" Planewalker — Yesterday at 8:40 PM
+"Isn't-" She gasps, then manages to continue "Isn't there a spell for that?"
+John Dungeon Master — Yesterday at 8:41 PM
+“I’m sure he’ll listen, he’s a very smart man and pure logic will help him see that he can’t do everything”
+“Can you make me giant-sized?”
+“Because I would love that”
+Kasma "Kaz" Planewalker — Yesterday at 8:43 PM
+She shakes her head, chuckling. "No, but I would if I could. Would be funny if he woke up to you bein' his height"
+Smutlana "Lana" Smutwhisper — Yesterday at 8:43 PM
+“I can make you giant-sized.”
+John Dungeon Master — Yesterday at 8:44 PM
+“Oh I’d prefer to be 12 or 15 feet tall and look down on everyone hahaha”
+“Really? Someday we’ll have to make that happen.”
+Nevaeh (Alicia) — Yesterday at 9:06 PM
+"It's not as fun as you might think, looking at the top of people's heads."
+Smutlana "Lana" Smutwhisper — Yesterday at 9:13 PM
+“Anything for you. We short-stacks gotta stick together.”
+John Dungeon Master — Yesterday at 10:02 PM
+(So do you guys head to Sigil?)
+Nevaeh (Alicia) — Yesterday at 10:16 PM
+(Yeah, I'm keeping my books too)
+John Dungeon Master — Yesterday at 10:18 PM
+(Ok let’s assume you get back to your home in Sigil and it’s the night of the 14th)
+Nevaeh (Alicia) — Yesterday at 10:30 PM
+(Anything weird going on at the house?)
+John Dungeon Master — Yesterday at 10:35 PM
+Eudora says,  “I was asked to let Mr. Jevren Zotwick know as soon as you all returned. Shall I?” 
+Kasma "Kaz" Planewalker — Yesterday at 10:36 PM
+"Aye, thank ye Eudora"
+John Dungeon Master — Yesterday at 10:39 PM
+Jevren arrives shortly thereafter and says “Are you all ok? We were all very worried about you” He looks concerned.
+Nevaeh (Alicia) — Yesterday at 11:07 PM
+"We're alright. By the grace of the Moon Maiden."
+John Dungeon Master — Yesterday at 11:16 PM
+“Captain Leagair Cloudsilver said that he had heard from you that you were in danger but then never heard anything else. He sent a messenger to inquire if we had heard from you. And he also asked to be informed when and if we hear tidings… also … the Lady Renalia was concerned. I’ve sent a message to see that she is also informed that you have returned.”
+Nevaeh (Alicia) — Yesterday at 11:18 PM
+John Dungeon Master — Yesterday at 11:19 PM
+Jevren definitely looks really awkward.
+Nevaeh (Alicia) — Yesterday at 11:24 PM
+"Um, please send immediate word to all involved that we're alright. But, we'll be leaving again tomorrow morning. Most likely."
+John Dungeon Master — Yesterday at 11:28 PM
+Just then, a page boy runs up to the front door, and seeing it open just runs in and hands Jevren a note and then immediately takes off. Jevren quickly opens it and looks up and says, “Lady Renalia is requesting an immediate meeting with you, if convenient.” He looks around wide eyed
+Nevaeh (Alicia) — Yesterday at 11:37 PM
+Whispers "No rest for the weary." 
+"I think we can make  time for the Lady now."
+John Dungeon Master — Yesterday at 11:38 PM
+(We can pick up there tomorrow)
+Kasma "Kaz" Planewalker — Today at 12:01 AM
+(Sounds good!)

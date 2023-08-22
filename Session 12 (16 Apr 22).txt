@@ -1,0 +1,455 @@
+﻿    • We finish having a funeral for Terzio, then see a bunch of flumph creatures float in and see FlipFloop’s corpse (the flumph that worked with Terzio). Nevaeh confirms that we didn’t kill the flumph, and they scoop up FlipFloop in their tentacles and leave.
+    • Kaz reads the Tome of Clear Thought for another 8 hr (She’s read it for 16hr total. It takes 48 hr to give the +2 int, also permanently increases your max int score to 22)
+    • (We “owe” Rezzorodroth 100,000 gold)
+    • We return to the cold “Infusion Room” to find out what’s inside. The first thing we notice is a 6ft tall metal brazier, with a low fuelless flame burning within. Inside the brazier is a sword, with a guard sculpted to look like flames. All over the right hand side of the room by the brazier is this brownish fungus. On the left side is a cylindrical object encased in ice, which fills that half of the room. There is a sharp divide between the mold and the ice.
+        ◦ Zug has heard of brown mold, always associated with cold underground areas. Brown mold is deadly cold to anything that touches it.
+    • Kaz holds Odo back from walking inside, uses Mage Hand to try to pull out the sword. The hand bumps into the fire, and it turns to look at the party. Kaz realizes its an elemental and uses her telepathy to communicate with it. Through yes-and-no questions, she learns that the elemental doesn’t speak Common, is trapped in the brazier (but not connected to the sword), and can be freed by pulling a fungus-covered lever on the wall.
+    • We realize swiftly that the brown mold is drawn to flames, but is repelled by cold. Kaz pieces together that there’s another elemental trapped in the ice half of the room
+    • We work with the fire elemental to enact a plan. Kaz uses her Dark Shard Amulet to cast Frostbite on the mold-covered lever, killing a 10-foot circle of mold. She then uses Mage Hand to pull the lever without entering the room. Once the elemental is free, Odo leaps into the icy half of the room, protected from the cold by the Necklace of Planar Adaptation, and uses a lasso to pull the brazier over to the ice elemental’s side of the room, melting the excess ice until we can pull the lever trapping the ice elemental. Once freed, both celebrate, thank us, then leave our plane of existence. Inside the ice elemental was a javelin with a handle sculpted to look like an icicle
+    • Both the sword and the javelin are obviously magical. Odo takes the sword once he realizes he can light it aflame for a few moments.
+    • We take a brief rest for Odo to attune to the sword. Kaz tries to send her father another message “Da. I’m okay. I’m still alive. I can do magic now, and I’m tryin’ to find out why. I’m sorry for scarin’ you,” but all she gets from him is more mumbling, and his worry that she’s okay.
+    • While we rest, we see the specter – a fairly young-ish humanoid man with a tortured expression, still crying out “Erfessa! I’m sorry!” Kaz can see one of the Uvorin Decemvirate stars pinned on its chest (but no necklace).
+    • We return to the blast door guarding the endopotentiation chamber, transplanar portal construction scrutatorium, and portal nexus. The white tendrils are back, but retreat when Zug uses Chill Touch on them. We pull the lever, and the blast door starts raising up.
+    • The tendrils have retreated down a 40ft long, 15ft wide hallway. On the right is a small door slightly open about 10 ft down, then a set of large double doors a further 10ft down, and a second blast door a final 10ft down. 
+    • There is a human skeleton lying on the floor about 10ft in front of us. Kaz and Nevaeh examine the skeleton, realize that it looks like it was pulled apart by something big. Suddenly, the specter manifests again, demanding to know what we’re doing with his bones. Kaz immediately backs off, apologizing. The specter kneels down by his own bones. “Erfessa, I couldn’t save you” it says, looking toward the slightly open door. Kaz suddenly recognizes its voice from one of the smoky glass spheres. She sees a ten-pointed star pinned to their chest, but can’t discern the color of any points. Nevaeh says a prayer for the lost soul, he looks at Selune’s symbol, and fades out as he finds peace.
+    • We look through the first door and see a 5ft wide hallway, leading to a set of stairs with a landing and another door labeled “Observation Room” in Loross. We unlock the far door with the keyring, find a swirling dark black cloud that starts to coalesce once we open the door. The figure that emerges seems feminine, though it’s hard to tell. On the floor are the remains of some ancient instrumentation, long destroyed, in front of a window overlooking a room below. There’s also a partially mummified skeleton.
+        ◦ Kaz’s best guess: Erfessa is some sort of spirit. Nevaeh figures out that this was a spirit that died in very bad circumstances, and something is preventing her from moving on to the afterlife (probably her inability to communicate whatever she’s trying to share)
+    • The black figure is not immediately threatening, mumbling to itself in Loross. Kaz can just pick up that it’s saying “I was riiight, I knew it, I knew it!, they wouldn’t listen… The conduit draws power from Exilicor but its also creating a local weakness in the phase boundary with the exogenous medium!!!”
+    • Kaz moves to the front and telepathically says “Congratulations on bein’ right! Why don’t you tell me more about your discoveries?” It slowly turns to stare at her and says “The net psychopotential gradient is oriented toward the ciscosmic domain!!! Exogenous entities … can … enter… EXILICOR could inwardly translocate…” Kaz is immediately fascinated, and asks “who or what could come through?” It freezes, seemingly distracted, and its voice whispers around the room. Kaz looks concerned “Are you okay? Erfessa?” The figure freezes, focusing on Kaz again as she hears her name. She continues “But….. thats not the worst of it….. no……. No….. when cis and trans cosmic entities exchange domains they undergo psychic inversion. Do you understand?? Exilicor could appear here … and AND AND AHHHHHHHHH” 
+    • Her voice echoes in the party’s minds, wracking them with pain. They manage to shake off the worst of the pain without being stunned. Kaz winces, but tries to calm the creature “Erfessa, that sounds awful. How can we stop that from happenin’?” Unfortunately, Erfessa seems to have snapped. The three party members other than Kaz suddenly hear whispers in their minds, feeling like they were losing their grasp on sanity, but manage to hang on. Kaz tries one last time to calm and reason with Erfessa, but is unsuccessful. Resigned, she blasts Erfessa with eldritch power, and the fight begins. 
+    • Odo manages to slash through Erfessa a couple times before the ghost reappears. He looks into Erfessa’s eyes, and she solidifies to look into his. “Erfessa, let’s rest” he says, and after a moment, the two dissolve. We find Erfessa’s pendant on the floor.
+    • We explore the control room. On the wall is a box labeled “emergency separator controls” in Loross. It has three levers labeled “endopotentiation chamber inner separator,” “endopotentiation shaft upper,” and “endopotentiation shaft lower”
+    • Looking through the window, we see a gantry crossing a tall room, with a spiral staircase leading to the floor. Two metal cables attached to a shiny circular disk hang from the ceiling, while two more cables hang broken off from the disk. There is a circular platform etched with runes on the floor, with a knocked-over pedestal attached to metal equipment. We can see the other blast door on the far right wall. 
+        ◦ There’s a pile of bones wrapped in fabric on the gantry.
+        ◦ we can piece together that something was being done in this endopotentiation chamber, something that Erfessa thought was risky. From the neologism, Kaz can gather that it was a chamber for putting power into something, perhaps.
+    • We open up the hallway blast doors, the blast doors on the opposite side of the endopotentiation chamber (leading to a hallway slanting downward at a 45 degree angle), and some random other door we can’t see. We see the skeleton reanimate itself on the walkway, robe folding itself around the bones as it picks up a crystalline rod. Kaz sees a ten-pointed star pinned to its chest as it turns and walks out of the chamber. Kas IMMEDIATELY recognizes it as the dead version of the figure from her vision and runs out of the observation chamber to pursue it.
+    • As the group rushes out of the observation chamber, they come face-to-face with the skeleton. They suddenly smell ozone, and realize that it’s familiar – it smells just like Kaz.
+        ◦ at one point, the skeleton thrusts its crystal rod forward and reality in front of it ripples – exactly the way Kaz casts Eldritch Blast
+        ◦ As he dies, Drosys reaches out toward the sloping tunnel.
+    • We examine the corpse once we’ve killed it. The star pin has a gold point angled directly upward (Drosys). The crystal rod looks like the same crystal that Kaz’s dark shard amulet, but fused together in units like bamboo.
+    • We decide to rest in the observation room for a bit. Midway through the rest, we feel tremors from beneath us as black mist completely obscures the endopotentiation chamber. It comes up to the observation room door and slams on it for several moments, then it goes eerily quiet.
+    • Suddenly, something tries to tunnel through the floor beneath us. We throw the door open and run down the stairs to the main hallway, only to be confronted by the same black mist.
+    • Odo demands to know why this thing is trying to hurt his friends. As he speaks, the black mist recedes down the hallway.
+    • Kaz tries to investigate the mist, but can’t figure anything out. Odo says “reckon we should talk” before sprinting into the mist. Not ten feet in, he SLAMS into something, knocking himself over the head. Kaz casts Detect Thoughts, but doesn’t sense anything in the mist beyond her companions.
+    • Suddenly, a terrifying creature bursts through the door and parts the black mist, snarling with rage. It lashes out at Odo, Nevaeh, and Kaz with its tentacles. Kaz can’t sense any thoughts from it
+    • It’s a grueling, drawn-out battle. Finally, Kaz manages to blast it twice, and as it leans down to bite Odo’s head off, it’s own head explodes into purple goo
+    • Exhausted, we go to finish exploring the endopotentiation chamber.
+        ◦ hanging directly above the center of the room, we see that the two cables on the side facing the shaft are higher, as if the circle was on an angle (like an angled mirror) hanging directly above (and pointing down toward) the pedestal. The pedestal has been knocked toward the observation room. On top of the pedestal is a bendable clamp, but there’s nothing inside it.
+    • Kaz faintly hears a voice yelling out “this way!” Instantly on guard, the party sneaks back toward the gate near the Planar Expedition Prep Room, hoping to lock it before an enemy can get through it to reach them. As they get closer, they recognize Gilbert Orenson saying “This way! The scrutatoria is just up ahead!” He’s followed by several dozen footsteps we realize must be the Zhentarim.
+    • We run down a set of stairs that runs parallel to the sloping tunnel, down toward the portal nexus. As we slip away, we hear a second, unrecognizeable voice shout “Lyesgiel! Where is it?”
+    • We finally reach the scrutatoria. There’s plenty of engineering equipment and models of arches. There’s a table in the middle of the room, which activates to show an illusion of Sigil passing through an enormous portal created by a mythallar, before the portal disappears.
+    • We go through a doorway at the other end of the room, run down a hallway until we reach a cavernous room. To our left we see the base of the sloping shaft, in the center is a depression for a 30ft wide thing (probably a mythallar) at the base of the shaft, straight ahead is another empty cavernous room with a sign that says “mythallar vault”, and to our right is another long hall opening into a shadowy room.
+    • We run toward the shadowy room, passing a sign that says “portal nexus”. To our right and left are rooms labeled “planar construction scrutatoria”
+    • We reach the portal room. The ceiling is 100ft at the pinnacle, and is a series of parabolic arches. There are two levels, both of which have a number of arches along them. On the far end is an enormous, incomplete arch, covered in scaffolding and missing the keystone.
+    • Kaz knows that permanent portals are unprecedented for mortals. Sigil is the only place with permanent portal “doors” and even Sigil’s doors require a key.
+    • Gilbert enters the portal room and cries out “You!” Another man follows him, looking around the room himself. “Well? Where’s the fucking mythallar?” Lyesgiel follows him, looking resigned until he sees us (at which point he looks horrified).
+    • The wizard demands to know who we are. Zug laughs awkwardly and says we’re just mushroom hunters. The wizard sneers as he speaks to the party “My name is Asger Mordelon, and I’m going to kill you.” Behind him, Lyesgiel slyly points to a door on the upper left half of the room as Gilbert dithers, horrified by the idea of committing murder and protesting that “it’s illegal.”
+    • We dash immediately for the doorway that Lyesgiel pointed out. Asger laughs as he prepares to cast a spell. “Where are you going? We haven’t even gotten to know each other yet” he says, just as Lyesgiel screams “You fucking bastard! I’ll kill you!” He only gets a few blows in before he collapses screaming, blood pouring from his eyes and ears. Lyesgiel falls over dead as Asger sneers “You fucking idiot, I told you not to do that.”
+    • We reach the portal, and Kaz searches desperately for the portal key. She spies a sphere with a chaotic crosshatch of lines inscribed on it and touches it to the portal, and it activates with a golden glow. Asger screams with rage as we all dive through, Odo throwing a fire poker like a javelin through an approaching guard as he exits
+    • We’re immediately surrounded by a constant storm of chaos. Glass turns to sand turns to metal. Water, earth, fire, and air flow wildly around, melding into each other and dividing rapidly.
+    • Kaz immediately recognizes the plane as Limbo, based on her surroundings and the symbol on the sphere. She knows that creatures with organized thought can will their surroundings into order, so she shouts to the others to focus on making solid ground. Together, she and the rest of the party create a 10x10 plot of land in the “stew” of hot watery air and chunks of earth, metal, and glass. Exhausted, the Far-Flung Fellowship makes camp.
+
+
+Text RP
+Zuggtboy "Zug" Smutwhisper — Yesterday at 12:43 AM
+Zug exploits his Druidic nature to effortlessly stabilize and unite the elements for the party “So Kaz. Sweetie. While it is the case that the raw elements of this plane are fun to manipulate, could you elaborate real quick - where in the fuck did you just take us?”
+Kasma "Kaz" Planewalker — Yesterday at 12:55 AM
+Kaz has flopped to the newly formed ground, still clutching the portal key to her chest. She turns to give the rest of the party a tired look. "We're in Limbo. It's one of the outermost planes, farthest along the chaos axis" She makes a vague hand gesture at the world around them, as if to encompass that chaos.
+Zuggtboy "Zug" Smutwhisper — Yesterday at 3:15 PM
+Zug clacks his beak in general annoyance “Alright. OK. I'm OK with this. It's better than what happened to Lysigiel. We can make it through this if we stick together. OK. deep inhale, exhale So what can we expect here in Limbo? How does shit work out here, why is there all this swirling shit? Who or what lives out here? After we identify the immediate dangers, we can talk about how to get the hell out.”
+Kasma "Kaz" Planewalker — Yesterday at 4:17 PM
+Kaz takes a long, slow breath in, then lets it out just as slowly, finally coming down from the adrenaline of fighting and being chased. She sits up and turns to face the rest of the party. "Like I said, Limbo is a plane of almost pure chaos. All these various elements swirlin' around and turnin' into each other are evidence of that. We'll be safer from the environment with these Planar Adaptation necklaces, but at least one of us will have to stay focused on keepin' the ground stable and orderly at all times." 
+"As for what lives here..." she flips back to the beginning of her notebook, and you can see some of her old research notes. "There isn't much, and most of it is dangerous. We should watch out for slaadi - they look like giant malicious lizards - but the githzerai might be able to help us"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:19 PM
+“OK so slaadi lizards - slizzards, as it were - are they humanoid and intelligent or just more like beasts? And what about the githzerai, how do we know them on sight?
+Apparently we can exert our will on the environment to some extent, but how should we handle that? Should we rest in pairs of 2? What should the pairings be? How can we be sure, should we do some experiments to pair the less capable with the more capable?
+For now, I think everyone can rest and I'll maintain our environment, taking first watch. Odo definitely needs the rest.”
+Kasma "Kaz" Planewalker — Yesterday at 4:29 PM
+Kaz shrugs. "All I know about slaadi is that they look like frogs or lizards, and they're malevolent. If I had to guess, I'd say they're more monstrous than humanoid. I've never met a gith either, so I couldn't say how to recognize one on sight, but I know that they've got massive cities that they keep intact the same way you're doing now."
+She glances over to Odo. "Yes, let's take the watches in shifts. I'd imagine that keeping concentration on the land is at least somewhat similar to concentrating on a spell, so now that we've got a bit of land together, it's probably less about skill and more about not gettin' hurt and losin' focus. I imagine it doesn't matter which of us concentrates." 
+John Dungeon Master — Yesterday at 4:32 PM
+(By the way, you do seem to have gravity now, but when you first came through the portal, you were just weightless. It’s as if believing that a certain direction is down makes it so) 
+Nevaeh (Alicia) — Yesterday at 6:41 PM
+Without saying anything Nev starts meditating and thinking about the tiny hut turning into her favorite tree house as a kid. Tree limbs and leaves winding through it, one random bay window (a thought of her bedroom creeping in), some flat pillows on the ground, and a low handmade table that Odo built when he was finally allowed in the treehouse.
+John Dungeon Master — Yesterday at 6:46 PM
+So you concentrate and realize you can cause the matter to change but it takes a bit of a thought process to get it right. Could you roll an intelligence check?
+Nevaeh (Alicia) — Yesterday at 6:47 PM
+my favorite
+8
+John Dungeon Master — Yesterday at 6:49 PM
+Ok so it doesn’t immediately all change but you think you could do it if you kept working on it for an hour or so. Actually, just for kicks, could you roll a d100?
+Nevaeh (Alicia)  — Yesterday at 6:49 PM
+36
+John Dungeon Master — Yesterday at 6:49 PM
+Ok thanks
+Actually @Kasma "Kaz" Planewalker @Odo Falcanspur (Mike)  and @Zuggtboy "Zug" Smutwhisper  if you could all roll a d100 when you get a chance
+Kasma "Kaz" Planewalker  — Yesterday at 6:51 PM
+90
+John Dungeon Master — Yesterday at 6:52 PM
+Sorry to be enigmatic but it’s better if I don’t tell you what this is for
+Kasma "Kaz" Planewalker — Yesterday at 6:53 PM
+okay, alright 👀
+John Dungeon Master — Yesterday at 6:53 PM
+It’s not something bad though
+Kasma "Kaz" Planewalker — Yesterday at 6:54 PM
+I'm excited for chaos
+Odo Falcanspur (Mike) — Yesterday at 6:55 PM
+23
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:33 PM
+13
+Kasma "Kaz" Planewalker — Yesterday at 7:09 PM
+Kaz pulls out the crystal rod and rolls it between her fingers, staring down at it. "Well... I guess now I know who it was in my vision. And Drosys definitely knew my patron." Her brow furrows. "Did they meet accidentally? Was Drosys tryin' to make a pact? And what's the mythallar got to do with anythin'?" She flips through her journal, mumbling to herself
+John Dungeon Master — Yesterday at 7:12 PM
+(Want to roll an investigation check?)
+Kasma "Kaz" Planewalker — Yesterday at 7:26 PM
+(Absolutely always)
+9
+John Dungeon Master — Yesterday at 7:32 PM
+You think about that illusion you saw of the floating city passing through the huge portal. It appeared that the tiny glowing sphere was meant to be a mythallar, and it seemed to kind of project a conical beam out in front of the city that turned into the portal. Perhaps the uvorin decemvirate’s mythallar was designed to create portals.
+Kasma "Kaz" Planewalker — Yesterday at 8:00 PM
+"Portal, portal..." Kaz mutters, thinking aloud. "So maybe they actually visited the Far Realm, which means it must be possible to survive there"
+Odo Falcanspur (Mike) — Yesterday at 9:20 PM
+Odo looks dazed "Reckon ye right Zuggatboy"... "I... I don't know bout this here place... if it’s chaos...hmmm" Odo looks over to Kaz "Ahhh yes, watches, make mighty good sense"  Odo pauses, looks at Kaz more "Uhhh these here lizards, they bigger then them scaley babies we done did have in the cave?" Odo wobbles a bit, but feeling like there is a bit more gravity, he feels a little more stable "Reckon out here feel like them sea legs...."
+Kasma "Kaz" Planewalker — Yesterday at 9:22 PM
+Kaz shakes herself out of a daze. "Huh? Oh, the slaadi? I'm not sure. Perhaps our size, or a little larger? I've heard they vary quite a bit, given the nature of their home plane"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:36 PM
+the netherese brought a city to the Far Realm? what the spores would they want over there?
+John Dungeon Master — Yesterday at 9:38 PM
+@Kasma "Kaz" Planewalker did you give any thought to the stuff that Erfessa said? Do you want to roll investigation on that?
+Kasma "Kaz" Planewalker — Yesterday at 9:39 PM
+(I definitely have, but I'll roll anyway to see if Kaz picks up on something I haven't)
+11
+Kaz shakes her head. "I don't know. Theoretically, they could have sent their floating cities to any plane. It wouldn't have to be the Far Realm" 
+John Dungeon Master — Yesterday at 9:45 PM
+(Netherese cities were built on inverted sliced off mountaintops. You saw murals of them in one of the hall frescos. The illusuon looked like that. It had the feel of a concept design model for a future product or technology. )
+Kasma "Kaz" Planewalker — Yesterday at 9:46 PM
+(ooh, that's cool!)
+John Dungeon Master — Yesterday at 9:47 PM
+(The room it was in was labeled Portal construction scrutatorium. It looked like it had physical models of different sized portal arches and other architectural-type planning equipment) 
+John Dungeon Master — Yesterday at 9:52 PM
+With an 11, you can guess that “exogenous medium” is ancient arcane jargon for the far realm whereas “ciscosmic domain” would be the known cosmos. So “exogenous entities” would be things (beings?) from the far realm.
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:54 PM
+literal sliced off mountaintops or the cities were on a piece of land that resembled one?
+John Dungeon Master — Yesterday at 9:55 PM
+They literally sliced off mountain tops, made them float, flipped them over, and built cities on them, all with mythallar technology. That part is basically common knowledge in Faerûn. 
+Kasma "Kaz" Planewalker — Yesterday at 9:59 PM
+!!! Damn, and I thought Exilicor was their name for the Far Realm, but if it's not then it must be Kaz's patron's name!!
+Kasma "Kaz" Planewalker — Yesterday at 10:16 PM
+As Kaz flips through her journal and her notes on Erfessa's ramblings, she seems to come to the same conclusion. She leaps to her feet, eyes watering as she babbles excitedly "I think I have a name! I think I've got it!"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:24 PM
+damn, Wiggles, it's a small ass hut we all right here, no need to holler while i'm trying to focus on keeping these elements under control. what's the news??
+Kasma "Kaz" Planewalker — Yesterday at 10:30 PM
+"Sorry, sorry!" Kaz says, a bit breathless. "I think- I think Erfessa said my patron's name. I think it might be Exilicor"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:33 PM
+“Oh I think I remember her saying that.” Zug repeats verbatim that part of Erfessa's ramblings “Exilicor. Well, now at least we know who/what to ask about.” 
+Kasma "Kaz" Planewalker — Yesterday at 10:40 PM
+"I... don't suppose you've ever heard the name before?" she asks hopefully
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:24 PM
+Zug opens his eyes and sticks his thumbs through the front belt loops of his trousers "I reckon so, Wiggle Fingers," zug drawls wryly in a perfect imitation of Odo's voice, "Exilicor. ain't that the thing when they make you go out yonder, and y'aint never allowed to come back, not no-how no-never? like what i'm fixin a-do to Odo the next time he leaps blindly into a dangerous black mist for no reason?" he holds back a smile while he looks at Odo to see if he can rouse a response
+Kasma "Kaz" Planewalker — Yesterday at 11:27 PM
+Kaz looks incredibly excited for a split second, then deflates. "Ugh. I'm going to attune to this" She holds up the crystal rod, an amused smile tugging at her lips
+Nevaeh (Alicia) — Today at 12:08 AM
+(I'm pretty sure Nev knows nothing about most of this lol and Alicia is trying to keep up 🥲)
+Has the tree house started to form around them?
+John Dungeon Master — Today at 12:12 AM
+So as Zug is concentrating on maintaining the structural integrity of the ground and the bubble of breathable air surrounding the hut, I take it Nevaeh has been steadily working on shaping the interior into a treehouse with a bay window, and as Kaz attuned to her rod, the treehouse takes shape
+Zuggtboy "Zug" Smutwhisper — Today at 12:12 AM
+(Yes that is correct afaik)
+John Dungeon Master — Today at 12:14 AM
+(In theory you could fight over who has control of the environment but I assumed you wouldn’t interfere with Nevaeh’s decorating) 
+Zuggtboy "Zug" Smutwhisper — Today at 12:16 AM
+(If zug sees that nev is doing tree things, zug is naturally gonna try to vibe with that and pull in those elements)
+(As opposed to contest it)
+John Dungeon Master — Today at 12:16 AM
+Yeah I think it makes sense that Nev would assume the stuff Kas is talking about is kind of esoteric
+Kasma "Kaz" Planewalker — Today at 12:17 AM
+yeah, and Kaz is just kinda shouting out random stuff from her notes, too.
+Zuggtboy "Zug" Smutwhisper — Today at 12:18 AM
+(Also, is it the case that as nev and zug are vibing to make a treehouse, does the cooperation seem additive?)
+John Dungeon Master — Today at 12:20 AM
+Sure, she seems to have a specific vision from her childhood but you can be supporting her elements
+You guys can put in a long rest if you want to
+Nothing happens externally over the next 8 hours
+Kasma "Kaz" Planewalker — Today at 12:21 AM
+Kaz takes time to finish her notes and theories about the previous day, then sleeps for most of the long rest
+Zuggtboy "Zug" Smutwhisper — Today at 12:22 AM
+(I guess what zug is trying to do determine is that if collective intention to will the environment in one direction or another is more than the sum of its parts)
+John Dungeon Master — Today at 12:23 AM
+(Yes? Let’s say yes.)
+Zuggtboy "Zug" Smutwhisper — Today at 12:27 AM
+“Ok everyone listen - it looks like if we work together to affect and organize the environment here in Limbo, it seems to give us greater control than if we try to do things our own individual way. For example, I noticed Nev is trying to do some gnarly tree shenanigans, some I’m bringing in tree elements for her to build with.”
+“See look? Her tree roots are stabilizing the earth, and all the plants are helping to keep the air and water in place.”
+“Seems to be taking less effort and be more effective if the work is collaborative.”
+“Putting intention and energy into the system appears to decrease the inherent chaos of Limbo and increase the organization in the local area… provided that the energy is continually put in.”
+(Zug wills some mushcakes to sprout in front of him - do they sprout?)
+John Dungeon Master — Today at 12:35 AM
+No. Food of any kind cannot be willed into existence.
+Zuggtboy "Zug" Smutwhisper — Today at 12:53 AM
+(Zug reports this to team)
+(Can zug will a glass bubble around the treehouse to help him keep in the air?)
+(And the glass bubble is reinforced with zirkwood linining; and the lining has sharpened growths that protrude off it like blades and spikes to prevent things from crashing into the glass?) 
+(And is it the case that after something is created; it is easier to maintain than to create the thing initially?)
+John Dungeon Master — Today at 12:56 AM
+Well you have the hut dome still
+John Dungeon Master — Today at 12:56 AM
+Yes
+Zuggtboy "Zug" Smutwhisper — Today at 12:57 AM
+(Basically zug is trying to ascertain the limits of what can be willed)
+OOC: this is fascinating.
+(Zug is just trying to take preventative measures and create a tiny protective biosphere in case anything tries to get close)
+John Dungeon Master — Today at 12:58 AM
+(Seems like the larger/farther away you try to make stuff, the harder it gets. More complex things are harder)
+Zuggtboy "Zug" Smutwhisper — Today at 12:58 AM
+(What is the apparent radius of influence?)
+(Easy 10ft radius, medium effort 20, hard is 30ft radius?)
+John Dungeon Master — Today at 12:59 AM
+(Let me get back to you on that, gotta go to bed now lol)
+Kasma "Kaz" Planewalker — 04/19/2022
+(picking up after the long rest)
+Kaz rubs her eyes as she pores over her notes again, red curls frizzing around her face. "This bit's worryin'" she mumbles, tracing over something on the page.
+John Dungeon Master — 04/19/2022
+As the tiny hut spell ends you all notice a single Stirge fly up and around you. It must have been below the earthberg
+Kasma "Kaz" Planewalker — 04/19/2022
+Glancing up, Kaz catches sight of the stirge, ready to blast it if it comes near.
+John Dungeon Master — 04/19/2022
+With your passive perception, you notice the tell tale signs of the fungal infection…
+It just flys off into the chaos 
+Kasma "Kaz" Planewalker — 04/19/2022
+Cautiously, she lowers her hand, poking Zug to get his attention. "One of yours?" she asks, pointing in the direction of the fleeing stirge.
+Zuggtboy "Zug" Smutwhisper — 04/19/2022
+Ew! No. But lemme see if I can tell what kind of fungi were on that one… 
+(Can zug roll perception and/or nature? If nature I get the advantage right, cuz plants?)
+Zuggtboy "Zug" Smutwhisper — 04/19/2022
+What did you find, Kaz?
+(16 nat, 12 perception)
+John Dungeon Master — 04/19/2022
+It’s the same as the ones you’ve seen before, the same as Amwin and the formerly infected myconids etc.
+Zuggtboy "Zug" Smutwhisper — 04/19/2022
+with druidcraft, zug releases a halo of red alarm spores from his hat, and exclaims in hushed alarm “Suffering spore-suckers, the demon fungus is among us once again!!
+If you see any more demo-mushies, kill them on-site! They could send demo-spores our way!”
+(Can zug detect any demo-spores in the ambient air?)
+John Dungeon Master — 04/19/2022
+Nope
+Zuggtboy "Zug" Smutwhisper — 04/19/2022
+(Zug tries to will a protective layer of water around the perimeter of our space to filter in any incoming air)
+Kasma "Kaz" Planewalker — 04/19/2022
+(is it still within 120ft of us?)
+John Dungeon Master — 04/19/2022
+It pretty much immediately flew back beneath the earthberg out of sight
+Kasma "Kaz" Planewalker — 04/19/2022
+Kaz shudders. "Got it. I don't like that it's been watchin' us"
+She turns back to her notebook. "To answer your earlier question, I think I've parsed out a bit more of what Erfessa was sayin'. It's a bit tricky, since it's a lot of technical jargon in a long-dead language, but... if Exilicor really is my patron, then Erfessa was sayin' that drawin' power from them weakens the fabric of reality. Which, I suppose isn't that much of a surprise, given how most of my powers work. But she also said that that Exilicor could come here, to our planar system. And that would cause somethin' bad, particularly if we or something else from the planar system went to the Far Realm. Something called 'psychic inversion'"
+Her knuckles turn white as she grips the book more tightly. "I'm afraid to ask, but... I have to know. Maybe with a name, I can contact Exilicor and find out if they're trying to come here. It's worth a try, at least."
+She looks over at the others, to see what they think.
+Odo Falcanspur (Mike) — 04/20/2022
+Odo chuckles, winks "Reckon that mist wasn't as misty as I had done been havin a hankerin of it to be...was figuring it was just a little trick or something but my noggin definitely still got a big ol wallop" Odo rubs forehead to the lump that's still sorta there from when Odo ran into the creature's fist in the mist
+Odo Falcanspur (Mike) — 04/20/2022
+Odo looking at Kaz and Zug "Ahhh whatever ya done got goin there with that mighty fine hat of yours is mighty useful bout now, reckon none of us done wanna deal with that there flying critter - Kaz you done think there gonna be more of um?  I know this here little tree hut place reminds me of a spot when young Nevaeh and I were growin up - mighty miss those younger times and things were simpler not a stew of madness above our heads and mighty otherworldly doors portal arch way or what have ya that thing done been."
+Odo looks over at Kaz
+"Reckon I wanna thank ya, all your research and all these notes you done had been taking in your notebook definitely done gonna help us in this situation" Odo nods
+Odo Falcanspur (Mike) — 04/20/2022
+Odo looking over at Kaz 
+Odo sits down cross legged scratches head
+"So you done been saying ...this Erfessa that we encountered in that there dang tornado like little room, was saying that when you clutch your pendant and make them waves, like that ol bag of bones did with the staff that we done now have - it - that there act - it done mess with this thing we call 'fabric of reality '...fancy term for academia...but ol Odo done know Fabric” ...Odo tussles some clothing under the armor “...fabric can done: fold - rip - tear - get dirty - get clean - get sewn / stitched - unstitched - woven etc” Odo counting things fabric can do on his fingers “...so this 'reality'...well reality be made up of them things that be 'real' and them things that be real be what we done collectively know with our histories, friends, families, memories, and more... - in my noggin...something that messes with the fabric of reality ...be bad...would we even know what was real or what wasn't?" 
+Odo pauses
+"But you done saying that this here fella Excilicor would be done be causing something much worse than that...possibly ...?  Much worse than tearing apart that there fancy book smart term of 'fabric of reality' ... That there 'physhic inversion'...I reckon I don't wanna know either ...that there a corpse grip on yer book...figure that whatever it might be we ain't got time to figure it out...we got time to stop it tho I reckon". 
+Odo stands up
+"Alright there Kaz, what you reckon we can do to prevent that there pyschic inversion - is it to try to have a talk with that there Exilicor?" 
+"I think at this point if done be worth a try " 
+"But at this point I don't still really know what to think bout mighty bunch of things. " 
+Odo, walks over to Kaz, rests an arm on her shoulder, as a brief reassurance
+"I know we done might not have all the answers now but we done will figure this out and get through this together" 
+Odo smiles, walks over to Zug
+Zuggtboy "Zug" Smutwhisper — 04/20/2022
+Yeah I know right… I’d take a bowl of Kaz’s AbracaDaddy Stew rather than this Scream of Demomushroom Limbo Gumbo any day! Why the fuck are there demomush here??
+(Can zug roll Wis to intuit why/how demo-mush are here? We saw stirges in the cave leading to terzio, was it the same kind?)
+John Dungeon Master — 04/20/2022
+That’s reasoning from evidence to conclusions which is investigation
+Nevaeh (Alicia) — 04/20/2022
+Nev is enjoy this new environment “Hey guys, what do you think happens if I pour out a bunch of water here?” She readies the decanter to pour out a flood of water and see what happens
+Kasma "Kaz" Planewalker — 04/20/2022
+Kaz looks at each person in turn as she addresses them. "I'm not sure how it got here, Zug, but it's worryin'. Maybe it flew through the portal after us?"
+She eyes Nevaeh's jug, intrigued. "With all the chaos here, it's hard to say. Could just pour out water, which turns into somethin' else just like everything here does. But I'd like to see."
+She smiles at Odo. "Happy to help. Honestly, I'm glad I'm gettin' to use what I studied." Her face falls a little. "Erfessa wasn't exactly clear on the danger, but yes, I'd assume messin' with reality too much is dangerous. I don't think my powers are affectin' it on the scale that would cause massive damage, but I suppose I can't really afford to stop usin' them either way, given our situation." She shifts uncertainly. "I don't know that Exilicor wants to cause damage, only that they're from outside our reality and that might not mix well with things inside. And Erfessa seemed worried that they could come inside, so yes, it's best I ask." Kaz looks nervous, but resolved. "Assumin' that knowing their name is enough for the spell to find them. Otherwise, I suppose we'll just have to wait and hope for the best."
+Odo Falcanspur (Mike) — 04/20/2022
+Odo looking intrigued looking back at Kaz "Reckon, if Erfessa wasn't too clear on the damage than that may not be all bad...maybe in my noggin it just sound mighty scary - figure it's always been a mystery to me what was really happening when you help take on everything we've had to deal with...but now I figure it make more sense and it's mighty impressive that such power you done wield has the effect it does - you right, given our situation, ain't no way no how would I done recommend ya to stop using your powers" Odo nods and smiles
+
+Odo pacing... a bit... observing the surroundings... pauses looks kinda towards Kaz, Nevaeh, and Zug
+
+"Reckon...we was in such a dash... to get away from maniacal Asger fellow ...not sure he was entirely with them there Zhentarim. Also don't think that bald-headed fella was either - their gear and armorments just ain't line up. Plus them way they held themselves...doubt they were Zhentarim...they gotta be something else...some other group...ya know the ones that ol Gilbert was saying he was gonna get to work for him when he and Oliver went off on them horses leaving Fort Gilbert?” Odo scoffs “Ain't nobody should work for Gilbert...he don't care ‘bout the people...but I ain't too sure if Gilbert was really in control of the situation...feel like” Odo sighs “Gilbert might not make it outta there... that Asger seems like he's really the one in control of it all..."
+
+"Any of y'all done seen that Asger fellow before?"
+
+"Reckon he didn't look like them fellas with Rosaradrath..."
+"Also, that Asger fella...he done not look like them drow we ended up taking on several different ocassions or them blue headed folk, or them dwarves or fungi from New Dankseep...or anything else for that matter...can't place Asger in my noggin into any bucket of folks we done encountered yet."
+
+Odo sighs again
+"Did we done do the right thing?"
+Odo looking defeated
+"Maybe we shoulda stayed and fought... maybe we coulda saved Lysegiel...even if I'm still a tad upset that they abandoned us in the middle of the night...we coulda helped them with whatever they were chasin'...may not have 'hopp'd to it' that very minute but…” Odo sighs “It aint't fair"
+"Maybe we coulda done destroyed this here as you call it 'portal'...maybe with it done destroyed it woulda then given them Asger and others no ability to do evil of any sort"
+
+Odo looks up. tilting his head to observe the surroundings. He continues to ramble.
+
+"We might not ever make it outta wherever we are...but maybe where we done be, we was meant to be, we was all rough for wear back there, drained like a horse that aint eat or drink in a couple days..."
+
+Odo turns to Kaz
+
+"Say, we do talk to this here Exilicor critter...if things done go south...let's say they don't take to kindly to our talking...ya feel we should be prepared to fight?"
+Nevaeh (Alicia) — 04/20/2022
+(What happens when I start to pour the water out of the decanter into the void? I wanna use like... The geyser option and let it rip lol)
+Zuggtboy "Zug" Smutwhisper — 04/20/2022
+15 for the investigation check
+John Dungeon Master — 04/20/2022
+It blasts out and is quickly absorbed into the stew of chaos-stuff
+John Dungeon Master — 04/20/2022
+It seems likely it flew through the portal. The tunnels were fully open to the caverns outside after you opened all the blast doors
+Zuggtboy "Zug" Smutwhisper — 04/20/2022
+“So the activation key being nearby just allowed the stirge to fly in? That means other stuff could have presumably gotten through…”
+“Holy zirkwood, you guys! We gotta hunt down that demon bird as soon as we can! We can’t have it running around and infecting all the organisms in this realm!
+That’s probably the worst way to make an entrance… ugh… the consequences could be grave if the inhabitants found out we unleashed a demon fungus in their realm
+But then again, maybe it’s not that big of a deal. A mush-demon vampire bird is probably the least weird and dangerous thing in Limbo, by the looks of it.
+How about some fresh mushcakes, anyone?”
+Nevaeh (Alicia) — 04/20/2022
+"Cool... Don't want that to be us though.”
+“Yummy!”
+Kasma "Kaz" Planewalker — 04/20/2022
+Kaz takes a mushcake. She grins, watching the water spray out into the world and mix with other elements. “‘S a bit like lookin’ through a kaleidoscope”
+
+She turns to Odo. “I reckon you’re right, and I’d bet that’s the same wizard who claimed we had Resoradrath’s treasure. Bastard!” she spits vehemently. “Lyesgiel didn’t deserve what he did to them. At least he can’t follow us here without the portal key.”
+
+She pulls the copper wire from her bag, intending to cast Sending again, but hesitates at Odo’s question. “Even if Exilicor isn’t… fond of me talking to them, they shouldn’t be able to hurt you all directly. I might be at a bit more risk, since I’m the one connected to them, but I trust you all to bring me back to my senses if we need”
+Nevaeh (Alicia) — 04/20/2022
+Nev puts her hand on Kaz's shoulder as she holds her necklace "You bet."
+Kasma "Kaz" Planewalker — 04/20/2022
+She nods gratefully, casting the spell without further ado and focusing on her message. Um hello. I’m Kaz, your, uh, warlock? Um, are ya tryin’ to enter the… “ciscosmic domain”?
+John Dungeon Master — 04/20/2022
+There’s no response. The magic doesn’t seem to make a connection with anything. You’re left with the feeling that this magic will only connect you with creatures you have personally become familiar with face to face
+Kasma "Kaz" Planewalker — 04/20/2022
+Kaz sighs, letting her hands fall. “…I don’t think this spell is powerful enough to work on a creature I haven’t actually met”
+Zuggtboy "Zug" Smutwhisper — 04/20/2022
+“You're getting stronger Kaz. we all are. i can feel it in the spores. and if your magic isn't strong enough right now, or if it's not the right kind to reach Exilickums, then we'll find some other way. i think i might be able to throw something together here soon enough, i just gotta get creative...” Zug massages one of his gnarled hat toadstools like a fidget toy as his eyes narrow into pensive slits for just a moment... then he rips it off the hat and scarfs it down 
+Still chewing, he continues “...and if that doesn't work, then we'll go all the way into the center of the Far Realm to get you in touch with Exilickums if we have to! we just gotta make it out of this mess alive.”
+“Any ideas on what the hell to do? i guess we could just move in a random direction... but how will we know if we're going in circles or not?”
+Nevaeh (Alicia) — 04/21/2022
+Nev hears Zug’s question and thinks for a minute and in her head says, "Dad...I'm here. Kind of. I'm close. Can you hear me? I need your help."
+John Dungeon Master — 04/21/2022
+Disappointingly, after a while you realize no response is forthcoming
+Nevaeh (Alicia) — 04/21/2022
+in her head still "I'll find you. I'm coming, I promise. Wherever you are, stay safe, just a little while longer. And I'm bringing friends to help. "
+
+Out loud, she says "I can try to contact Selune more directly here now... I think? Perhaps she can help guide our path. I don't know how we get out of here either. Unless we can just WILL a door to appear to whatever plane we want haha"
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+Call out to the Moon Mother! That she might illuminate a path in the darkness and treachery of Limbo.
+Odo Falcanspur (Mike) — 04/21/2022
+Odo looks over at Kaz "Zuggtboy reckon is right. We can done make our way out to Elixircom fella however we need to...specially if they done know how to get us out alive from this mess".
+"Nevaeyuhhh you done think maybe ya know all your good doings on behalf of Selune may have be able to ya know have a convo with whatever that power done may be and have some way to I don't know...make our noggins spin less?"
+
+"Kaz ya figure ...there's a bottom to this stew?  It done look like a mighty far way down but I be a thinking...maybe it not? Maybe we just need to get to the bottom of this stew pot...or maybe ...maybe we gotta find a way to go up ...like a ladder ...or something to climb outta here? Ya think we can done float our way up to the top?  Still I ain't sure how all things work in heres".  Odo definitely looking like he wished there was something more obvious as a way out
+Kasma "Kaz" Planewalker — 04/21/2022
+Kaz shrugs “I’ll keep working. I think I can recreate the spell that put us in contact originally, but it’ll take time.”
+“As for gettin’ out of here, there isn’t really such thing as ‘up’ or ‘down’ beyond what we perceive as up and down. Limbo is infinitely large, just like every other plane, and unfortunately I don’t know how to cast any spell to move us between planes. We’ll have to find another portal.”
+Nevaeh (Alicia) — 04/21/2022
+To Odo: "Yeah, I don't know why I haven't done that already. Head has been a little spinny. Going back to the tree house calmed my mind though.  I want to do this right. And I'll need a bit of help." 
+Nev will start to take off her armor pieces in a nice neat pile, and put on her moon vestments 
+"Someone want to light this for me while I change?" And I'll hand over the incense block, matches and censer to whomever wants to assist. 
+"Just watch me for a minute. I'll be right back." She smiles.
+Pulling back her hair into a very large, thick bun, Nev kneels down and closes her eyes. Wholly and completely focused on only this. Hand on the floor beneath her and another on the moonstone necklace. 
+She takes a deep breath, then begins.
+"Moonmaiden, lady of silve, I come to you humbled, thank you for helping and guiding my path thus far. For...saving me, most of all. And letting me see my mother again. Please hear this prayer. I.. we... need your assistance. We're in a plane I do not know. And I'm not sure I know how to leave it either. Or even how to navigate it. I... Don't even know if you can hear me here.” She looks to be struggling with not blurting out all her thoughts and worries in a single breath. “But my hope is that you can hear me, or feel me, and can help guide me. Guide us. On a path towards leaving this place. We shouldn't be here, I think. It doesn't feel like it was meant for us. I'm worried we'll disrupt this... structured chaos. If we stay. If you can hear me, please, I beseech you." She'll stay like that for a while, quiet 
+
+(Does anything happen to indicate I've been heard?)
+John Dungeon Master — 04/21/2022
+You feel the warmth of Selûne’s presence, as always, and know that she sends you strength. You know that prayer needs to be augmented with divine magic in order to receive an actual response. And really only the most holy of priestesses can truly commune with the goddess. 
+Nevaeh (Alicia) — 04/21/2022
+So like a higher level spell? Or... I'm not sure I have anything available to me just yet that could help me with this so yeah lol
+John Dungeon Master — 04/21/2022
+When you are favored by your goddess with more divine power (like 4th or 5th level power) you can conduct divinations or even directly commune with her to get information and insight
+But you do know how to conduct a simple augury, if you had the right kind of tokens
+John Dungeon Master
+Augury
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
+- Weal, for good results
+- Woe, for bad results
+- Weal and woe, for both good and bad results
+- Nothing, for results that aren't especially good or bad
+
+The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
+If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
+Nevaeh (Alicia) — 04/21/2022
+An actual magic 8 ball haha 
+John Dungeon Master — 04/21/2022
+Exactly.
+So it can’t really tell you how to escape limbo
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+“Nev, could you use your card deck to ask Selune for a sign?”
+“I’m trained in religious rituals, I can help with the setup and channeling.” He starts preparing the incense and censer
+Nevaeh (Alicia) — 04/21/2022
+Nev stays on the ground, warm and happy, forgetting her goal for a moment "Oh, sorry guys. I thought being on this unusual plane might help but, I know otherwise I'm not quite ready for that in my training. Was worth a shot though right? And I love wearing my vestments when I can. I have good memories of learning to sew them with my mom. Look." She turns the front inside out and shows the golden inlay where her mom sewed a small gold heart "See. She said 'this is a golden heart from me, just like you are my golden heart.' I used to think that was so silly and embarrassing. I miss being embarrassed by her. Sometimes." She chuckles a bit and starts to clean up, packing things again. 
+“It's just regular cards Zugg. Well, they were regular, but I've been drawing on them. Can you still do something with them?”
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+Nev, you’ve given up too soon. I know clerics can communicate with the gods in various indirect ways.
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+Do you have any items, artifacts, or tokens that are relevant to your worship of Selune that you could use to perform an augury?
+(Rolled 3 on Int and 8 on religion to try to brainstorm ideas)
+John Dungeon Master — 04/21/2022
+You have absolutely no clue what to do
+John Dungeon Master — 04/21/2022
+As you continue to drift through the raw chaos, there are occasionally dramatic displays around you, like when you pass through a vast but ephemeral firestorm with green lightning crackling around it, or when chunks of terrain reminiscent of the material plane briefly fluctuate into and out of existence. The realization sets in that you are quite lost.
+You realize that you have some time on your hands.
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+(OOC my god luckily we have the ability to conjure food and have unlimited water… otherwise we could starve out here in limbo…)
+Kasma "Kaz" Planewalker — 04/21/2022
+Kaz smiles at the little golden heart, running a finger along the cover of her notebook. Anyone looking closely can see a few well-worn letters peeking out from between the pages.
+"Anyone up for a game of cards, then?"
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+Actually, I was hoping someone else could maintain focus on our environment. I gotta get some sleep, I’m starting to feel a bit exhausted after last watch.
+John Dungeon Master — 04/21/2022
+Could everyone think about what they want to be doing with 1 or more days of free time?
+Kasma "Kaz" Planewalker — 04/21/2022
+"I can concentrate and still play. Done enough concentratin' on hexes durin' battle to keep focused on two things at once. you get some sleep."
+(Kaz would read more of the Tome of Clear Thought, as well as try to go back through her notes looking for any ways in/out of Limbo)
+John Dungeon Master — 04/21/2022
+Concentration on limbo shaping is actually harder than spell concentration. It’s a bit like driving. You can talk but most other distractions can be dangerous
+Kasma "Kaz" Planewalker — 04/21/2022
+(aah, gotcha. We'll say Kaz figures that out when she takes over)
+Zuggtboy "Zug" Smutwhisper — 04/21/2022
+(Zug goes to sleep for now)
+John Dungeon Master — 04/21/2022
+Portals, and very powerful spells are the only ways you know of
+Kasma "Kaz" Planewalker — 04/21/2022
+(But she hasn't heard rumors of where a portal might be?)
+John Dungeon Master — 04/21/2022
+You know there are cities in limbo. Some do have portals you’re pretty sure. But, where are the cities? Where are you?
+Kasma "Kaz" Planewalker — 04/21/2022
+(Gotcha. Then Kaz would probably examine the sextant-like device we found in the planar expedition prep room)
+John Dungeon Master — 04/21/2022
+Did you identify it?
+Kasma "Kaz" Planewalker — 04/21/2022
+(I will whenever the charges regenerate on the Rod of Understanding)
+(Kaz will also Identify the "gravity tent")
+John Dungeon Master — 04/21/2022
+The gravity tent is non magical except for a protective enchantment that guards against wear and tear, and which probably allowed it to last 3000 years, but examining it reveals that the poles and canvas assemble into an octahedral structure with straps loops and clips to facilitate “camping” in zero gravity environments. 
+Kasma "Kaz" Planewalker — 04/21/2022
+(but that enchantment probably wouldn't hold up on its own to the elements of Limbo battering it 24/7?)
+John Dungeon Master — 04/21/2022
+It’s doesn’t make it impervious, no
+Kasma "Kaz" Planewalker — 04/21/2022
+At some point during her research into locating portals in and out of Limbo, Kaz remembers the odd sextant-like contraption. She pulls it from her bag, tapping it with the Rod of Understanding and studying it thoughtfully. She grins, punching the air. "Aha! Yes! D'ya know what this is?" She brandishes the sextant. "This is a planar sextant. It'll help us navigate in places like this, where everythin' is shifting around all the time. Plus..." she peers through the scope "I can see the flow of planar energy through this bit. It might be able to help us locate portals like Lyesgiel." Her smile fades a bit. "Gods rest his soul"
+John Dungeon Master — 04/21/2022
+Upon looking through the scope you see, seemingly through the chaos, several glowing lineae meandering into and back out of the apparent range of the scope. Some appear farther off than others. One in the direction you would have called “up” appears to be closest
+Kasma "Kaz" Planewalker — 04/21/2022
+Kaz sweeps a finger along one of the lines. "Looks like there's some current headin' up that way"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 6:28 AM
+“What does that mean? Is there a portal in that direction?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:04 AM
+“But Kaz - even if that's the nearest portal, how do we know it's the most auspicious one?” Zug raises his shield and shillelagh to the non-existent sky, imploring the non-existent moon for answers “Oh, if only we had a divine light to guide us through the darkness!!” With arms still raised in exasperation, Zug tries to make eye contact with Nev
+Nevaeh (Alicia) — Yesterday at 2:18 PM
+(if I'm using augury, I don't think I should question where to go, but rather, if the direction the sextant is pointing is safe? Even then the answer won't matter because we have no other leads.... Mmm how to word it....)
+Kasma "Kaz" Planewalker — Yesterday at 2:20 PM
+Kaz lowers the sextant. “Technically, we don’t even know that it’s leading us to a portal. It’s just an energy current. But I have a good feelin’ about it”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:51 PM
+(right. the idea is... is the first portal the most auspicious/safest? which one is? as a general strategy, should we go with first one? if we used augury and asked that specific question, and it worked, and it came up woe, then surely we should try another option. a maybe-disaster is better than a guaranteed-disaster)
+(or maybe the augury would tell us to go to a portal where there is treasure? i mean, selune or one of her emissaries would be the one to decide that through the augury)
+Kasma "Kaz" Planewalker — Yesterday at 9:53 PM
+(I mean, we don't need to know that it's the safest, only that it's safe enough for us to reach.)

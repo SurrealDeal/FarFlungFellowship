@@ -1,0 +1,523 @@
+﻿    • We wake up and head back into the lower levels of the complex. Reentering the frescoed hallway, we hear a doleful melody playing from behind a collapsed wall, perhaps on a set of wind pipes.
+    • We try to find a way past the collapse, but can’t find anything, so we keep going through the same hallways we were exploring yesterday
+        ◦ On the far left of the indoor park, the collapse continues. It seems to have blocked off several arched doorways to other parts of the facility
+    • We enter the room where we fought the constructs. Faint blast marks cover the sides of the walled off corner section, left by something that impacted and left scatters on the wall, floors, and ceiling (probably a test chamber)
+    • Nevaeh is the best at finding loot as we go. Finds a magical rod with a carved spiral pattern (Rod of Understanding: cast Identify or Comprehend Languages), a gold spell scroll case (fragile scroll of Greater Resurrection, written in Loross)
+        ◦ Loross has a modified draconic script, and both Lauros and Netherese are substantially descended from Elvish.
+    • we go into the next room. Nevaeh finds dried inkwells around the room, along with remains of decayed scrolls. Some sort of stage at the front, facing a set of decaying writing desks. In the corner is a perfectly preserved chest, airtight and locked, with a ten-pointed star etched into the front.
+    • We go through a door by the chest, and realize we’ve come out on the other side of the collapse. We enter the park now that we can reach the doors. Above is a vaulted ceiling enchanted to look like a bright blue sky. Everything in the park is an illusion except the picnic tables.
+    • Kaz sees a nothic looking at us through one of the park windows. It ducks down hurriedly, and a few moments later, some blue people construcs walk through the hallway and disappear through another door
+    • We leave the park and enter another room. There are metal constructs attached to the wall. bronze disks and panels etched with diagrams of various planar maps (great wheel and world tree)
+    • mounted to a central pedestal sits a large moveable contraption. It’s pristine, probably magical. The rings are colored and the writing is in ancient Loross, with symbols beside the words. Kaz is utterly distracted trying to link the symbols to planes of existence, figures the device represents the movement of the planes (3D map of the cosmos)
+        ◦ The outermost ring has 16 symbols on it. Near the bottom, another metal piece extends from the outermost ring, connecting to a smaller ring with its own symbol on it.
+        ◦ Kaz copies down all the symbols into her journal
+    • Nevaeh finds a fresco of infernal creatures fighting each other just outside the planar research room. There’s a faint symbol over each side of the battlefield, matching some of the symbols on the wall etchings. 
+    • Nearby, there’s another metal plaque on the wall with a diagram depicting a funeral ritual. Nevaeh recognizes it as a Selunian ritual, with symbols of Selune and other deities in a diagrammatic flowchart showing the soul’s possible paths after death (“Transmigration of Souls”).
+        ◦ particularly ancient deities are the only ones represented, along with archaic versions of their symbols
+            ▪ Amunator and Mistril are also among those represented
+    • A note falls out of Kaz’s Netherese book as she consults it in the planar research room. It’s from Xanthos. 
+        ◦ Xanthos note:
+          Miss Planewalker, 
+          Below I have transcribed the text of the ancient document that Gilbert discovered which was the impetus to begin our expedition. You will see why I long harbored doubts about this place. Please take care. May the light of the Sun give you strength.
+          Xan
+        ◦ Anatalus’s letter: I anatalus, archmage and scrutator of extraplanar enchantment and artifice, must report with great sadness that a tragic accident has destroyed my nine colleagues of the uvorin decemvirate, while I was absent. Upon my return, I [gap] that the nature of the [gap] of the scrutatoria has rendered the site inimical to life, and I regret that [gap] to recover any human remains. In order to permanently protect against any [gap in text] on the outside world, I have overseen the demolition of all entryways into the subterr… [rest is lost]
+    • While Kaz and Nevaeh are distracted, Zuggtboy and Odo notice a darrow peek out, see them, and disappear around a corner. They warn the party, who look up and turn to see the darrow savant and seven other darrow approaching. The savant calls out “There they are! Get them!”
+        ◦ We start slaughtering the darrow. Some of them panic and run. Others get even angrier and keep attacking. The savant casts Spider Climb to run along the ceiling into the room, landing on a ledge above the door. Kaz and Nevaeh hit him, and he panics and turns himself invisible. Kaz manages to kill the invisible savant, who slams into the wall with the force of her eldritch blast before his visible body falls to the floor. The rest die moments later.
+    • Just as Nevaeh kills the final darrow with a spectacular Guiding Bolt and turns back to grin at the party, one of the floating blue security constructs (a galvinmagen) passes through a door down the hall and blasts Nevaeh with lightning. Three swordspeople (neosmagen) follow behind the floating one and attack as well
+    • We crush two of the magen, but one of the nothic walks out to join the fray. It looks Odo in the eyes and uses its Rotting Gaze on him. He feels his life energy wither under its gaze
+    • Odo grapples the nothic and Kaz hexes it, then blasts it (and crits on one blast!). As she strikes, she yells angrily “What the hells do you want with us?” The nothic turns to glare at her, trying to stare into her mind but unable to peer inside (I had to make a deception check?? I rolled a 23)
+    • Finally, we finish off all the enemies. Odo decapitates the nothic just as the fight ends, then passes Kaz the head saying “reckon I got you something.” She juggles the head, looking confused and a bit disgusted.
+        ◦ a pendant falls off the dead nothic when it died. It’s another 10-pointed star. If we number the points 1-10 starting with the top, #5 going clockwise is gold (Andrain). The other points are silver. This nothic has no arm bracer. Instead it has a little metal bracelet with a key dangling from it.
+            ▪ we go back to the treasure chest and open it with the key. Inside are a total of 9 books, kept in excellent condition by the magical chest. All have titles in ancient Loross
+            ▪ The party takes a short rest while Kaz IDs the book titles. They are: A Treatise on the components of the essence of being; Disputations on the cosmic significance of beliefs; A dialog concerning the origins and nature of deific entities; The wisdom and prophesies of Hecorius; Meditations on death and life; Discourses upon the four primary elements, their true forms, and the existence of pure cosmological realms of the same; Urtiule’s cosmographical tables; Philosophical inquiries of Nerscana of Xinlenal concerning realms of thought and substance; and a magical book with no title which seems to have logic exercises (pictured. later Identified as a Tome of Clear Thought, which can permanently increase INT by 2 if read for long enough)
+    • Odo left one darrow alive, but unconscious. He uses his own pit stink as smelling salts to wake the darrow and question him. The darrow swears at them until Zuggtboy threatens to kill him and use him as a spore servant. They find out that the darrow’s leader, Darinkius, was still pissed at the party for having attacked them earlier, so he decided to attack them.
+    • In the room ahead (where the magen came from): Rotating metal disks of various sizes hang from the ceiling surrounding the device. They look like astrolabes, with rotating sections that can be adjusted. The rest of the room is wrecked, with a flipped-over table. There’s also a corroded, complicated metal device with lots of cylindrical protrusions and glass lenses in various places, propped up on a tripod in the middle of the room.
+        ◦ spinny thing hanging from the ceiling is a divination device, with some astronomical component. On one side of each disk is a star chart, overlaid with a weblike metal framework that can rotate over the metal disk. There are pointed metal prongs in webbed metal thing that, when rotated correctly, can line up with particular star dots. A few of the dots are circled.
+        ◦ When Nivea gets near the overturned table, a rotating cosmological hologram appears. In the center is the planet we’re on, surrounded by partially transparent spheres. One has Selune (moon) and the Tears of Selune (starlike speckles to the right of the moon that follow it). Further out are the stars – several starpoints are highlighted in red with floating Loross words. Kaz figures out that the model is an illusion spell depicting the space around the planet Toril, specifically the crystal sphere of Toril.
+            ▪ Everyone knows that the stars are just glowing lights affixed to a crystal sphere that surrounds the planet
+        ◦ Smoky glass sphere behind a piece of debris. Xanthos had a similar one, Kaz remembers. She uses it and hears the psychic translation “…then she told me she thinks the Conduit is somehow weakening the crystal sphere’s phase margin or something like that, I didn’t really understand, that’s all her specialty. But she thinks exilicor might be, somehow, I dunno, getting closer or something. Could this be related to the power signature similarities of [some name that is hard to understand] and the others? If she’s right the endopotentiation needs to stop until we figure out whats going on.  Note to self: Remember to talk to Drosys about this.  He apparently didn’t want to listen to her. Probably because this all just seems so far fetched when you think about it.  (trailing off) note to self: Better not say that to her…”
+    • Wiped out by the back-to-back battles, the party takes a long rest in the room with the cosmological illusion spell. Kaz sticks her head out into the hall to check their way forward, and can ever so faintly hear the soulful dirge playing in the distance.
+
+
+Text RP
+Kasma "Kaz" Planewalker — 03/27/2022
+Kaz pokes her head out into the hallway for a few moments, then returns to the room “Y'know Zug, I think I hear that music you were talkin' about.”
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+Zug repeats the music from his mouth, quietly, just so that kaz can hear. “Is that the one, Kaz?”
+Kasma "Kaz" Planewalker — 03/27/2022
+She nods. “You're quite good at that. Makin' music. Did ya ever think of becomin' a bard?”
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+“I've thought about it, of course. but you know... we kenku... we are cursed. we cannot create any new sounds, we can only repeat that which we've heard. that was the case for me until i ate that slime demon that i thought was a mushroom.” Zug retches involuntarily at the thought.
+“After i met the lizardfolk and they taught me about The Spore Lord, Psilofyr, i thought the blessing must have been from Them, a miracle of the spores”
+“That's when i felt reborn of the spores, and gave myself a new name, having gotten a new voice! but now, i... i just don't know who i am anymore.”
+“A bird without a song... well, no song of his own, i suppose.”
+Kasma "Kaz" Planewalker — 03/27/2022
+Kaz sits quietly for a moment, thinking
+“Well... Psilofyr must have blessed you in some way, yeah? They sent you that vision when you prayed to them in the Sacred Grove. And you've still got your own voice now, regardless of how you came by it.” She shrugs, giving Zugg a half smile
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+“Well, now that i've rid myself of the slime demon, one can only hope the voice is mine. to be born cursed with the inability to create, being a thrall of the rakshasa, and then possessed by the demon, i've spent the entirety of my life being silent and controlled by others until just recently, and only then by the grace of my friends, the myconids, and Psilofyr... if it wasn't for all that, i'd still be a bird without a song.”
+“I did try a bit of singing recently, didn't i? back in the mining town, with bognar?”
+(OOC are we walking toward the sound of the music? is it just kaz and i?)
+Kasma "Kaz" Planewalker — 03/27/2022
+(Kaz is hanging in Leomud's Tiny Hut with everyone else)
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+(ahhhh k, so we're chatting in there with everyone around)
+Kasma "Kaz" Planewalker — 03/27/2022
+“You had a lovely voice, if an... interesting choice of song.” She smiles briefly, then pulls out the nothic's necklace and studies the pendant. “I'm not quite sure what path I'm on, if I'm honest. Quittin' my job to come out here wasn't an easy choice. I miss my home, and my friends.” She glances around the room, smiling slightly. “I bet Tinkerreach would love to see this place. All these old planar diagrams and models. She'd probably start workin' on publishing a paper immediately.” Kaz sighs “Maybe I'll write to her when this is all over. Tell her everything that's happened.”
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+“Who's Tinkerreach? I don't think you've ever mentioned her before. And what exactly was your job before we met? How did you come about getting that kind of work?”
+Kasma "Kaz" Planewalker — 03/27/2022
+“I was a planar researcher. I studied planar structure and inhabitants under Davor Tinkerreach in the Conclave of Silverymoon. It… took me a while to find what I wanted to do. I changed my major a few times before becoming her apprentice.”
+She flips back to the beginning of the journal, skimming the entries. “There was a year’s probation before I could officially become her apprentice. Mostly studyin’ what we already knew about the planes, takin’ tests, that sort of thing. But my qualifying exam was to travel to Sigil and bargain for an extraplanar item for the lab to study”
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+“Sigil? is that the same sigil that connects all the planes? what's that place like?”
+Kasma "Kaz" Planewalker — 03/27/2022
+Kaz nods, growing more animated. “The very same! It’s a bit overwhelmin’ when ya first arrive. All sorts of people, speakin’ every language you’ve ever heard and a few you haven’t. The ground curves in a strange shape, so you can never see the sky properly. Feels like you’re at the bottom of a valley made of impossibly high buildings”
+“I got lucky at one of the markets. Someone was sellin’ a mirror that would let you talk to creatures on other planes. Didn’t even know what they had! Of course, I wasn’t powerful enough to use the enchantment, but Tinkerreach was over Selune about it!”
+Zuggtboy "Zug" Smutwhisper — 03/27/2022
+“Woooooowzers this Tinkersnatch sounds like a gem! Where is Silverymoon, what is it like there? Who is Tinkersnatch, what do they look like? Are you still in touch?”
+“I’m not in touch with anyone from where I grew up. They’re all thralls of the rakshasa, they’d rat me out and then I’d be back where I started…”
+Kasma "Kaz" Planewalker — 03/27/2022
+Kaz shifts uncomfortably, almost guiltily. “N-no, we're not in touch at the moment. I left rather... abruptly.”
+“I'm sorry to hear about the people you grew up with. The rakshasa sounds awful. Where does it live?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:19 PM
+“Oh yes, rakshasa are true to their nature as infernals, they're unimaginably cruel and insidious, especially when they're as old as he was. when they get old, they get bored, and when they get bored, they get creative.”
+“Well that's all behind me in Calimshan now. That's a desert area in the western/southish part of faerun. you know, west of the Lake of Steam flanked by the Shining Sea and the Trackless Sea?
+He lived in the trading mecca and port city, Memnon, northwest of the capital Calimport along the border to Tethyr”
+“Yup. Ranjat Dor’alkaba... gooooood old Ranjkabobs. Ya ever wonder how I managed to get away??”
+Kasma "Kaz" Planewalker — Yesterday at 4:29 PM
+“No. How did you manage it?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:31 PM
+Excitedly, zug reaches under his armor to reveal he's wearing a necklace
+“I used this!!”
+“Right before i left, i stole it from one of his treasuries. It's a special amulet that protects against magical tracking, any divination.”
+“it's a remarkably powerful artifact, actually. i've never trusted anyone enough to show it.”
+Kasma "Kaz" Planewalker — Yesterday at 5:19 PM
+Kaz examines it curiously. “Clever. I’ve never seen anything like it.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:24 PM
+zug squints with the mischievous smile of a child who has come back to the bedroom with cookies stolen from the jar after bedtime “It's the only thing that keeps him out of my mind, safe from his eyes and his terrible hands.” zug's eyes become serious and widen “The hands of a rakshasa are backwards. Did you know that?”
+Kasma "Kaz" Planewalker — Yesterday at 8:31 PM
+“Really?” She studies her own hands, turning them and trying to imagine what they'd look like backward
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:31 PM
+“Watching him eat with chopsticks was seriously F U C K E D.”
+Kasma "Kaz" Planewalker — Yesterday at 8:40 PM
+She laughs. “Calimshan is further than I've ever travelled in Faerun. Did you like it there? Other than ‘Ranjkabobs,’ of course”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:44 PM
+“honestly i wouldn't know. all i remember was being a servant in the hidden mansion, trying not to catch the attention of Ranjkabobs. i hardly ever left to the mortal plane or whatever. one of the few times i did is when i happened upon that fucking demon slime mushroom and ended up eating it”
+Kasma "Kaz" Planewalker — Yesterday at 8:45 PM
+“His mansion isn't in the Prime Material?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:46 PM
+“oh i never told you? he would pose as a council member of Memnon, and would maintain a normal humanoid life and residence 
+but there would always be a secret place in the mansion that had a portal, some kind of gateway to a pocket dimension
+to get there required the precise recitation of a poem, written in undercommon and infernal, with sounds few humans can easily make
+so kenku were the slaves of choice for Rajkabobs, we generally didn't have much trouble pulling off the feat after hearing the poem only a couple times.
+one false intonation was all it took though...
+therein was the Rakshasa's lair”
+Kasma "Kaz" Planewalker — Yesterday at 8:52 PM
+Kaz grimaces. “I'm glad you got free.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:52 PM
+“you and me both. i guess it was all thanks to eating mushrooms, demonic or otherwise”
+“kaz, i been meaning to ask you something... how did you go from being a researcher to having all your special powers? i've never seen anything like them”
+Kasma "Kaz" Planewalker — Yesterday at 9:07 PM
+Kaz shifts uncomfortably. “Well... it's a long story. But the short version is that I've never seen anything like my powers either.”
+
+She pauses for a moment, as if finding a place to begin. “Almost a year after I officially became Tinkerreach's apprentice, I knocked over that mirror I told you about one night as I was leaving. It hit the floor and cracked right through some of the runes on its surface. I felt terrible, of course. I'd been the one to buy it, and even if it was an accident, it would be a great loss to our group. But, I figured there was nothing I could do except clean up and tell Tinkerreach about it in the morning.”
+
+She pulls her knees to her chest “Only... you're not supposed to mess with broken magical items, because the spells can go wild. And I wasn't thinking, and I picked it up anyway, and it...” she pauses, obviously skipping past something “I'd never done any magic before, or trained as a wizard, but a few days later I realized I could. And I've been trying to figure out what it means ever since. I figured it was connected to the Netherese somehow, so... I came here to try to figure it out.”
+
+She sighs, then says softly “I just need to be able to explain what happened to everyone so I can go home. And I can't do that until I know what's happened”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:12 PM
+“well, i've seen wizards and sorcerors before. plenty. warlocks, too. they've come through the rakshasa's lair in droves... but still nothing like you. am i allowed to ask what happened when you touched the broken mirror? it was from sigil, wasn't it?”
+Kasma "Kaz" Planewalker — Yesterday at 9:16 PM
+She nods. “Yes, that was the one.”
+Kaz studies Zugg cautiously. “I've met plenty of wizards and sorcerers myself, but few warlocks. I knew of one who served Titania, and another who'd made a pact with an archduke of the Nine Hells and was caught trying to pass off his magic as wizardry. I imagine those who'd deal with a rakshasa were more like the latter?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:18 PM
+“Yeah. pretty much entirely that level of megalomaniacal batshit crazy lich-wannabes”
+“To be besties with a rakshasa, you have to be next level evil and into some daaaaaaaaark shit. and that's just their daily.”
+John Dungeon Master — Yesterday at 9:22 PM
+[side note: you probably don’t know what a lich is but maybe you’ve heard it’s something really really bad]
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:24 PM
+“so i've seen, i dunno, pretty much everything to see. nothing really surprises me anymore. but you have. i have experience hearing voices in my head, and i think i've even heard yours in there... a couple times actually.”
+Kasma "Kaz" Planewalker — Yesterday at 9:25 PM
+She nods, speaking telepathically Yes, that's one of the abilities I gained
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:25 PM
+WOWZERS! i can hear you... can you hear me??
+Kasma "Kaz" Planewalker — Yesterday at 9:25 PM
+(Is he speaking telepathically as well?)
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:26 PM
+(he's thinking it to try!)
+John Dungeon Master — Yesterday at 9:26 PM
+Nothing
+Kasma "Kaz" Planewalker — Yesterday at 9:27 PM
+Kaz stares at Zugg, waiting for a response. After a moment, she realizes what must be happening. “Um, I can't hear you unless I cast a spell.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:27 PM
+zug looks at kaz and kinda nods like, "yeah? yeah??"
+“dang... we could have had fun with that.”
+“well to be honest, i don't mind you going in there. i trust you. i'm actually hoping at some point you could help me find some stuff in there that i think i've lost.”
+Kasma "Kaz" Planewalker — Yesterday at 9:29 PM
+She looks surprised, then touched “Really? I'm... thank you. For trustin' me. I'm happy to help you find what you've lost”
+“I've got my spells back - that rest by the treasure chest was quite refreshin'. I could read your surface thoughts for about a minute, or I could delve deeper and get what you're currently thinkin' about.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:31 PM
+“maybe if we get the chance some other time. we gotta save our strength for what's coming next in this frickin netherese freak show of an antique shop.”
+Kasma "Kaz" Planewalker — Yesterday at 9:32 PM
+She chuckles, then turns to stare at the nothic's pendant a little sadly “...you know... I've got a bit of a theory about that”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:33 PM
+zug leans in. “well spit it out kaz! can we travel the planes with all these widgets or what?”
+Kasma "Kaz" Planewalker — Yesterday at 9:35 PM
+“I don't think so. But do you remember that symbol on the wall of that office we found Xanthos in? The one with the ten-pointed star, just like this one? ...What if that nothic was one of the uvorin decemvirate?”
+She fiddles with the charm. “The fifth point is a gold color, and the fifth name on the wall was Andrain. Was that what was left of them?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:36 PM
+gobsmacked “the fuck... ew, kaz...”
+“like he's the only one to survive?”
+Kasma "Kaz" Planewalker — Yesterday at 9:37 PM
+She sighs, letting the charm fall to her lap. “Part of me hopes it isn't. Everything I know about nothics suggests it's a terrible fate. But it's a bit too large of a coincidence to ignore”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:37 PM
+“man, i think i'd rather be a rakshasa's thrall than become one of those abominations”
+“what does it mean if you're right?”
+“do you have an inkling of what we're up against down here?”
+Kasma "Kaz" Planewalker — Yesterday at 9:38 PM
+She shrugs “I don't know. Before it died, it tried to peer into my mind. I don't think it managed it, but... why? What was it looking for?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 9:47 PM
+“why you though? are you somehow netherese? are you turning netherese? i don't get it. you know i'm not the brightest mushroom in the troop, i really need you to explain things plainly. i've saved yer butt more times than i've got mushrooms on my hat, i think i deserve to know what kinda butt i'm saving. OK that didn't come out right, i'm not super-interested in your butt, it's a pretty alright one don't get me wrong but what i'm trying to say is that our lives are on the line and we can't be holding out info from each other. it could be the difference between life and death out here. and i'm not ready for any of us to die anytime soon.”
+Kasma "Kaz" Planewalker — Yesterday at 10:05 PM
+She looks guilty, turning to stare at her boots “You're right. I'm sorry. It's just... I can't...” she tries to start a sentence several times, finally giving up with a sigh. “I do trust you. And part of why I haven't told you anything is because I haven't told anyone. I don't really know how to explain it, and I'm... I'm scared, of what it means, and of what people will think. But you're right. You're my friend, you're all my friends, and you deserve to know the truth.”
+
+“When I broke the mirror, the Contact Other Plane spell hit me. Normally, a very powerful caster specifies who or what they'd like to speak to, and they can ask that person a few brief questions. It's a very taxing spell to begin with, and even if I were powerful enough to cast it, I would've been risking my sanity. As it was...” she pauses, staring into the past “...I don't know what I spoke to. It wasn't really like speakin', honestly, more like... impressions. I would see an image - a glowing sphere with a ten-pointed star, or a Netherese mage in a robe holding some kind of rod - and I'd get the idea it was a question. Somethin' else was askin' me, not the other way 'round. And... I guess it liked me, or at least didn't mind me usin' it's power, because we stayed connected even after the spell ended.” She shudders “I wasn't in my right mind after that, not until they got a cleric to cast Greater Restoration on me. When I realized I had powers a few days later... I mean, it didn't take long to figure out that the connection between me and whatever I spoke to was some kind of warlock pact. But I still don't know why, or what it wants, or what to do about any of it. This place, those images I saw, they're my only lead.”
+
+Kaz sighs “Still... I think that wild enchantment should have killed me. And somehow, maybe because of this thing, it didn't. So that's somethin', I guess?” she smiles weakly 
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:15 PM
+“well i gotta say, those borrowed powers sure come in handy when we need to fuck some shit up. that thing you do where you... make the air wiggle and it kills shit.”
+“so you don't know what it was that gave you power? it didn't give you a name?”
+Kasma "Kaz" Planewalker — Yesterday at 10:17 PM
+“Honestly, it seemed more like it was trying to figure out who I was. It's something with the power to warp reality though, judging from what I can do with just a little of its magic”
+“I've written down everything I know in my journal.” She squeezes it slightly
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:21 PM
+“OK. well, your wiggle fingers don't scare me none, and i think they're great actually! hello wiggle fingers” Zug leans over and waves at kaz's fingers as she clasps her tome
+“I think i know what you mean about the secrets though, and people not really understanding about things you can do. if you recall, the Return of Bognar was not nearly as well-received as i had hoped
+i think Brigida punched him to death, if i recall”
+Kasma "Kaz" Planewalker — Yesterday at 10:23 PM
+She laughs, a little teary-eyed “Thank you. For everythin'. I'm... well, I'm not sorry I attacked Bognar a second time, but I'm sorry you lost your spore-servant”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:23 PM
+“well, that's the thing, i don't really consider them my spore-servants. they're my sporelings.”
+Kasma "Kaz" Planewalker — Yesterday at 10:24 PM
+“Sporelings? Like underlings? Isn't that the same as a spore-servant?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:24 PM
+“more like my children.”
+Kasma "Kaz" Planewalker — Yesterday at 10:28 PM
+She grins, clearly teasing Zug “Children you'd send out into battle?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:28 PM
+coyly “The spores are... from me. they don't bring undeath, they bring new life, growth. truly, life. i'm a druid after all, not a necromancer. but people don't seem to understand that the circle of life not only includes death, but rebirth, which leads to life, and then death again. people seem to just be concerned about life and death, and not all the important stuff that happens in between.”
+Kasma "Kaz" Planewalker — Yesterday at 10:30 PM
+Kaz looks thoughtful. “I suppose I see what you mean. It's not like you're forcing their souls back into their corpses, just... reusing the bodies for your mushrooms”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:30 PM
+“The only permanence is impermanence, and my sporelings can't live long. but while alive, they strive to move the world ever closer, even if only the tiniest step, towards justice and balance.”
+“Exactly. the souls have left entirely.”
+“It's not necromancy, it's regrowth! and now that we have a cleric with us, i can prove it!!”
+Kasma "Kaz" Planewalker — Yesterday at 10:31 PM
+“Well, it'd be the height of hypocrisy for me to stop you just because I don't quite understand your connection with them. You don't need to prove anything to me”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:40 PM
+“A lot of times people just see what they're used to seeing. they see a corpse. they see the decay, they smell the rot. it stinks and looks gross, i get that. but what they don't see and smell are the spores, which is life beginning anew, recycling death back into life. it's an inherent part of the cycle, as beautiful and meaningful and necessary as either the life or the death parts, where that dead creature is transformed into nourishment for new life instead of just lying there taking up resources. if not for the recycling spores, the dead bodies would just pile up hogging all the building blocks of life, dontcha think? and i see myself as the shepherd for that most neglected part of the cycle, the one who can turn trash... into treasure!”
+Kasma "Kaz" Planewalker — Yesterday at 10:42 PM
+Kaz looks down at the star pendant again “...maybe after we've rested, you could use the nothic's body then? Give whoever it was a kinder death?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 10:47 PM
+zug leaps to his feet and raises his WhackemStick with pride “That's the spirit, kaz! huzzah! let's give that tragic vessel another chance to do some good in this world! oh, the arc of history is long, but it bends toward justice and balance, i shall see to it with the help of my compatriots and the spores, so help me Spore Lord Psilo...” zug's voice trails off as he marches triumphantly out of the hut
+Kasma "Kaz" Planewalker — Yesterday at 10:49 PM
+Kaz smiles, picking up her journal and starting a new entry
+Odo Falcanspur (Mike) — Yesterday at 11:36 PM
+Odo stops sniffing his arm pits and diverts his gaze away out from the hut
+
+"Reckon I not seein' nothin'...not no more of them floaty balding fellas... nothin'"
+
+Odo halfway grins back towards Kaz and Zug, as he turns his head first, rest of body follows, slowly getting up and walking over closer to them
+
+"That there stick of yers def be a mighty fine wurk' of craftship, I a figure" As Odo winks towards Zuggtboy
+"I tell yew what Zuggtboy, I done never reacall be hearin' bout nothin' of how the Kenku were slaves for the Rajkabobs...I too, like Kaz, be mighty great you got free, it absolutely done be even more incentive as to why I reckon, I done now understandin' that you want to live your life for you more now than ever"
+
+Odo pauses, sniffs the air looks around, realizes it's still the fact his pits stink... smiles back at Zuggtboy
+
+"Well, also, reckon I don't know much of anything bout Psilofir, if Psilofir done help'd you rid that there slime demon when we was out in New Danksy Colony with Soverign Pen-ah-lay-is..isiisis...or...what be that their name...I reckon Psilofyr be might powerful, Psilofyr prolly done want you not to have to deal with the slime demons.  Maybe, ya can share some stories of Psilofyr with me while we resting sometime - be it stories of decay and regrowth, I up to it all, I be 'bloomin' Odo winks to know more bout that their deity of yours"
+"You ever figure that maybe that their slime critters work with the Rajkabobs?...or be it mayhaps their relationship are at ends...like do slime critters usually target Kenku?  I reckon I don't recall ever bein' taught much bout that there slime critters, like the one that done crawl out from yer gullet"
+Zuggtboy "Zug" Smutwhisper — Today at 8:42 AM
+Zuggtboy returns to the hut and sits down next to Kaz. He looks up at Odo as Odo walks over.
+“It was all happening so fast at the time and we were under duress at the altar to Psilofyr, but after i vom'd up the slime, it said that it was sent to spy on Ranjkabutt. I was targeted by it just as a way for the slime to get to Ranj... basically right outside of the human mansion, the demon got a hold of me.”
+“What i faintly remember is that i was sent on a routine fetching task outside the lair by Father Stinkmaggot, one of the few named kenku slaves and the de facto patriarch who directed the rest of us. it's all hazy now, but i remember something about a gorgeous, irresistible mushroom that i immediately wanted to stuff into my beak, but for why? I don't know! who sees a random mushroom and just gobbles it? well, maybe just me i guess.”
+“After that, all of a sudden i could feel the hands of the rakshasa released from my psyche, and i was driven to escape! but i knew he'd inevitably find me if i didn't take precautions. i remembered a special artifact that would allow me to escape and stay hidden from his reach, no matter the distance! a remarkable amulet, which he kept in one of his many treasuries! so i snatched it and ran. and i've been running ever since.”
+“I was guided as if by a voice in my mind, which i was later to discover was the slime alkilith, northward from calimshan, taking a boat from memnon to somewhere along the Sword Coast.”
+“From there I ended up in a pious druid enclave of lizardfolk Rotpriests dedicated to Psilofyr in the High Moor, and spent some time getting stronger.”
+“They found me starving and in danger in the swamps and took me in, thankfully. i became an acolyte of Psilofyr there, and it all seemed to make sense, with the mushroom dream that released me... it must have been the divine intervention of Psilofyr that released me!! praise Psilofyr, and cursed be the Demon Queen of Fungi, Zuggtmoy!”
+“And when the Rotpriests told me that there was an opportunity to meet myconids nearby, i set off to find them. that's when i met Kaz on the caravan and spent my only coin to get ferried to Fort Gilbert. i almost can't believe i met the myconids at all, without your help i would never have made it passed all those pesky drow... i'd be spider food for sure!”
+“i'm still trying to suss out what parts of me are still... actually me. and not leftover psychic detritus from one mind control or another.”
+Odo Falcanspur (Mike) — Yesterday at 1:21 AM
+"ayyyeee darn right reckon' we'd done be all spider food, glad we got outta there - that rather unique, figure them myconids, I know so much yet so little, down right hope at some point ya can teach me some of the ways ya done show praise to Psilofyr I'd be mighty interested, reckon it'd be good to hone a respect for others traditions of praise like that of praising yer Psilofyr"
+Odo Falcanspur (Mike) — Yesterday at 11:36 PM
+Odo looks to Kaz
+"Kaz - ya mention Sigil earlier, that place sounds might fun, reckon havin an ability to travel around like that would be wilder than a boil of mudbugs out from the flooded parts of Waterdeep Odo chuckles ...miss me some mudbugs... ...Kaz, reckon, you can take food with ya when ya travel planes?  I ain't ever travel planes before, figure, if it a long travel, ya might be hungry...mudbugs or not..."
+
+Odo mosey's closer to Kaz, sorta looking out through the tent, then gazing back at Kaz, poppin' a squat down next to her
+
+"Kaz, also, I could hear there shivers in yer voice...the shakes, ya need not worry bout too much with what took place with a broken magical item ya know, that there mirror, done figure we sometimes just do things, we learn, we grow, you got a good heart - ya ain't mean nothing no harm - But, ya haven't told Tinkerreach bout what that their took place, right?  Reckon I don't blame ya, ya got a lot of scrap in ye to wanna be able to provide light much like a sun in the early mornin' illuminatin' the frost on them blades of grass - I figure, I done end up many-a-time where I not havin' all the answers...but it ain't mean ya don't have closure on some things I figure."
+
+Odo shifting to scratch his nose while still smilin' a bit but getting comfy, resting an elbow in each leg's thigh, his right elbow digging into his right thigh propping his hand up so he can kinda hold his head at a tilt and scratch dirt outta his hair a little
+
+"Kaz, but, but I reckon, we're hear for a reason too, I mean if there done be anything down here that might be able to give ya more stories about what it was that be talking to ya or I don't know...some more clues...to help better figure the things out....it'd make mighty sense....ya know some folks done say folks end up in places for reasons... like ol' Nevaeh, comin' thru to town talking bout planes, you mentioning all you have...it interesting... we got a mighty fine cluster of lil grapes in stories here...."  "Kaz, ya ain't got any other leads besides them images ya done been seeing? - also, mighty glad you weren't capsized like a lil' boat in all that took place too! Odo smiles"
+Kasma "Kaz" Planewalker — Yesterday at 11:46 PM
+Kaz smiles, hesitant at first, but no less grateful “…No, I haven’t told Tinkerreach. I mean, she’s the one that found me on the floor the next morning, but she doesn’t know I’m a warlock.” Her voice softens “I haven’t even told my dad.”
+Shaking herself a little, she continues “I think you’re right. There must be something here, or why would it ask about this place?” 
+She flips to an earlier page, turning it so the rest of the group can see “Maybe you’ll see something I haven’t?”
+Nevaeh (Alicia) — Yesterday at 11:52 PM
+Nevaeh has been sitting quietly humming to herself and polishing her armor meticulously, which has mostly been removed. Odo, here. tosses Odo a bar of soap from her bag I have another one, and I think you need this one. sniffs the air Maybe some of this too, if you want. shakes a vial of perfume (Aaaand I have to go get ready for bed)
+Odo Falcanspur (Mike) — Yesterday at 11:53 PM
+Odo leans closer and takes a peek 
+"Hmmmmmmm....."
+(@John Dungeon Master  (knowledge history or arcana or something? Hehe 😆))
+AvraeBOT — Yesterday at 11:53 PM
+@Odo Falcanspur (Mike)
+Result: 1d20 (12)
+Total: 12
+John Dungeon Master — Today at 12:45 AM
+(That’s awesome)
+Kasma "Kaz" Planewalker — Today at 12:46 AM
+(thanks 😁 )
+John Dungeon Master — Today at 12:46 AM
+None of this rings a bell
+Odo Falcanspur (Mike) — Today at 1:38 AM
+(yes it is fahqing glorious!!! @Kasma "Kaz" Planewalker ya such a good artist!!!)
+Odo Falcanspur (Mike) — Today at 1:39 AM
+(I especially dig your handwriting in that, like the typography script is so damn clean an fitting!!! Massive props!!!)
+Odo Falcanspur (Mike) — Today at 2:37 AM
+Odo sighs
+"Reckon I can't say I've seen anything like that. Mighty detailed there Kaz - ya should write some stories of our adventures out in that their book of yours.” Odo chuckles and elbows her shoulder playfully.
+"Whereabouts your pops live? Over yonder a ways? Telling family first bout things can be a mighty big relief."
+Odo sorta walking closer to Zuggtboy 
+Odo takes off his armor trying to wiggle out of it like a little kid for a few long minute 
+"Wheeeeeeew"
+Odo takes the bar of soap Nevaeah tossed his way, empties a bit of waterskin water on it, rips a piece of clothing to make a makeshift rag, scrubs his pits with the rag under the shirt
+"Reckon y'all might rest better not smelling my stench"
+looks over af Kaz
+"Kaz, I reckon Zuggtboy mentioned, my pops - otherwise known as 'Daddy Falconspur'” Odo chuckles, “I’m about to have a mighty difficult talk with him when we get to WaterDeep...figure...we kinda in the same boat” Odo looks down a bit “...but I done figure if we honest and we done got integrity that there all that there matter” Odo smiles
+
+Odo sniffs the perfume Nevaeh tossed his way
+
+"Nevaeh this smells right nice... 'divine' in fact ...mighty thoughtful of ya Nevaeh, but reckon this here soap done do me mighty right” Odo sticks out his tongue with one eye closed at Nevaeh and then clicks his tongue against the roof of his mouth, setting the perfume bottle down “Perhaps someone else might here wanna take a little dab. This here... wooooweeeee! Mighty divine indeed. Many thanks for the soap!”
+Kasma "Kaz" Planewalker — 03/29/2022
+"My dad? He lives in the High Forest. It's where I grew up." She tucks a lock of hair behind an ear, exposing the pointed tip. "My mom died in a carriage accident when I was young, but they both wanted me to know about the human and elvish sides of my heritage. So when I was old enough, I set out to see the human cities and wound up in Silverymoon. It's... been a while since we've seen each other in person, but we'd write letters. I've been sending mine back down the road, but he still thinks I'm in the Conclave, so that's where his letters are goin'.
+Odo Falcanspur (Mike) — Yesterday at 1:30 AM
+"Reckon I've heard of the High Forest mayhaps in uh, passin, but not much else  - reckon it never occured to me you grew up with both the human and elvish sides - musta been mighty interestin'" Odo chuckles a bit and glances briefly at Kaz's tips of the ears "Reckon them there lushious locks of yours done make your ears disappear into thin...thin EAR" Odo coughs winks playfully "Air...air yes, dat there hair of yours sure is mighty long, figure I'm glad them spiders earlier when we saved Toby didn't crawl up in there, reckon' things might get a bit webb'd up if that done had happen" 
+
+Odo stretches "I think it'd be nice if you let your pops know you're safe... we should pay him a visit. Bet he done be worried mighty much bout ya, I mean...he probably been writing ya so many letters he done run outta wax to seal um and started using his own ear wax instead” Odo smiles. “But voyagin' out there sometime, it'd be nice. I ain’t never been there"
+Kasma "Kaz" Planewalker — Yesterday at 9:44 AM
+Kaz snorts at the pun, amused, then shudders at the thought of spiders in her hair. When Odo mentions her dad coming after her, she looks panicked. “I’ve been gone less than a year, and his letters don’t arrive that often. Gods, I hope he hasn’t come after me”
+Nevaeh (Alicia) — 03/31/2022
+Nevaeh finishes cleaning up her armor and sets it aside. Each piece stacked neatly on top of each other, folded and glistening. She then takes out a small block of incense and lights a bit, placing it in her censer. The smell brings her comfort and she smiles.
+
+Overhearing Kaz and Zug but not retaining what they're saying, she then watches Zug leave the hut while Odo talks to Kaz.
+
+She sits cross-legged, hands on her knees. Eyes open, but vacant. Lips moving, but not making any sound. After some time she closes her eyes, squinting hard, the faintest bit of bright light seeping through her lids, lips moving more fervently. Eventually, looking mildly frustrated, she opens her eyes, just as the bright light recedes behind her lids, and lets out a dramatic **sigh**
+
+Clasping her necklace she looks over to Odo and Kaz. 
+
+"Where'd Zug go? I'm not sure it's safe to leave him to wander on his own. Not that he can't handle himself well, from what I've seen anyways."
+Kasma "Kaz" Planewalker — Yesterday at 7:20 PM
+Kaz fiddles with the edge of her journal "He went to go resurrect the nothic as a spore-servant, I believe. Is everything alright?"
+Odo Falcanspur (Mike) — Yesterday at 1:36 AM
+Odo sniffs the air "Ahhh reckon that incense is nice, ya done come mighty fanciful, ya brought soap and some perfume and some incense" Odo chuckles "done do appreciate that soap ya let me, uh, have or borrow...err, I figure ya can have it back if ya want there Neevaaayyuuuhhh" Odo looks out towards the direction Zuggtboy headed.
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:12 PM
+Zug returns smiling ear to ear “Hey everyone - guess what! I just made a new friend! Could I bring her in? She’s been dying to meet you, and as it turns out… it’s also her birthday!”
+Kasma "Kaz" Planewalker — Yesterday at 11:13 PM
+Kaz looks relieved that Zugg has returned "Um, sure, but can she make it through the spell?" 
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:16 PM
+“Gosh, I dunno.” Zug scratches his head under his wide-brimmed hat, shrugs, then calls back over his shoulder. “Let’s find out! Heather, come say hi to my friends! It’s OK, they won’t hurt you!”
+John Dungeon Master — Yesterday at 11:23 PM
+the sporeling cannot enter the dome
+Kasma "Kaz" Planewalker — Yesterday at 11:24 PM
+Kaz pokes her head out, cautious but curious
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:32 PM
+(A robed figure shambles from around the corner carrying a tray with mushroom cupcake good berries on it)
+(The hood of the robe is draped forward across the chest, there is no head)
+(The figure stops after it turns the corner). “Oh come on Heather, it’s OK this time I promise! I let them know about you. It’s OK. Stop being shy and let’s celebrate your birthday!”
+Kasma "Kaz" Planewalker — Yesterday at 11:36 PM
+Kaz waves hesitantly "Um, happy birthday?"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:38 PM
+Zug turns back to Nevaeh clapping softly with a look of childlike joy and excitement
+“Now don’t you worry, my darling Moonmaiden, Heather isn’t undead! She’s my… sporelinggggggg”
+Kasma "Kaz" Planewalker — Yesterday at 11:40 PM
+“How... do you make the sporelings? Do you use magic to make the spores grow more quickly? Are they a special type of spore?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:43 PM
+“Kukukukukuku… come now Kaz, you know by now that all my spores are special! Sporelings are made with LOTS of spores, LOTS of love, and maybe just a little bit of… magicccccc”
+Zug draws a rainbow Enso circle of spores in the air with his fingers using druidcraft
+Kasma "Kaz" Planewalker — Yesterday at 11:47 PM
+Kaz uncaps her flask and lets the water whirl in a matching circle through the air
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:51 PM
+“You’ve got it, Kaz! It’s all about the circle… the cycle… going with the flow, baby!”
+(Heather walks up to the hut but the plate clinks on the edge and she stops)
+Zug sighs heavily, drops his shoulders forward “Awwwwwwww… shucks.
+Looks like you’ll have to stay outside for now, Heather!”
+Kasma "Kaz" Planewalker — Today at 12:03 AM
+Kaz returns the water to her flask "What made you choose the name Heather?"
+Zuggtboy "Zug" Smutwhisper — Today at 12:07 AM
+“Hmmm…” zug cocks his head “I didn’t really choose it. It’s just the feeling this one gives me, so I think that just is her name.”
+“She’s actually very sweet, this one. The cupcakes were her idea. Maybe that’s what it is, she’s so sweet and cute like a tart little cranberry. Cranberries are of the heather family, as it turns out.”
+Kasma "Kaz" Planewalker — Today at 12:11 AM
+"Huh" She jots the fact down in the margin of her current page
+John Dungeon Master — Today at 12:11 AM
+At this point the head falls off
+splat
+it is turning to mush..
+Kasma "Kaz" Planewalker — Today at 12:12 AM
+"Blech"
+Zuggtboy "Zug" Smutwhisper — Today at 12:12 AM
+zug gasps “Oh Heather, dramatic much? Do behave.”
+Kasma "Kaz" Planewalker — Today at 12:15 AM
+"Does it... no, I suppose it- she's still doing fine without a head"
+John Dungeon Master — Today at 12:16 AM
+it's still holding a makeshift tray of mushroom shaped goodberries
+Kasma "Kaz" Planewalker — Today at 12:17 AM
+Kaz takes one of the goodberries, making sure that there's no corpse slime on it, and nibbles at the edge
+Nevaeh (Alicia) — Yesterday at 12:51 AM
+Nevaeh stands up, still clasping her amulet. Having heard Kaz say Zug was going to get the Gnothic and seeing him round the corner with an abomination in tow... "What is that THING?!"
+"Not undead? Look at it! It's falling apart."
+Nevaeh casts Detect Evil and Good out of instinct
+Zuggtboy "Zug" Smutwhisper — Yesterday at 12:56 AM
+“She’s not undead! She’s a fungus among us, I swear it!!” Zug looks desperately at Odo for help
+Nevaeh (Alicia) — Yesterday at 12:57 AM
+(he should be getting home shortly lol)
+Kasma "Kaz" Planewalker — Yesterday at 12:57 AM
+Kaz puts up her hands placatingly “I don't think it means us any harm!”
+Nevaeh (Alicia) — Yesterday at 12:59 AM
+(What's the spell going to show?)
+Zuggtboy "Zug" Smutwhisper — Yesterday at 12:59 AM
+“I mean, well, the cupcakes are a little rich… but we’ve all been really good on cardio lately! Those frickin stone creatures and Darrow really had us huffing and puffing!”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 1:00 AM
+“There’s no reason to be afraid of carbs in moderation!!”
+Nevaeh (Alicia) — Yesterday at 1:01 AM
+Nevaeh looks to Odo as if to say, "is this normal?"
+Odo Falcanspur (Mike) — Yesterday at 1:52 AM
+Odo stares briefly at Heather, the head that's turning to mush on the ground and the plate of cupcakes with good berries
+"How unkind of me to not introduce myself Heather, my name's Odo, a friend of Zuggtboy" Odo's attempts to first direct the conversation at Heather's head that's on the ground. crouching down, attempting to see if the eyeballs are still a viable option to look into...but...but it's mush. Odo's awkwardness grows when Odo realizes he can't quite look into 'eyes' and speak with Heather
+"Happy Birthday to you!"
+"Them cupcakes do seem pretty delicious, I know I done mighty like the good berries on top. Zuggtboy always does make um really refreshin" 
+"Reckon this something ya mighta learned from that there Soverign Panalaeus down in New Dankseep Colony?"
+"Heather seems like quiet the birthday sporeling"
+"But see now ya done made me feel bad I didn't bring a gift...hold on one sec, reckon I cant be seen at a birthday party showing up empty handed"
+Odo rips a piece of his clothing off, making a long piece of fabric, making a makeshift bracelet with knots, cuts the soap into 4 pieces, and make shifts a mushroom pendant for the bracelet, sliding it on (will roll performance & dex? 😆  haha)
+"Ahhh, here ye go, Happy Birthday Heather"
+Odo walks over closer to Heather
+"Reckon Heather I could make sure this here bracelet done fit ya well? - reckon she alright with that Zuggtboy?"
+
+#choose-the-rp-adventure
+{{ if she's alright with it }}:
+Odo will fasten the bracelet around one of her wrists, nod, and again say “Happy Birthday”
+{{ if she's not alright with it }}:
+Odo will hand the bracelet to Zuggtboy, nod, and look in the direction of Heather and say “Happy Birthday”
+
+"Them cupcakes do look might delicious"
+Odo looks over at Nevaeh
+"Reckon, birthdays, yes birthdays are normal" Odo winks, playfully evading the question
+John Dungeon Master — Yesterday at 9:35 AM
+At this point most of the rest of the body falls off with a splat leaving some decaying bits loosely connected by fungal tendrils. The robe is covered in foul slime. The good berries fall right into a puddle of goo (unless someone wants to try to snatch the tray as it falls)
+Kasma "Kaz" Planewalker — Yesterday at 9:44 AM
+Kaz shields her journal from any slimy splatters, then realizes that they can’t pass through the protection spell around camp. “…Those are some impressive whittlin’ skills you got there, Odo.”
+John Dungeon Master — Yesterday at 10:34 AM
+Odo’s creation is quite impressive
+Nevaeh (Alicia) — Yesterday at 12:51 PM
+(Earlier: did my detect evil and good spell catch that thing as undead? Or something else included lol)
+John Dungeon Master — Yesterday at 12:52 PM
+Oh sorry yeah it’s not in fact undead
+It is not detected by your spell
+Nevaeh (Alicia) — Yesterday at 4:08 PM
+"I don't know how you made that thing get up and move. And I don't know how you knew its name and birthday." Looks at the goo starting to pile on the floor "But it is interesting you appear to have done that without raising it from the dead." ... "How DID you do that?" Nev is not going anywhere near the messy, smelly pieces falling off Heather
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:12 PM
+Zug turns to odo, elated “Oh yes of course Odo! After we celebrate Heather's birthday, why not come join me for a bit of meditation? That's how I pray to Psilofyr, I just kind of sit there very still and just act like, well a mushroom.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:14 PM
+“A birthday bracelet from Sir Odo?? So very kind of you! I'll go ahead and hold on to that for now, Heather is so excited, why, she's literally falling apart over it.” Zug gently but hurriedly unfastens the bracelet with an awkward smile and apologetic smile, considering he sees Heather's flesh melting away rapidly and unexpectedly 
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:19 PM
+zug, watching Heather deteriorate, poses with his arms akimbo in dismay “Oh come on Heather, let's keep it together for just a bit longer, shall we? You're supposed to last I dunno at least a day or so.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:20 PM
+as the plate slips, zug tries to catch it
+John Dungeon Master — Yesterday at 4:20 PM
+Sleight of hand
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:21 PM
+(rolled 10 in dnd beyond for sleight of hand)
+John Dungeon Master — Yesterday at 4:22 PM
+the spell requires that you target a medium or small humanoid and that thing isn’t humanoid
+What’s left of it crumples to the ground
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:24 PM
+“Well of course I would know her name. If you take the time to listen to the spores, you'd be surprised at what they could tell you! But like I said to Kaz, with just a loooooot of love, a lot of mycelia, and maybe just a pinch of magic, a corpse can be recycled and reborn into new life. I learned the technique from watching the myconids we met from before... and then praying to Psilofyr and hoping for the best. It's really a shame about the robe though.”
+Kasma "Kaz" Planewalker — Yesterday at 4:35 PM
+Kaz eyes the now soiled robes. "Aye, no amount of cleanin' will ever get the stains out of those. Best just leave them there"
+Nevaeh (Alicia) — Yesterday at 4:37 PM
+"So you're saying the spores act as like... A parasite? They infect the host and command it to do what they want?" Nev moves further back, picking up her perfume bottle and sprinkling a little bit around the hut just in case the smell starts to seep in
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:39 PM
+zug crosses his arms, taps his foot nervously and looks at the pile of writhing tendrils amassed in the goo in slight disappointment “Yeah... so i know it's your birthday and everything and i don't wanna be the one to have to tell you this Heather, but you kinda owe me 5 gold for the robes though.”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:43 PM
+not looking away from the pile “OK soooooo i'm not even gonna lie, but like, I'm not 100% sure yet. This is my second time making a sporeling and I'm kind of just getting the hang of it. But I think the way it works is, like, how strings manipulate a wooden puppet. The strings here are the magical mycelia tendrils from the fungus. You have to realize that when you see a mushroom cap, that's more like the sexual reproductive parts of the fungal organism. A lot of times the bulk of the organism is unseen, buried in the ground or in the biomass.
+Parasites feed on living creatures, so since the "puppets" here are properly dead, the sporelings are not parasites. They are more like decomposers.”
+Nevaeh (Alicia) — Yesterday at 4:47 PM
+Nev squints but you can plainly see she doesn't understand "oh, I see."
+"I feel like it's a little dangerous to play with magic that you don't understand, don't you think?"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:50 PM
+Well, I might not know exactly how it works, but I know it's not evil. And I know it's part of the... Circle of Liiiiiiiife” He draws another rainbow Enso circle in the air
+Kasma "Kaz" Planewalker — Yesterday at 4:51 PM
+Kaz noticeably winces at Nevaeh’s words
+John Dungeon Master — Yesterday at 4:51 PM
+Ok got it
+Zuggtboy "Zug" Smutwhisper — Yesterday at 4:51 PM
+“You would know if Heather were evil right Niv? You'd tell us if she were, wouldn't you?”
+Nevaeh (Alicia) — Yesterday at 4:55 PM
+"I mean... I don't sense any evil. But everything about this seems... Off. No, though, it's not evil, I guess"
+(May I roll to see if I notice kaz's wince, or was it just very noticeable that anybody would have caught it?)
+John Dungeon Master — Yesterday at 4:58 PM
+How noticeable was it?
+Kasma "Kaz" Planewalker — Yesterday at 4:58 PM
+(It definitely wasn't subtle)
+John Dungeon Master — Yesterday at 4:58 PM
+I would say roll an insight check
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:00 PM
+“Hmm... well, just because one doesn't understand something, that doesn't make it evil, or even bad. If your divine powers come from Selune herself, and if she is not telling you the sporelings are evil, then that leaves open the possibility that they could actually be entirely benign or even good, doesn't it?
+I know the sporelings aren't going to win a beauty pageant anytime soon, but Psilofyr tells me they're good, and I have faith in Psilofyr. And in time, I have faith that I can show you the sporelings really are good! If you can just gimme a chance, I swear it on the goodness of my spores!”
+Nevaeh (Alicia) — Yesterday at 5:02 PM
+22
+John Dungeon Master — Yesterday at 5:02 PM
+Yeah you saw it
+Nevaeh (Alicia) — Yesterday at 5:02 PM
+(well I'll just tuck that information away for later)
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:03 PM
+(can zug roll to have seen it too?)
+John Dungeon Master — Yesterday at 5:03 PM
+Yeah
+Kasma "Kaz" Planewalker — Yesterday at 5:03 PM
+Kaz smiles at Zug. "I may not know much about Psilofyr, but I know you, Zug. I trust that you'd only use your magic for good"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:03 PM
+21 Insight
+John Dungeon Master — Yesterday at 5:04 PM
+Yep
+Nevaeh (Alicia) — Yesterday at 5:06 PM
+"So why would you want to bring dead things back? Even if only a vessel. Do...the spores want you to?"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:06 PM
+“Aw thanks Kaz! Leave it to the warlock to have faith in the goodness of death, amirite? Can I call you that? Warlock?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:07 PM
+“I'm not bringing the dead back, Nev. The souls have left the body. I'm not a necromancer. I'm just re-using the corpse to fight for justice and balance in the NAAAAAAME OF PSILOFYRRRRRRRR. Huzzah!”
+Kasma "Kaz" Planewalker — Yesterday at 5:08 PM
+Kaz rubs the back of her neck. "Um, I suppose? As long as its just the four of us. And I don't know too much about death, so it's really more that I have faith in you"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:08 PM
+And plus, life always wants to live. Life always finds a way. So of course the spores are down.
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:12 PM
+“Sure, Kaz. I won't blabber about it to randos. It sure means a lot to me that you believe in my goodness and my magic, even though it... looks a little sus, admittedly.”
+
+“I know what it's like when people judge you without fully understanding what you're about. Like maybe even wanting to hurt you and kill you just because of a label, like "warlock". But it doesn't have to be a secret anymore - at least not with Zug and my sporelings!”
+Nevaeh (Alicia) — Yesterday at 5:13 PM
+"Hm. I mean...when we bury people we hope that their bodies go back to the earth and give the soil new life. I guess...maybe this is just an above ground version of that?" Still unsure but the logic is starting to make a little more sense
+Kasma "Kaz" Planewalker — Yesterday at 5:16 PM
+Kaz looks like she hasn't fully embraced the label, but is trying to become more comfortable with it
+Zuggtboy "Zug" Smutwhisper — Yesterday at 5:20 PM
+Gosh... I never really thought about it quite like that, but yeah! Do you mind if I steal that explanation and use it myself?
+Nevaeh (Alicia) — Yesterday at 5:21 PM
+"Oh, sure. I'm glad I'm understanding a little better."
+Kasma "Kaz" Planewalker — Yesterday at 5:27 PM
+Kaz smiles at Nevaeh. "So Nev - do you mind if I call you Nev?"
+Nevaeh (Alicia) — Yesterday at 6:04 PM
+"Nev is okay for you guys. Odo still has to call me by my full name. " big smug grin
+Kasma "Kaz" Planewalker — Yesterday at 6:07 PM
+Kaz laughs. "How did you decide to become Selune's cleric? Did you feel a calling, or did her ideals just resonate with you?"
+Nevaeh (Alicia) — Yesterday at 6:10 PM
+“My mom was a Cleric of Selune and she was so strong and caring, I couldn't see myself doing anything else except following in her footsteps. Well except the one time in my early teens where I thought I'd be a tavern owner. Seeing people leaving the taverns so happy all the time, I wanted to be part of that. Now...I understand why though.”

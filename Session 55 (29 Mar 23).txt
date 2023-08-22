@@ -1,0 +1,641 @@
+﻿    • FWe keep walking and walking down the pipe. Eventually it opens up into the wall of a cavernous space, a couple hundred feet across with a 40ft drop to the bottom. Water percolates down the opposite wall, collecting in a stream and trickling through the cavernBioluminescent growth covers the ground and walls, and small flying creatures buzz through the cavern. Lana realizes that the tiny flying creatures are bats, which pollinate the fungus.
+        ◦ The bats flit around Nev and her glowing wings as she flies down. She’s a little wary of them at first, but ends up playing around with them.
+        ◦ Kaz holds the rope for Lana and Odo to climb down, then walks down the wall herself with her spider climb slippers.
+    • Once we reach the bottom, we realize that the fungi are growing on long lumps of decaying biomass (dead purple worms). It’s not at all obvious how they died, but it’s clear that something has slit one of the worms lengthwise (though not with an edged blade – there’s just a slot of flesh that’s simply gone). Some of the other worms seem to have similar cuts on them.
+        ◦ The worms have clearly been killed at different times. The most recently killed worm has been dead for weeks.
+        ◦ Lana finds two balmspore mushrooms (restore 5d8+20 hp).
+    • Lana asks the fungus how the worms died. The fungus says that one of the worms was dragged up into the cavern from where the water is flowing out. Then, a floaty thing made some green light come out and the worm just split open.
+        ◦ Francisco (Lana) suggests the “floaty thing” might be a beholder, but Lana can’t sense any extraplanar influence within 300 ft.
+    • We get a description of the floating thing. It’s round, with lots of things that look like arms, and eyes. Kaz recognizes that it might be a beholder, but doesn’t know much about them. Nev knows that there’s a beholder crime lord in Waterdeep, who is periodically killed by adventurers and replaced by another beholder from the Underdark.
+    • We realize that the beholder might know what it is Asger could be after, and might be willing to tell us in exchange for something. We climb down to the chasm the water falls into, and walk downward along the river for hours, but we don’t see anything. It’s weirdly desolate for the Underdark.
+        ◦ Kaz casts Warp Sense, but doesn’t sense any portals within 60ft. Odo calls out to hear his voice echo.
+    • Nev is still unable to teleport us out that evening, so we decide to bed down for the night. As she starts casting Leomud’s Tiny Hut, we hear the sound of heavy footsteps running toward us. A monstrous creature holding a sledgehammer runs toward us, screeching out of its stomach mouth, and slams Smutlana with its hammer
+    • The monster bites down on Kaz’ head. She panic-casts Dissonant Whispers, killing it. As it dies, it turns to stone and falls to the floor.
+        ◦ Kaz realizes she’s seen one of these before – in the passage leading to Terzio’s lair, there was a statue-ified large thing like this. She recalls from her studies that it’s a Tomb Tapper – created by the Netherese and released into the Underdark. It’s a construct. It’s goal was to find magical relics buried underground. It was also used to fight off other creatures from the Underdark to protect the empire on the surface.
+    • We rest for the night. In the morning, Nev does some divination to determine if there are any Netherese artifacts or ruins in our path (there aren’t). Nev also asks (25% chance of random reading) whether we will encounter anything capable of summoning the Lords of the Abyss, and gets the response “not apparently, unclear.”
+        ◦ John was smiling awfully large (and turned off his camera to hide it) when I mentioned that we should try to figure out what demon-busting thing could be down here
+    • We ride alongside the river on riding lizards summoned by Lana. We enter an enormous cavern, where the river falls into a rushing waterfall. Enormous pillars stretch from the ceiling to the floor, covered in glowing fungus. The opposite side of the cavern is too far to see. About a hundred feet away, we see a few twisted, cave-adapted, grayish humanoids (not duergar) pulling a sledge, which has a wrapped ovoid object on it. They’re heading in our direction, accompanied by a 15ft tall creature with two cyclopean heads, carrying a torch. It calls out “Hurry up, scum!” All of the creatures are armed.
+        ◦ We’ve seen dead versions of the smaller ones before, around where the drow were camped out way back when we first met.
+    • Nev tries to sneak up invisibly to see what’s under the tarp, but one of the smaller creatures detects her anyway once they pass close (they don’t have eyes, so they must have blindsight). The larger creature can’t see her, but orders the others to attack anyway. Two other large creatures run out to join the fray.
+        ◦ The eight smaller creatures dash up to Nevaeh and surround her, but before they can attack, Lana casts Mycotic Maelstrom (Firestorm, but with 6d10 necrotic damage)
+        ◦ Kaz kills one of the larger creatures with Mental Prison. The other two freak out at seeing their buddy just collapse to the ground dead and run away. The party pursues and continues to attack.
+        ◦ As the creatures are running, a draconic-looking beast flies out from around a pillar on weak wings and breathes necrotic breath on them. Another of the larger creatures dies. The rest flee. The dragon (which is about the size of Terzio) uncovers the package – a gray dragon egg. It wraps its claws around the egg and says “Thank you” to us.
+    • The dragon seems interested in speaking to us! Maybe ask about what could be down here that Asger/a Shar cultist/an Archduke of the Nine Hells could want. Or, ask if there’s anything related to summoning the Lords of the Abyss (‘powerful demons’/’powerful fiends’)
+
+
+
+
+
+
+Reminder:
+
+    • Spell storing ring contains Dimension Door (not attuned)
+    • concentrating on Hex
+    • can regain spell slots with the Rod of Drosys
+
+
+To Do:
+learn how to tune a planar tuning fork to a specific plane/layer of a plane
+find a way to destroy the Conduit (since the mythallar can’t be used without it anyway, and that’s what Exilicor wants with it)
+sell nothing from Asger’s lab in Sigil, so he doesn’t know we’re connected to the city when he scries for it.
+
+
+Text RP
+John Dungeon Master — 03/30/2023 10:25 AM
+The dragon says, “Are you surface dwellersss?”
+Nevaeh (Alicia) — 03/30/2023 10:58 AM
+"We are, usually. We find ourselves a bit stuck down here. Or well, we can't leave the way we came. Magic is... different here."
+John Dungeon Master — 03/30/2023 11:00 AM
+It says: “Why are you here?”
+Nevaeh (Alicia) — 03/30/2023 11:06 AM
+"We're looking for something, but aren't exactly sure what it is. Perhaps a powerful magical artifact? We know that some bad people with bad intentions are here doing the same."
+Looking over at the egg, she muses "They were bad people with bad intentions, I expect."
+Kasma "Kaz" Planewalker — 03/30/2023 11:08 AM
+Kaz steps forward. “One of those people is an Archduke of the Nine Hells. A very powerful fiend. We think they’re looking for something that can summon or kill the Lords of the Abyss, who are other powerful fiends.”
+“Aye, bad people with bad intentions”
+Nevaeh (Alicia) — 03/30/2023 11:10 AM
+She’s still looking at the egg. "Is it unharmed?"
+Smutlana "Lana" Smutwhisper — 03/30/2023 1:32 PM
+(Presumably, Smutlana started by translating through undercommon?)
+John Dungeon Master — 03/30/2023 1:34 PM
+(It switched to common)
+It says “yesss…. “
+The dragon re-checks the whole egg, then says: “There are many fiendsss here, near, down below…”
+“And surfacesss people in dark robesss”
+Smutlana "Lana" Smutwhisper — 03/30/2023 1:41 PM
+“I am Smutlana Smutwhisper, acolyte of the Spore Lord Psilofyr and humble shepherd of The Circle. These intruders into the Underdark, they are ill-intentioned and seek to bring destruction upon the entire Planescape. All worlds on all planes are at risk. Please pardon our own intrusion, but we are here to stop them at all costs.”
+“May we ask who these creatures are who stole this egg, and for what purpose? Are they associated with the intruders, to your knowledge?”
+John Dungeon Master — 03/30/2023 1:42 PM
+It regards you silently
+Smutlana "Lana" Smutwhisper — 03/30/2023 1:42 PM
+“Can we trust that you are unaligned with these vile interlopers?”
+John Dungeon Master — 03/30/2023 1:42 PM
+“No they are simple raidersss”
+“I know nothing of what you say, but as you have aided me in rescuing my egg, I owe you a boon”
+Smutlana "Lana" Smutwhisper — 03/30/2023 2:05 PM
+Smutlana takes a knee and lowers his head “Your magnanimity would pull our world back from the precipice of calamity. We are honored and humbled to receive your consideration.”
+(Can we tell if this dragon is adult, old, or ancient?)
+John Dungeon Master — 03/30/2023 2:07 PM
+(I think it’s hard to tell)
+Kasma "Kaz" Planewalker — 03/30/2023 2:15 PM
+Kaz clutches her journal a little tighter, not really sure how to handle a dragon offering her a boon. “…Thank you. We’re glad we could help reunite you with your child.”
+She shifts nervously. “You said there were many fiends and dark-robes people down here. Do you know what they seek? Have they said?” 
+Nevaeh (Alicia) — 03/30/2023 2:20 PM
+"The people that took your baby, are they new to this area, did they come when the fiends did?"
+John Dungeon Master — 03/30/2023 2:58 PM
+Responding to Kaz it says: “No, I avoid such creatures”
+To Nev: “They were not new”
+Nevaeh (Alicia) — 03/30/2023 4:43 PM
+"Do you know how we can get to the people in the dark robes, just close enough to overhear what they're saying? We just need to know what they want with this place."
+John Dungeon Master — 03/30/2023 4:46 PM
+It cocks it’s head at an odd angle and seems to be thinking and then says “They are far from here but I can lead you there if you wish. I know a place where you can see them but remain unseen.”
+Kasma "Kaz" Planewalker — 03/30/2023 4:47 PM
+Kaz sighs with relief. “We’d appreciate it. Is it so far that we’d have to sleep before we reached it?”
+Nevaeh (Alicia) — 03/30/2023 4:47 PM
+Nev breathes out heavily. "Finally, a break."
+John Dungeon Master — 03/30/2023 4:49 PM
+“Perhapssss. I know not how quickly you tire”
+Nevaeh (Alicia) — 03/30/2023 4:54 PM
+"My wings are temporary, sadly. But our little legs can take us pretty far before getting tired."
+Kasma "Kaz" Planewalker — 03/30/2023 4:59 PM
+Kaz turns to the rest of the group. “I suppose it doesn’t really matter. If we have to stop and rest, I’ll contact our friends and let them know what we’re planning. Otherwise, well, I’ll probably need to save my energy for what lies ahead”
+Nevaeh (Alicia) — 03/30/2023 5:06 PM
+"Yeah, it doesn't. This is our best chance."
+(I didn't prep sending btw so we only have yours)
+Kasma "Kaz" Planewalker — 03/30/2023 5:13 PM
+“Aye. And if we can’t teleport out, it’s unlikely that any reinforcements can teleport in”
+Nevaeh (Alicia) — 03/30/2023 5:52 PM
+"Good point"
+John Dungeon Master — 03/30/2023 7:31 PM
+“I must first hide my egg”
+“I shall return soon”
+It picks up the egg, spreads its wings and flies away
+Odo Falcanspur (Mike) — 03/30/2023 7:39 PM
+"Bye, we will miss you!" Odo says compassionately
+Nevaeh (Alicia) — 03/30/2023 8:11 PM
+"Guess that means there's a Mister underdark dragon around here too."
+Kasma "Kaz" Planewalker — 03/30/2023 8:12 PM
+“…Huh. I guess so”
+“We’ll have to ask for their name when they get back”
+Nevaeh (Alicia) — 03/30/2023 8:13 PM
+"Oh, yeah."
+(Can we look around the cave while she's gone? See what else is sitting around here that might be useful to us. Even if it's just knowledge and not an item or thing.)
+John Dungeon Master — 03/30/2023 8:14 PM
+(Sure)
+Nevaeh (Alicia) — 03/30/2023 8:15 PM
+(anything else on the sled, or emblems or anything on the bodies left behind?)
+John Dungeon Master — 03/30/2023 8:28 PM
+No not really, they weren’t carrying any valuables, there is some suspicious dried meat and some crappy tools made out of rock and bone and some giant sizes torches
+Nevaeh (Alicia) — 03/30/2023 8:30 PM
+Nev is going to throw the meat really far away so Odo doesn't try to eat it.
+Kasma "Kaz" Planewalker — 03/30/2023 8:30 PM
+Kaz stops her. “Here. Why don’t we just burn it?”
+Nevaeh (Alicia) — 03/30/2023 8:31 PM
+"Too late."
+"One of these days he's going to eat something that will change his life forever, and probably not in a good way."
+Kasma "Kaz" Planewalker — 03/30/2023 8:33 PM
+“Well… yeah, he probably will. At least Lana will know if it’s another demon fungus”
+Nevaeh (Alicia) — 03/30/2023 8:35 PM
+"True. I'd hate to have to exorcise him."
+Kasma "Kaz" Planewalker — 03/30/2023 8:35 PM
+“I’d hate to fight a demon in him. He’d knock me down in two swings!”
+Nevaeh (Alicia) — 03/30/2023 8:36 PM
+"And still have more swings to spare."
+Kasma "Kaz" Planewalker — 03/30/2023 8:36 PM
+She shudders, nodding to one of the larger corpses in the ground. “Now I know how they felt”
+Odo Falcanspur (Mike) — 03/30/2023 8:37 PM
+Odo shouts from the distance
+"Yeeeewss a mighty right Nevvayyyuuhhh I do done needs me more exercise...done been thinking bout all them nights at the Gymnasium but reckon I should probably be a eating more vegetables and lessss that there Abyssal Chicken meeeatsss"
+Kasma "Kaz" Planewalker — 03/30/2023 8:41 PM
+Kaz looks at him, askance. “Odo… why in all the worlds do you hear us worryin’ that your food will sicken and possess you, and you assume we meant that you needed a diet?? You look fine! Very fit. Please stop eatin’ floor meat and other gross things before they hurt you.”
+She sighs, pinching the bridge of her nose. “And just because the chicken is from the Abyss doesn’t mean it can possess you.”
+Odo Falcanspur (Mike) — 03/30/2023 8:44 PM
+Odo nods from afar
+Kasma "Kaz" Planewalker — 03/30/2023 8:49 PM
+She nods back, her expression growing softer and more concerned. “Why are ye so worried about your weight?”
+Odo Falcanspur (Mike) — 03/30/2023 8:56 PM
+Odo shrugs 
+"Reckon I just done wanna be wherebear material someday like my ancestors but reckon maybe I'm 'bearable' as is too"
+Odo nods 
+"My ancestors didn't seem to flinch when they done had been dealing with some mighty intense things. Like Solenin, who done slayed a mighty demon, and even Grandpa Wilbur, who did done so much even if it ain't had been all fighting.  Done be a’ thinking I just neeeeeda beee like ‘um.  Needddaaa be someone who continues our family of heroics like Pa says and even Tammy be a doin.  Can't have me weight weighing me down too much, but I figure I be good" Odo chuckles a bit while sniffing how bad he smells
+Kasma "Kaz" Planewalker — 03/30/2023 8:58 PM
+Kaz shakes her head with a smile, walking over to Odo and giving him a long hug. “You’re already a hero, and you’ve done them proud. I can’t imagine they’d come to your aid in battle otherwise.”
+She chuckles, pulling back. “And besides, bears eat a lot before they hibernate.”
+Odo Falcanspur (Mike) — 03/30/2023 8:58 PM
+Odo's eyes get big with excitement
+Nevaeh (Alicia) — 03/30/2023 9:01 PM
+“Truth”
+Smutlana "Lana" Smutwhisper — 03/31/2023 12:00 PM
+Smutlana gestures an open hand to the 9 or so dead underdwellers “Kindly be still, Neko. You just ate plenty, I made sure of that. Surely your cup overfloweth?”
+Nevaeh (Alicia) — 03/31/2023 12:11 PM
+"Ate?"
+Smutlana "Lana" Smutwhisper — 03/31/2023 12:16 PM
+“Well you saw what happened to those underdwellers. I didn’t do that all by myself, I had Neko chew on them a little bit extra.”
+Nevaeh (Alicia) — 03/31/2023 12:17 PM
+"But, the staff didn't go anywhere near them...and it doesn't have a mouth." Nev looks genuinely confused
+Smutlana "Lana" Smutwhisper — 03/31/2023 12:20 PM
+“Through my spores, Nev. Neko empowered them, and fed on their flesh, just like how folks like us eat a wedge of cheese.”
+Nevaeh (Alicia) — 03/31/2023 12:22 PM
+She shudders "...What if your staff doesn't eat? Since apparently that's a thing it needs to do. And it's gluttonous."
+Smutlana "Lana" Smutwhisper — 03/31/2023 12:24 PM
+“Well how would you feel when you get a bit peckish? Probably a bit irritable, no?”
+Nevaeh (Alicia) — 03/31/2023 12:24 PM
+"It's more about what it WANTS to eat."
+Odo Falcanspur (Mike) — 03/31/2023 12:25 PM
+"Ya know Lana we had did done be talkin ‘bout that there stick back at then there fancy floaty bunker thing that there Ganth make existing for them Torbald and crew, and you done has been a sayin’ something ‘bout... reckon... ‘a circle done had been a giveth and a circle done had been fixin and a needin to be a taketh’. Ye done had asked me if it be a mighty fair trade. ‘Reckon I hadn’t been thinkin’ ‘bout the trade too much.  But my noggin seem a bit uneasy ‘bout it.  Ya not even done let me sniff or gnaw on that there stick. Don't even know if the stick done be a good stick or done be like Ranjat’s blade we done had sold. Lemme give it a sniff"
+Smutlana "Lana" Smutwhisper — 03/31/2023 12:25 PM
+“Neko doesn’t discriminate, as far as I can tell. Just about any flesh will suffice, isn’t that right?”
+Nevaeh (Alicia) — 03/31/2023 12:26 PM
+"Living and dead?"
+Smutlana "Lana" Smutwhisper — 03/31/2023 12:27 PM
+“Sniffies but no touchies, Odo. You have to respect Neko’s boundaries, remember?”
+Odo Falcanspur (Mike) — 03/31/2023 12:48 PM
+Odo nods
+Leans in
+Gives it a very deep sniff
+John Dungeon Master — 03/31/2023 12:49 PM
+You smell the scent of decay
+Odo Falcanspur (Mike) — 03/31/2023 12:58 PM
+Odos nostrils flare.  He pauses. Raises an eyebrow
+"Uh"
+Odo pauses
+Sniffs himself to compare
+"’Reckon that stick ain't smell like me, like it done been around in these here caves a’ sweatin’" 
+"’Reckon it kinda has a bit of a, a smelly smell that smells kinda smelly ...like with our yeasty mushroom adventures Willow be a’ tending to. But if that somehow went a’ might the wrong way... ‘Reckon it’s not like it’d smell mighty bad, but ‘reckon it smell like it mighta been a lot more fresh earlier in it's life ...like maybe it done had been on its last leg right now… like when you got family that gets a mighty old and they just got that scent to ‘um… like their day might be their last - but I do done reckon I mean no offense in describin’ what my nose be a picking up. Neko seems to have been incredibly mighty helpful for us all. Neko, I do love the name too, it’s such a good name. Neko.
+‘Reckon about the trade maybe with that there circle giveth and taketh ...what if the circle ain't got no more to taketh...then would it taketh your life Lana?  That done be how it works? I don't like that thought in the slightest. Nope, not at all"
+Odo becoming visibly frustrated at the thought that the stick might take Lana's life
+"Did you meditate on this Lana? I done feel you should do some that there reflection and speak to ol’ tendrily Psylofir on this… how would Psiloyfir feel ‘bout all this?"
+Nevaeh (Alicia) — 03/31/2023 1:46 PM
+"I mean, I'm glad that it's not in Asger's hands anymore, but I don't like it wants to feed on dead things or else it gets mad. What if there are no dead things around?" Nev shakes her head "Mmm nope, don't like it. It's not right, even for Lana's circle of life beliefs."
+Smutlana "Lana" Smutwhisper — 03/31/2023 4:06 PM
+“Well, it didn’t want to feed on them, Neko wanted to turn them undead. It’s a staff from Thanatos, remember? It’s a necromancy staff, after all. But undeath as such goes against my principles, as you well know, so as the wielder and protector of Neko, I have to make the call. And you can trust that I will make the call, as I always have, for life and death, not some twisted mockery of the two.”
+“In life, and in death, you may not always get what you want, you may only get what Nature and The Circle allow, and this should be enough. This is true for each of us, and for darling Neko.”
+“I can borrow life from myself and Nature, but only as needed, and nothing more. Neko is an ancient and powerful artifact, likely used and abused by many abominable agents over the ages. That all ends with me. Neko will help me become a champion and advocate for The Circle, and for us all. And I’ll be a champion and advocate for Neko, too. Everyone deserves a champion and advocate, after all.”
+“I don’t need to ask Psilofyr, Odo. I trust in myself, and I trust in The Circle. And I need you all to trust that I am worthy and capable of wielding the power of Nekropoietes to restore balance to the planes, without being consumed myself.”
+Nevaeh (Alicia) — 03/31/2023 4:42 PM
+"I just worry that you're not giving the staff what it wants and at some point something...bad...will happen because of that."
+Smutlana "Lana" Smutwhisper — 03/31/2023 6:13 PM
+“The only bad things that will happen with Neko in my hands will happen to those who seek to harm us or obstruct our mission to protect the planes.”
+Kasma "Kaz" Planewalker — 03/31/2023 6:15 PM
+“In Lana’s defense, he did ignore the staff’s request to raise the corpses as zombies. I’m still wary of it, but I do trust that you have it under control, Lana” Kaz pipes up 
+Smutlana "Lana" Smutwhisper — 03/31/2023 6:22 PM
+“Thank you Kaz! We all draw our power from somewhere, whether it be from the ancestors like Odo or The Moon Maiden herself, like our blessed Nevaeh. Others, like you and me, our power comes from a less obviously wholesome place. But it’s more about what we do with the power that matters, in the end. Justice, like the glorious moon, has many faces, and they’re all beautiful in their own way.”
+Nevaeh (Alicia) — 03/31/2023 6:30 PM
+Smutlana "Lana" Smutwhisper — 03/31/2023 6:33 PM
+😂
+Odo Falcanspur (Mike) — 03/31/2023 6:46 PM
+"Well I done figure…" Odo sighs. "You feel like ol Neko only be taking as needed and nothing more?" 
+"If you done be mighty sure of that, I suppose that done do put me at ease a bit" 
+"I be respecting Neko's boundaries but Neko better respect your boundaries too and not be taketh more that it do done end up be harming you to the point of taketh your life"
+(dirty 20 for Persuasion to Neko , Odo is speaking to Neko, looking at Neko deeply on the whole "respect Lana's boundaries comment" )
+John Dungeon Master — 03/31/2023 8:13 PM
+(For just a brief moment you get the feeling the staff is glaring at you, but it’s just an inanimate object)
+Nevaeh (Alicia) — 03/31/2023 8:14 PM
+(Did Odo just turn old English? "taketh")
+John Dungeon Master — 03/31/2023 8:16 PM
+Just then you hear the flapping wings of the dragon. It approaches and lands near you. “Let usss go”
+Nevaeh (Alicia) — 03/31/2023 8:17 PM
+(Weeee)
+"Lets go!"
+John Dungeon Master — 03/31/2023 8:20 PM
+It turns and heads off toward a crevice in the wall of the cavern and leads you. 
+(Is there anything more you guys want to discuss as you trek through the underdark?) 
+Nevaeh (Alicia) — 03/31/2023 8:34 PM
+"Excuse me." She’s trying to get the dragon's attention "I didn't get your name. How should we address you?"
+John Dungeon Master — 03/31/2023 8:37 PM
+Its neck bends back to look at you with its head upside down “I am called Urzulthar”
+Nevaeh (Alicia) — 03/31/2023 8:39 PM
+Well that's a cool trick. "Thank you for leading us, Urzulthar. I'm Nevaeh."
+"Can I ask, do you have any idea how we can get back to the surface from the place you're going to show us?"
+John Dungeon Master — 03/31/2023 8:40 PM
+“Go up”
+Nevaeh (Alicia) — 03/31/2023 8:43 PM
+"That...makes sense."
+Smutlana "Lana" Smutwhisper — 03/31/2023 11:08 PM
+“We want to teleport out of here, but it seems like this kind of magic is disrupted all over in this chasm. Do you know what areas or conditions will allow for teleportation out of here? And what is the nature of the magical disturbance?”
+John Dungeon Master — 04/01/2023 12:34 AM
+“I am not a scholar of the Arcane.”
+You can see that the dragon hosts some commensal or symbiotic fungi in patches on its leathery hide
+Nevaeh (Alicia) — 04/01/2023 1:00 AM
+(Always teaching me new words.)
+Smutlana "Lana" Smutwhisper — 04/01/2023 1:27 AM
+(Rolled 15 on nature to identify)
+“Well I hope my asking is not entirely untoward, but could I inquire about these glorious fungal growths that share your skin with you?”
+John Dungeon Master — 04/01/2023 12:50 PM
+“My kind have a partnership with these growing things. They allow us to breath out sporesss to defend ourselvesss as you saw”
+It stops and turns around. “This is a good place to rest”
+Urzulthar approaches Smutlana and extends her neck with her head tilted sideways and sniffs. “You too have a partnership with sporesssss…”
+Smutlana "Lana" Smutwhisper — 04/01/2023 2:26 PM
+“A wondrous and curious ability indeed… I haven’t been quite able to pull anything like that off myself. Must not have the right sporesssss…” Smutlana mimics the pronunciation
+“Here, please help yourself to some mushcakes. I make them myself” Smutlana hands one to each, and two to Urzulthar
+“Tell me more about these spores, did you find them or did they find you? Are they hereditary?”
+Kasma "Kaz" Planewalker — 04/01/2023 3:04 PM
+Kaz takes a mushcake and a seat, listening curiously.
+John Dungeon Master — 04/01/2023 5:14 PM
+“Yesss they are passed down. What of yoursss?”
+“Yoursss are far more…….”
+She turns her head right side up and stares Lana right in the eyes. “…..powerful”
+Smutlana "Lana" Smutwhisper — 04/01/2023 5:20 PM
+Smutlana drops the mushcake and reaches out “But how do you know? How can you tell? Please teach me, Urzulthar.”
+John Dungeon Master — 04/01/2023 5:22 PM
+She cocks her head again. “You do not know them? You have not spoken to them?” 
+Smutlana "Lana" Smutwhisper — 04/01/2023 5:25 PM
+“We speak together, but I cannot discern between mine and yours like you can. I’m powerful, but still young. I have not had my symbiote as long as you, I have much to learn from those such as yourself.”
+John Dungeon Master — 04/01/2023 5:42 PM
+“I know not how to teach you of this anymore than I might teach you to breath. All I can say is that you must speak to them, quiet your mind and listen until you learn their language. I smell much untapped power...”
+Smutlana "Lana" Smutwhisper — 04/01/2023 5:55 PM
+“Your wisdom will not go unheeded, Great One. Please excuse me while I give it a try…”
+Smutlana scurries off to find a more auspicious environment for a deep meditation session
+Nevaeh (Alicia) — 04/01/2023 8:10 PM
+When Lana leaves, Nev leans over to Urzulthar. "Do you smell the staff?"
+John Dungeon Master — 04/01/2023 10:31 PM
+The dragon says “it smells of rot”
+Nevaeh (Alicia) — 04/01/2023 10:36 PM
+"Mmhmm." She looks towards Lana "Let me know if you need help with that."
+John Dungeon Master — 04/02/2023 12:53 PM
+(Lana can make a wisdom check)
+Urzulthar says to the others "you should rest and sleep now if you need to"
+Nevaeh (Alicia) — 04/02/2023 1:10 PM
+“Hut time!”
+Kasma "Kaz" Planewalker — 04/02/2023 4:29 PM
+(Before going to sleep, Kaz would have cast Sending to the Watchful Voyagers to explain what was going on.
+“Asger, cultists, and fiends moving through Utmo. We’re going to spy, perhaps intercept. Magic strange here, planeshifting may be impossible”)
+John Dungeon Master — Today at 10:09 PM
+Leehan replied “Understood. I’ll pass along the message to the lord commander”
+John Dungeon Master — 04/02/2023 3:10 PM
+Lana spends the full long rest meditating in a trance
+Smutlana "Lana" Smutwhisper — 04/02/2023 3:11 PM
+Smutlana stays outside the hut but within ear shot, sitting in meditation while reciting a druidic koan "From nowhere, the spores comes forth... From nowhere, the spores comes forth..."
+John Dungeon Master — 04/02/2023 4:26 PM
+When you all awaken and the hut dissipates, you see… 
+(@Smutlana "Lana" Smutwhisper if you would like to describe your appearance)
+Smutlana "Lana" Smutwhisper — 04/02/2023 4:39 PM
+They see a large white mushroom stalk extending about 2 feet high off the ground, with about another foot for the cap. It extends to about 5’3” tall and unfurls some small appendages, shaking off the loose dirt and spores, and plucks its feet out of the earth like toothpicks from a cocktail olive, which looks like spikes, now standing at 5’8” without the hat. “Oh that’s more like it, Far Flung Fellowship,” squeals Smutlana with green eyes glimmering mischievously. “This new fungal body, does it look as skinny as it feels?”
+Smutlana prances and spins lithely around the party, light as a feather on her new toes
+Nevaeh (Alicia) — 04/02/2023 5:39 PM
+"What...but...uh...Lana?"
+"Lana, where are your feathers, and your beak, and...what is happening right now?" 
+Smutlana "Lana" Smutwhisper — 04/02/2023 6:41 PM
+“Oh Nevaeh, Urzulthar was right! There was latent power in my spores, just waiting to be released. I didn’t even know it was there, but I meditated and ushered them forth.”
+“I explained our dire circumstances, and that we needed help like we’ve never needed it before, and, well, the spores responded with this new fungal body.”
+(Fungal Body)
+(At 14th level, the fungal spores in your body alter you: you can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.)
+“I think this new flesh and body is almost as resilient as your adamantite, Nevaeh! Can you imagine?”
+“It’s still little old me inside, of course. It’s just the outside that’s changed.”
+Nevaeh (Alicia) — 04/02/2023 7:50 PM
+"Repeat back something only Lana would know."
+Smutlana "Lana" Smutwhisper — 04/02/2023 8:13 PM
+“Oh that’s easy. One time, we were being chased by an Astral Dreadnaught while aboard a spell jammer in the Astral Sea, and I borrowed incense from you to cast divination and asked Odo to rub the incense into his pits before I lit them for the spell, just for extra inspiration. But actually, I can’t cast that spell, I never could cast that spell, so subconsciously I think I just wanted to smell his pits before I died and the recommendations from the spell were hallucinated.”
+“But we picked the right color pool in any case, so it all worked out yeah?”
+Nevaeh (Alicia) — 04/02/2023 8:31 PM
+Nev is going to walk around Lana and check her out.
+And then touch her.
+Smutlana "Lana" Smutwhisper — Yesterday at 12:05 AM
+Smutlana is going to slowly spin, delusionally interpreting the inspection as an admiration.
+Nevaeh (Alicia) — Yesterday at 12:16 AM
+(Does she feel like a mushroom?)
+John Dungeon Master — Yesterday at 9:02 AM
+She feels like glamoured leather armor when you touch the part that is actually armor. If  you touch skin then yes it feels like tough fungal material.
+Nevaeh (Alicia) — Yesterday at 10:11 AM
+"I hope you have a speech prepared to give to everyone we've ever met as to why you're an actual fungus now."  She chuckles.
+Kasma "Kaz" Planewalker — Yesterday at 12:41 PM
+Kaz looks startled to see that Lana is nearly her height. “…How d’you balance?”
+Smutlana "Lana" Smutwhisper — Yesterday at 3:41 PM
+(Softened kombucha leather ahem)
+“Oh you know Smutlana, she’s always been light on her toes.”
+“I think I’ll just explain that this is the cautionary tale for holding in a sneeze. It will make your head explode or squeeze mushrooms out of your ears and then poof you’re a fungaloid.”
+“Alternatively, I could just say it’s the same old Smutlana, I just learned how to blend my contouring.”
+Kasma "Kaz" Planewalker — Yesterday at 4:33 PM
+She laughs. “Well, at least Asger really won’t recognize you now”
+Nevaeh (Alicia) — Yesterday at 5:29 PM
+"Yeah, maybe all of us need a new body."
+Realizing how grim that sounds, she quickly amends, "Er...you know...disguises..."
+Kasma "Kaz" Planewalker — Yesterday at 6:14 PM
+“Could work.” 
+She continues telepathically, “The only ones I can think of though are the fiend suits, and we can hardly fight in those”
+Smutlana "Lana" Smutwhisper — Yesterday at 8:35 PM
+Smutlana stops spinning and adopts a serious tone “Allowing oneself to be fully transformed like this is... a bit drastic to say to the least. But where we're headed, we're going to need everything we can get. New bodies. New weapons. New knowledge. New hope. New anything. Anything to survive long enough to send these fiends back to where they belong.”
+John Dungeon Master — Yesterday at 8:36 PM
+Urzulthar is just nodding with approval at the new body.
+Smutlana "Lana" Smutwhisper — Yesterday at 8:41 PM
+Smutlana curtsies in response.
+Nevaeh (Alicia) — Yesterday at 8:59 PM
+“I guess really the only ones we need to worry about are you, Kaz, and Odo. For now anyways.”
+Smutlana "Lana" Smutwhisper — Yesterday at 9:55 PM
+“You mean in terms of identities known to Asger? It can’t be long before he discovers you, Nev. You’re a Moonstar. Your name precedes you.”
+Kasma "Kaz" Planewalker — Yesterday at 9:58 PM
+Kaz fidgets with her shirt’s hem. “…Asger already knows much more about me and my family than I’d like. I doubt a face-change would really protect the people I care about” 
+Nevaeh (Alicia) — Yesterday at 10:12 PM
+“We'll just have to find him first. Easy. Heh...”
+"Yeah, you're right, Kaz. He could probably see through most disguises we could pull off anyways."
+Smutlana "Lana" Smutwhisper — Yesterday at 10:19 PM
+“We don’t need new stuff to hide from him. We need new stuff to destroy him.”
+Kasma "Kaz" Planewalker — Yesterday at 10:19 PM
+“Easier said than done, but aye”
+Nevaeh (Alicia) — Yesterday at 10:20 PM
+"We need to train more."
+"All the fancy weapons and magic in the world don't mean much if we don't know how to best use them."
+Smutlana "Lana" Smutwhisper — Yesterday at 10:24 PM
+“Speak for yourself, Moon Witch! Have at you!!” Smutlana adopts a fencing stance and starts jabbing playfully at Nevaeh’s tender bits 
+Kasma "Kaz" Planewalker — Yesterday at 10:26 PM
+Kaz chuckles. “I think Odo does enough trainin’ for all of us combined, but aye. I could probably benefit from some formal magical trainin’”
+Nevaeh (Alicia) — Yesterday at 10:42 PM
+"Nooo my tender bits!"
+"It's a shame Ganth is so ill. I mean, for many reasons, but he could be a good teacher."
+John Dungeon Master — Yesterday at 11:23 PM
+Urzulthar says, “Let us continue, I must return to my egg soon”
+Nevaeh (Alicia) — Yesterday at 11:33 PM
+"Oh, yes. Let's go."
+Kasma "Kaz" Planewalker — Yesterday at 11:39 PM
+Kaz nods, picking up her backpack and trekking after Urzulthar. “I know. Maybe he’d be willing to teach me, once all of this is over.”
+“I think some of my abilities aren’t… typical, for wizards though.” She shrugs
+Nevaeh (Alicia) — Yesterday at 11:48 PM
+"Training on keeping a level head is good for any magic. He's a pro at that."
+Odo Falcanspur (Mike) — 04/05/2023 1:18 AM
+Odo meanders out of the hut, sniffing the dirt on him, examining his scars, cracking open a ration, thumbs removing the crusty bits from the eyes. He slowly gazes out towards Kaz and Nev as they circle around a fungal body, talking to and touching said entity.
+“Uh”
+Odo fumbles the ration as it hits the weird cavernous ground.
+“Uhhhhhhhhhhhhh”
+Odo’s eyes dart toward the dragon creature and then back at the fungal body
+“Uhhhhhhhhhhhhhhhhhhhhh”
+Odo, seeing as nobody is being hostile toward said fungal entity, with an eyebrow raised up like Dwyane the Rock Johnson, meanders forward slowly.
+“Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh”
+Odo waves a friendly hello hand wave, sorta cautiously.
+“Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hi”
+Odo keeps moving forward approaching the fungal entity
+“Who’s this?”
+Odo sniffs the air deeply
+(Does Odo recognize familiar smells, can he deduce who this fungal entity is? Are there smells of Shitake Mushrooms and Wasabi root?)
+John Dungeon Master — 04/06/2023 1:32 PM
+(Odo’s initially very confused about who this is. I’m going to let @Smutlana "Lana" Smutwhisper describe the scent etc)
+Smutlana "Lana" Smutwhisper — 04/06/2023 4:21 PM
+(yes it's all the shiitake and wasabi, except now it's more pungent)
+Nevaeh (Alicia) — 04/06/2023 4:55 PM
+(Why wasabi?)
+Odo Falcanspur (Mike) — 04/06/2023 5:33 PM
+Odo smells the Shitake and Wasabi. His EYES GROW WIDE, knowing this must be Lana.
+“LANA! THIS IS YOU!?” Odo asks, astonished.
+“IS THIS PERMANENT? It don’t hurt you, do it!?”
+“You look so marvelous!” Odo’s eyes are wide, clearly still very astonished
+“I did done reckon, we was just talkin’ ‘bout Psyilofyr, Neko and all and ya did done always have the best morels - even now in this new here form ya be even more mighty porta-bello’ as I do done figure you ridin’ on them dragons or mush mares be a breeze!”
+Odo takes an excited deep breathe to begin his long monologue nodding, smiling and looking Lana in the eyes.
+“Ya know Lana, you did done been through it all! You be not ‘a leavin’ any leaf unturned, ya done push through and done been kickin all the asparag-ass in the face of all we did done be a’ dealing with.  I do done always been be-leafin’ in ya!”
+“Be that there adversity you did done deal with ever since ya did done get to Fort Gilbert, ‘bout so many folx bein’ mighty curious about ya havin’ that there possible connection to Zuggatmoi - which you do done don’t, not even in the slightest - about you and that then there slime that was deep inside ya that you then did do done had to upchuck like a rough night at the alehouse. About you and all you did done have to go through under the shackles of Ranjat and the other fellow family members like Luna and Twilight did done have to go through in then there literal slavery. About you been did done still persuin’ bakin’ (with or without heathers) with them their fabulous mushcakes that conjoined with your stealth-sharpness-cunning. And you’re one hell of a fighter - even when we was on that there cable cars on our way to see Psilofyr in…” Odo somehow gets consumed in a robotic voice very oddly and briefly as he recites in his best Kenku mimicry: “ ‘72,689, pod 509132, platform 132’ (12-for Performance) out in Mechanus escapin’ all them on the cable pod.”
+“And done be so many more things too, like the way you did done take care of helping Sear’Rebellion recently after he had did done lost his limb.  And do be a bringin’ Willow into our lives, Willow do done be just such a joy. Just all and all Lana, you do done be wonderful! Even when you did done have a bit too much of that there hookah in the Maldee district in the City of Brass at El-Rathee’s-Dukan-Seriah when we was out savin’ them musically talented Lukkah and others!  I do be mighty thankful you still around and haven’t done gone up in ‘smoke’ like that there hookah, but rather growing an’ formin’ all sorts of new connections, evolving and cultivatin’ so much good for yer’self and so many others.”
+(18 - Charisma Check, on the monologue)
+John Dungeon Master — 04/06/2023 7:33 PM
+(chatGPT summary: "In this text, Odo is surprised to see Lana in a new form after smelling the Shitake and Wasabi. He expresses his amazement and compliments her on how marvelous she looks. Odo then goes on to give a long monologue, praising Lana for all the challenges she has faced and overcome in the past, including dealing with curious people, upchucking slime, literal slavery, and helping others in need. He thanks Lana for being a wonderful person and for cultivating good for herself and others. The monologue is delivered with genuine emotion, and Odo's charisma check is successful.")
+Nevaeh (Alicia) — 04/06/2023 7:51 PM
+(gods bless you chatGPT)
+(I don't know why Odo was rolling a charisma check for something that he was just genuinely saying lol but I'm glad chatGPT thinks he passed)
+John Dungeon Master — 04/06/2023 8:06 PM
+(Generally checks are only needed when there is a chance of failure and resulting negative consequences.)
+Nevaeh (Alicia) — 04/06/2023 1:23 PM
+(We want to ask the dragon if it's seen a Beholder in the area whenever Odo's stuff is done.)
+John Dungeon Master — 04/06/2023 8:29 PM
+Urzulthar says "yes"
+Nevaeh (Alicia) — 04/06/2023 9:01 PM
+(Would a dragon be afraid of a Beholder, or vice versa? Would I know that?)
+John Dungeon Master — 04/06/2023 9:12 PM
+(probably depends on the dragon and the beholder)
+So Urzulthar continues leading you all through tunnels. Occasionally stopping and turning you around to take a different route when she smells or otherwise detects danger ahead
+Nevaeh (Alicia) — 04/06/2023 10:23 PM
+(that's handy)
+"Kaz, can you add this to the list of things I never thought I'd see in my life. An underdark dragon leading us to a potential horde of fiends and cultists because we asked it to."
+Kasma "Kaz" Planewalker — 04/06/2023 10:41 PM
+Kaz pulls out her journal, flips it open, and scrawls a note with complete seriousness.
+Smutlana "Lana" Smutwhisper — 04/06/2023 10:42 PM
+(Smutlana would inquire more deeply about the beholder - is it an enemy? Frenemy? Neighbor? Intruder? Something we should worry about? What’s the story with the purple worm surgeries?)
+Odo Falcanspur (Mike) — 04/06/2023 10:48 PM
+( bahahahahaha on the ChatGPT hahahaha 🤣 )
+Smutlana "Lana" Smutwhisper — 04/06/2023 10:50 PM
+(Literal slavery)
+John Dungeon Master — 04/06/2023 11:17 PM
+“There is a beholder that lairsss near where we met. It was served by the Ettclopsess and Grimlockss we killed. It wanted my egg. It will take it time to acquire new servantss now.” 
+Kasma "Kaz" Planewalker — 04/06/2023 11:21 PM
+Kaz shudders. "Do y'know what it wanted your egg for?"
+John Dungeon Master — 04/06/2023 11:22 PM
+“No”
+Kasma "Kaz" Planewalker — 04/06/2023 11:23 PM
+"Will your egg hatch sooner than it can find new servants to steal it?"
+John Dungeon Master — 04/06/2023 11:26 PM
+“Yes, I think so”
+Nevaeh (Alicia) — 04/06/2023 11:26 PM
+"Where is your mate?"
+John Dungeon Master — 04/06/2023 11:28 PM
+“Mate? You mean my egg’sss sire? I know not, nor care I”
+Nevaeh (Alicia) — 04/06/2023 11:29 PM
+"Good for you."
+Odo Falcanspur (Mike) — 04/06/2023 11:33 PM
+( has the dragon been speaking in common this whole time?  I was thinking the dragon has just been speaking in undercommon.  Odo don't know undercommon so I been staying outta the chatter heheheheheh )
+John Dungeon Master — 04/06/2023 11:33 PM
+(Its speaking common)
+Odo Falcanspur (Mike) — 04/06/2023 11:33 PM
+( TIL bahahahahahaha 😅🤣😅🤣😅😂 )
+John Dungeon Master — Yesterday at 8:23 PM
+After hiking through tunnels for what seems like most of the next day, you reach a juncture with another tunnel heading down to the left. Urzulthar stops and turns. “This is where we part. Head down this tunnel until you reach the end. There you’ll find a crack in the wall of the gorge that overlooks a broad ledge, and you will see them there.”
+Kasma "Kaz" Planewalker — Yesterday at 8:33 PM
+Kaz bows slightly. “Thank ye, for all of your help”
+“I hope you and your child are free from troubles”
+Odo Falcanspur (Mike) — Yesterday at 8:35 PM
+Odo nods
+Nevaeh (Alicia) — Today at 8:29 AM
+"Thank you!"
+Odo Falcanspur (Mike) — Today at 11:26 AM
+Odo turns to the rest of the party, speaking softly
+"Ya know, I reckon I could’a chatted with that there dragon more.  ‘Reckon I’m still shook up from seeing Terzio die a bit.  Also reckon that there dragon was mighty hard to understand as it did done have a mighty thick accent or uhhhh thing when it did done speak, like, ah, something with it's speech it did done do.  Nevertheless I’m happy it's egg is safe."
+Smutlana "Lana" Smutwhisper — Today at 11:42 AM
+Smutlana draws the Enso in front of her and presses her hand to her own chest for a brief prayer. “Blessing of The Circle upon you and yours, Urzulthar.”
+Kasma "Kaz" Planewalker — Today at 11:43 AM
+Kaz pats him on the shoulder. “I’m happy we got to meet them as well.” 
+John Dungeon Master — Today at 11:43 AM
+The dragon disappears around a turn and is gone.
+Nevaeh (Alicia) — Today at 12:07 PM
+Looking ahead, she asks "So...onward?"
+Kasma "Kaz" Planewalker — Today at 12:08 PM
+Kaz takes a deep breath, the lets it out slowly. “…Aye. Lana, can you make us more stealthy?” 
+Nevaeh (Alicia) — Today at 12:09 PM
+"Wait"
+Nev grabs everyone for a big group hug, holding in her breath because she's far too close to Odo's armpits for her liking. "I love you guys...gals...fungi."
+Kasma "Kaz" Planewalker — Today at 12:12 PM
+“Uh, I love you too?” Kaz looks genuine, but absolutely befuddled.
+Nevaeh (Alicia) — Today at 12:19 PM
+"Gotta remind people when they matter, you know. Seeing mom and her egg..." She gives another squeeze
+Kasma "Kaz" Planewalker — Today at 12:20 PM
+Understanding dawns. Kaz spreads her arms a little wider and squeezes a bit tighter. “Aye. And you matter too”
+Nevaeh (Alicia) — Today at 12:22 PM
+(I appreciate Kaz's approach haha analytical, logical, acceptance)
+Odo Falcanspur (Mike) — Today at 12:23 PM
+Odo smiles
+"Much of that there love back at all y'all too"
+Odo's eyes grow wider with a smirk
+"Group bear hug!!!!" Odo enthusiastically boisters
+Odo squeezes mighty tight but not enough to cut off breathing or circulation
+Kasma "Kaz" Planewalker — Today at 12:38 PM
+Kaz squawks a little in surprise, then laughs.
+Nevaeh (Alicia) — Today at 12:39 PM
+"At least you can control that strength when you want to. I think we all like breathing." She chuckles
+Smutlana "Lana" Smutwhisper — Today at 1:57 PM
+“I’m glad to be able to share the love with you all, but just to be clear, I didn’t just grow a new fungal body so I could lose it in the next battle. With legs and tits like these, I’m sorry but those fiends don’t stand an ice cube’s chance in  Avernus.”
+Nevaeh (Alicia) — Today at 1:59 PM
+(I'm gonna have to ask you about Lana's boobs for your sims character. Didn't realize she had boobs.)
+Smutlana "Lana" Smutwhisper — Today at 2:01 PM
+“Well if my name isn’t Smutlana Smutwhisper… now shhhhhhh…” Smutlana draws an Enso above the group, causing Smutwhisper spores to sprinkle down on top of the party to silence their movements
+Smutlana "Lana" Smutwhisper — Today at 2:02 PM
+(2 increments lower than the biggest possible setting, we must respect Smutlana’s modesty)
+Nevaeh (Alicia) — Today at 2:05 PM
+(huge, got it.)
+Kasma "Kaz" Planewalker — Today at 2:53 PM
+Kaz gives everyone one last squeeze, then pulls back. “Alright. Let’s do this”
+Odo Falcanspur (Mike) — 04/09/2023 12:43 AM
+( tmi: but my pits stink irl so intensely it opened up my sinuses that were previously clogged from pollen - very Odo appropriate moment )
+Smutlana "Lana" Smutwhisper — 04/09/2023 4:11 PM
+(Could be bottled and sold at Whole Foods)
+(Dual purpose nasal decongestant and potential appetite suppressant OR stimulant, depending)
+John Dungeon Master — 04/09/2023 10:36 PM
+So you head down the tunnel
+Nevaeh (Alicia) — 04/09/2023 11:15 PM
+John Dungeon Master — Yesterday at 9:38 PM
+It takes a few hours to make it down the tunnel
+But finally, you arrive at what looks like a dead end, but, sure enough, there is a slim crack through which you can peer out over a vast gorge that looks bottomless
+And there below you, is the wide flat shoulder of rock jutting out from the vertical wall of the gorge below your vantage point. The mostly flat surface is about 150-200 feet across
+There are people on it, and, other things
+Kasma "Kaz" Planewalker — Yesterday at 9:51 PM
+Kaz reaches out to hold hands with the person closest to her as she silently peers through the crack
+Nevaeh (Alicia) — Yesterday at 9:53 PM
+(Can we get a visual diagram? Are we meant to go thru the crack?)
+John Dungeon Master — Yesterday at 9:53 PM
+(You can’t fit)
+Nevaeh (Alicia) — Yesterday at 9:55 PM
+(Okay so we're just peering through it)
+John Dungeon Master — Yesterday at 9:56 PM
+(imagine a flat horizontal shelf of rock shaped kind of like an open palm sticks out from the sheer cliff face of an immense gorge. You are looking down on it from above and your crack is in that same cliff face)
+The crack seems not to be visible from below
+It’s so thin it’s like looking through a peep hole but multiple people could look out from it at the same time because it’s long
+Kasma "Kaz" Planewalker — Yesterday at 10:03 PM
+Kaz crouches down to peer through near the bottom
+John Dungeon Master — Yesterday at 10:03 PM
+(Feel free to make a perception check)
+Kasma "Kaz" Planewalker — Yesterday at 10:04 PM
+(17)
+Nevaeh (Alicia) — Yesterday at 10:07 PM
+Nev will grab Kaz's hand and kneel down with her.
+(7 perception, oh yeahhh)
+John Dungeon Master — Yesterday at 10:08 PM
+There are dozens of black cloaked people down there, and they are mostly in darkness, but you can see there is, on the left hand side of the shelf, a small structure, almost like a tent with one side missing, set up on a raised platform. In front of the tent are two torches burning with red flame. Standing guard in front of it there are two human-shaped figures that are clearly not humanoid. Golden eyes, and green-skinned faces with no mouths or noses are visible beneath their hoods.
+Nevaeh (Alicia) — Yesterday at 10:09 PM
+(oh, if it will help I'll give the party dark vision. I assume it's bright though?)
+John Dungeon Master — Yesterday at 10:09 PM
+It is not bright at all it’s mostly pitch black, so yes that helps a lot
+Nevaeh (Alicia) — Yesterday at 10:10 PM
+Oh okay, once Nev peers through she sees it's super dark and gives the party eyes of night. 
+John Dungeon Master — Yesterday at 10:10 PM
+As the people walk into the torch light, you see the purple hems and trim on their black robes
+Inside the black tent structure, there is a black chair, or really, clearly a throne
+Spread over the flat surface of the shelf of rock there is, you realize after looking for a while, an incredibly intricate arcane runic circle pattern etched and inlaid with metal in the surface of the rock. The cloaked figures are apparently, cleaning it or polishing it, or something it’s hard to tell more
+Kasma "Kaz" Planewalker — Yesterday at 10:15 PM
+(Can I recognize the purpose of the runic circle?)
+John Dungeon Master — Yesterday at 10:15 PM
+The whole thing is around 100 feet wide
+No
+About 30 feet away from the tent structure, there is what looks like a lectern set up, facing the circle. A cloaked figure pages through an heavy-looking tome resting on it
+After a minute or so of watching, you hear wings flapping above in the gorge. You see first one, then another, then another huge Balor demon swoop out and circle over the shelf
+Kasma "Kaz" Planewalker — Yesterday at 10:19 PM
+Kaz lets out a breath, but is too scared to make a noise
+John Dungeon Master — Yesterday at 10:21 PM
+You continue watching. This scene continues, basically unchanging, without a single sound until you go from being afraid to getting bored
+Do you continue watching?
+Kasma "Kaz" Planewalker — Yesterday at 10:23 PM
+“…should we try to destroy that book?” Kaz asks telepathically. “Or corrode the metal in the circle to dust?”
+Nevaeh (Alicia) — Yesterday at 10:28 PM
+(How far away from the circle are we?)
+John Dungeon Master — Yesterday at 10:28 PM
+A few hundred feet
+Nevaeh (Alicia) — Yesterday at 10:30 PM
+"I don't think we can do anything from here. I'm not sure we'd want to with those things flying around either."
+(How big is the throne?)
+John Dungeon Master — Yesterday at 10:33 PM
+Quite large, it looks like an ogre could comfortably sit in it, but could just be big for show
+Nevaeh (Alicia) — Yesterday at 10:35 PM
+(Are there guards around it?)
+John Dungeon Master — Yesterday at 10:35 PM
+(Yeah see above)
+Kasma "Kaz" Planewalker — Yesterday at 10:36 PM
+Kaz looks a tiny bit relieved. “…I guess we can keep it as a backup plan. If we really had to do somethin’”
+Nevaeh (Alicia) — Yesterday at 10:39 PM
+"That's a big chair, that's noticably empty. See anybody around that looks like their butt belongs in it?"
+Kasma "Kaz" Planewalker — Yesterday at 10:40 PM
+She shakes her head. “Darala’s father, maybe? I don’t see Darala or Asger, either.”
+Nevaeh (Alicia) — Yesterday at 10:43 PM
+"Yeah, it seems pretty quiet. Everybody looking busy but...who are they looking busy for?"
+Kasma "Kaz" Planewalker — Yesterday at 10:44 PM
+“I want to wait and see what they’re doin’, but now might be our best chance to break somethin’ irreparable”
+She tugs fretfully at a lock of hair
+Nevaeh (Alicia) — Yesterday at 10:45 PM
+"What are you thinking, exactly?"
+Kasma "Kaz" Planewalker — Yesterday at 10:49 PM
+She shrugs. “Destroyin’ the circle would certainly stop them, albeit temporarily if they knew how to recreate the sigils. Assumin’ that one there is lookin’ through a spell book, and assumin’ Asger hasn’t copied down whatever spell they need, stealin’ or destroyin’ it would really hamper them. But I don’t know. There’s so many unknowns here, and we can only reveal ourselves once before we have to run for our lives.” 
+She turns to look at Nevaeh. “D’you have any ideas?”
+Nevaeh (Alicia) — Yesterday at 10:54 PM
+"I...dont know. I mean, even if we are able to destroy one or both of them from here, we don't know how to get out of here, and they likely do." After a beat "Do you think they put that circle there? Or did they find it there?"
+Kasma "Kaz" Planewalker — Yesterday at 10:55 PM
+(Can we tell?)
+Nevaeh (Alicia) — Yesterday at 10:56 PM
+(My guess is that they're cleaning or polishing it or whatever because it is something that they uncovered. Maybe, like an archaeologist keeps a dig site clean)
+John Dungeon Master — Yesterday at 10:56 PM
+(Roll an investigation check)
+Nevaeh (Alicia) — Yesterday at 10:57 PM
+(neat, another 7)
+John Dungeon Master — Yesterday at 10:58 PM
+(You have no idea)
+Kasma "Kaz" Planewalker — Yesterday at 11:00 PM
+(12)
+John Dungeon Master — Yesterday at 11:01 PM
+(Not sure)
+Kasma "Kaz" Planewalker — Yesterday at 11:03 PM
+“I… assumed they came here for it, since they wanted to be down here specifically. But maybe they built it to take advantage of all the strange magic?” she sounds uncertain.
+Nevaeh (Alicia) — Yesterday at 11:13 PM
+"Yeah, maybe it doesn't matter anyways. Regardless it must be really powerful so I'm not sure we could destroy it so easily. The book though..."
+John Dungeon Master — Yesterday at 11:17 PM
+(So I guess we can pick up here tomorrow)
+

@@ -1,0 +1,640 @@
+﻿    • COMMISSION A PARTY PORTRAIT FOR NEW HOME!!
+    • Kaz tries to look up what could cause Sending to fail, but since she isn’t trained as a wizard and she’s frustrated and scared, she can’t quite figure out the arcane theory in the books
+    • Odo checks in on Orwyn, the butler who first led us to meet Lady Renalia and then got taken out by the yochol. He’s recovering well.
+    • We head back to Marla’s Mageworks to ask a magesmith what we can make with Terzio’s scales. We find out that dragon scale mail is expensive (100,000 gp) and time-consuming (1 year) to make
+    • We decide to use the courthouse portal to reach the Society of Law & Order headquarters (The Citadel of Disciplined Enlightenment) in Mechanus, hoping they can tell us where Mycelia is in Mechanus. However, we’re informed by the courthouse guards that the portal is closed to the public now that the Guv’nors aren’t a faction.
+        ◦ the Society of Law & Order is also called the Guv’nors
+        ◦ Lots of chaos as people are dragged to trials
+        ◦ Planar mancatchers – large version of the grabber claw that people use to pick up trash. Prevents criminals from teleporting around the city and away from guards.
+    • We decide to reach Regulus, capital city of Mechanus, via the portal on Gear Street instead.
+        ◦ on the way, we pass a plaza with people having heated philosophical discussions about the nature of gods and souls
+    • Kaz goes up to a Quadrone and asks it where the portal is. It guides the party to the line of humanoids waiting to use the portal, then returns to its post. Once we reach the front of the queue, we’re given pieces of paper with blank lines for us to fill in our information. We fill out our forms and get in another line, then finally walk through the portal (which looks like a wall of gears that will crush us, but we’re actually just sucked in through the gears)
+        ◦ it’s basically a customs form. We’re instructed to file our copy on the other side of the portal
+    • Regulus, capital city of Mechanus, is filled with mechanical noise and modrons walking around in perfect unison. The sky is perfectly black, but there’s lighting all around from the lower sides of some of the gears. There are towns and roads built onto perpendicular gears in the distance.
+    • We walk to the Information Center to get more information about how to reach Mycelia from Regulus
+        ◦ Mycelia can be reached via cable pod, a form of transportation. We’re given directions to the cable pod station.
+        ◦ We find that we can get “portable” law books from a Law Book stand (but not handwritten books, which impresses our characters. They’re produced by a magical device called an automatic scribe), and maps of Regulus from the Map Stand.
+        ◦ all Modrons give very explicit, algorithmic directions to any place we wish to go
+    • The pod station is on the edge of our gear. Enormous cables stretch up into infinity, radiating out from the hubs of different gears.
+    • We ask at the pod station how to reach Mycelia and are informed that cable pod 107514 will arrive in 732 “minute time increments” (about 12 minutes), which docks on platform 519.
+    • We rush to buy our tickets and board the pod, making it just in time. We’re the only passengers. Our pod shoots away from Regulus at high speed, and we can see Regulus’ six stacked gears glowing with warm light receding into the distance. The top gear holds the Grand Modron Cathedral.
+    • Hours pass. Every now and then, we come to a flattened cylindrical metal hub (hockey puck shaped) suspended from another cable going into infinity. These seem to be switching hubs that can put us on new cables.
+    • We come to a complete stop in the middle of one of the cables. Our modron driver reports that passenger “Turdbeak” – the humiliating and cruel name that the Rakshasa once called Zug – is under arrest for “deserting lawful indentured servitude”
+    • Zug wants to wait for Psilofyr to intervene against the modron cavalry and save him. Kaz does NOT like the idea of submitting to the Mechanus authorities (who frequently administer the death penalty for minor offenses), and begs Nevaeh to at least cast a divination spell to determine if hijacking the pod and making our own way to Mycelia is a better option. Nevaeh acquiesces, and Selune gives her the sense that the pod hijacking might be the least bad option to take.
+    • We start to feel the cable vibrating, as if something is coming along the cable toward us. Kaz attempts to use the console to make the pod start moving again, and the quadrone driver tries to attack her for breaking the law. In response, Kaz casts Banishment on the quadrone, pulls out the Rod of Understanding, and uses it to cast Comprehend Languages on Zug so he can read the control labels (which are written in Modron). As she does so, she says “It’s your destiny that’s waiting for us in Mycelia. Guide us there!”
+    • We flee down the cables, pursued by other pods. The pods slowly start gaining on us, even as we push our pod far faster than it was designed to go. We can see that the closest pod is filled with militant pentadrones. A cylindrical device pops out the bottom of the nearest pod and fires a red laser at our pod.
+    • Once the approaching pod comes within 120ft, Kaz blasts out one of its windows, and Zug casts Erupting Earth, completely obliterating all the pentadrones inside.
+    • We finally pass another junction, and Kaz casts Shatter on the cable behind us. It snaps, and the empty car and two full cars pursuing us fall down into the blackness.
+    • We continue on for about 20 mins until we come to another switch. Two pentadrones stand on top of it, and it’s lit with a red X (we likely can’t pass). We don’t want to try to force our way through the junction, so we decide to fight them off and try to turn the junction back on. They hop on top of our pod and start disabling the arm holding our pod to the cable. Thinking quickly, Kaz throws the pod in reverse, and the two pentadrones fly off the front and fall down into darkness.
+    • Nevaeh flies out of the pod to reactivate the junction switcher, then hops back in the pod as we rush away. We’ve switched onto the final track leading to Mycelia’s gear hub, but we’ve got a final pentadrone cop squad on our tail, sirens wailing. Their cannon almost completely takes out our cable arm, and they’re easily able to catch up with us.
+    • As we’re limping along, Kaz suggests we let the pentadrones catch up to us so we can defeat them and steal their ride. Odo shoves the pentadrone holding our two pods together down into the blackness. Zug and Nevaeh kill the rest of the modrons, slow both pods down until they’re stopped next to each other, and transfer into the working pod. Kaz then uses the pod laser (accessed via the mysterious red button on the console) to blast our destroyed pod off the track so we can keep going.
+    • We FINALLY reach the Mycelia gear. It’s nearly 1am, and we’re starting to get exhausted. We go down the 100+ flight of stairs from the pod station to the gear’s surface and see that there are metal grates and substructure on what appeared to be a flat gear surface from a distance.
+    • We don’t see any mushrooms, save one: Zug finds a single rustcap mushroom (whose ground-up powder can be combined with an herbalism kit to rust out metal). Looking down, he can see more growing beneath the grate beneath his feet.
+    • Zug follows the trail of rustcaps, since Psilofyr had told him to “follow the spores.” We crawl down into the ductwork, the number of rustcaps increasing as we go. As we come to an enormous patch, we hear two things: humanoid footsteps on the grate above us, and animal sniffing coming from the tunnel right behind us. We turn, and see three enormous dog-like greatures behind us, growling.
+    • Another hulking figure appears in front of us, wearing a cloak and a mask. Zug immediately recognizes it as Tash’gar, the enormous bodyguard who follows Ranjat Dor’alkaba everywhere. From above us, we hear “Finally, I’ve found my escaped servant. You’re going to pay for what you stole!”
+    • Odo growls “You’re not touching my friend,” lights the pyrogenic longsword, and attacks Tash’gar! He slashes away Tash’gar’s cape, revealing his true form to Zug for the first time. Underneath the cloak is fiendish skin sewn together like Frankenstein.
+    • The dogs are vicious, hellhound creatures named Slasher, Ripper, and Mauler. Their bites and fiery breath are a nightmare for Kaz and her companions. Ranjat chuckles softly, just watching as his minions tear us apart.
+    • Odo manages to knock off Tash’gar’s mask. Underneath, he’s several fiendish creatures sewn together, with a face that looks like an ape
+    • Kaz kills two of the hellhounds, and Zug Polymorphs the third into a sloth. Ranjat growls whenever one of his hellhounds dies.
+        ◦ the sloth tries to hit Zug, but is too slow. Zug does a mockingly slow imitation of the attack.
+    • Seeing his minions fall, Ranjat growls angrily and strides away rapidly. Kaz casts Detect Thoughts, but can’t sense his thoughts.
+    • Tash’gar is looking rough. Different colors of demonic ichor ooze from wounds on different chunks of flesh. Ranjat comes around the corner just as Odo strikes the final blow. “Do you have any idea how long it took to make that thing?” he spits, as he stalks up to Zug and claws at him. Furious, Kaz blasts him head-on, but her shots do nothing.
+    • Odo slashes Ranjat with his sword, and it actually damages him. Ranjat freaks out at being hit, tries to bewitch Odo, and fails. Zug yells at Ranjat that he serves a new master now, and has no need for an old shitty one. Kaz distracts Ranjat with a few blasts, and Odo swoops in with a critical hit. Ranjat screams in pain, drops a twin scrollcase, and teleports away
+        ◦ one scroll: shifting letters that are impossible to read
+        ◦ other scroll: Contact Other Plane!!!
+        ◦ we also hunt down and kill the polymorphed hellhound
+    • Kaz realizes we’re still at risk of being found by modrons, so we press forward looking for a safe place to rest. We come into a large open area with a yawning tunnel drilling down at a steep angle into the gear. Nevaeh can see that the tunnel goes down 200ft and ends in a wall of fungus. Zug feels like it’s calling to him.
+    • The fungal wall has wavy edges, and it seems like there might be gaps to squeeze through. The rest of the Far Flung Fellowship watch as Zug tries to squeeze through one of the gaps and the fungus swallows him. We follow, feeling as though we’re being moved rapidly through a long esophagus. We all land in a heap on top of each other on a large cirgular platform with avenues ramping out on all sides. As far as we can see, there are bioluminescent fungi stretching tens of miles. Above is a dark mist, with a faint purple glow shining through. We sense that we’ve travelled VERY far down.
+    • Myconids look at us. There’s a sluglike creature with a howdah on its back, with a myconid riding in the back. The myconid says “We’ve been expecting you. Dycto, kneel.” The slug flattens itself, and we also climb in the howdah.
+
+
+Text RP
+John Dungeon Master — Today at 11:01 AM
+You have all boarded the howdah on the back of this giant slug like slime mold creature.  the howdah looks kind of like this:
+and the creature looks like a giant version of this:
+Zuggtboy "Zug" Smutwhisper — Today at 11:02 AM
+Oh how cute… it’s a sluggtboy
+John Dungeon Master — Today at 11:02 AM
+The myconid sits astride the creature's neck-like protrusion and drives
+It begins smoothly moving forward down a declining path descending toward the wide basin-like expanse below
+Zuggtboy "Zug" Smutwhisper — Today at 11:04 AM
+How fast is sluggtboy?
+John Dungeon Master — Today at 11:04 AM
+It is very dim except for the glow of millions of luminescent fungi
+Zuggtboy "Zug" Smutwhisper — Today at 11:04 AM
+Faster than a horse?
+John Dungeon Master — Today at 11:05 AM
+he's going at elephant pace
+probably around 5 miles an hour
+theres no galloping, just a smooth oozing motion, so after a while you begin to feel much like you're on a boat 
+Zuggtboy "Zug" Smutwhisper — Today at 11:07 AM
+Well that’s convenient at least. No one likes a bumpy slug ride
+Kasma "Kaz" Planewalker — Today at 11:10 AM
+Kaz yawns "Can ye even have a bumpy slug ride?"
+John Dungeon Master — Yesterday at 11:11 AM
+to your left is a sheer cliff extending up as far as you can see in the dark
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:12 AM
+“Uh oh
+Lizard wall climb time?”
+John Dungeon Master — Yesterday at 11:14 AM
+as you descend, you begin to realize its actually curving around very slightly and curing over head.  The cavern appears to be roughly circular if not spherical on a vast almost unnoticeable scale
+Kasma "Kaz" Planewalker — Yesterday at 11:17 AM
+Kaz rubs at her eyes, pulls out her journal, and begins to write. "Well, I certainly hope that my notes, at least, make it past the modron army that's surely following us"
+"We might be the only non-myconids to ever travel to Mycelia and go on to tell the tale"
+Nevaeh (Alicia) — Yesterday at 11:23 AM
+Nev is doing everything she can to not touch the slug nor offend the myconid. It's very difficult.
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:25 AM
+“Well I don’t think Psilofyr would align with a creature as vile as Rankat… at least I hope??”
+Kasma "Kaz" Planewalker — Yesterday at 11:27 AM
+Kaz shakes her head. "I highly doubt it."
+She taps her pen thoughtfully against the journal's edge. "That other scroll, the one we couldn't read. It reminds me of the magic the Emerald Pen can do, making text appear unreadable to anyone except the message's intended recipient. If one of you has any magic to let us peer through illusions with Truesight, I think we could read it"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:28 AM
+(Zug tries to communicate with the myconid to ask if Psilofyr often summons followers to Mycelia, or if Mycelia often entertains guests)
+Kasma "Kaz" Planewalker — Yesterday at 11:28 AM
+(Illusory script lasts 10 days. Does the message become readable after that time, or does it just disappear?)
+Nevaeh (Alicia) — Yesterday at 11:30 AM
+(what about dispel magic?)
+Kasma "Kaz" Planewalker — Yesterday at 11:30 AM
+(It wipes the message)
+John Dungeon Master — Yesterday at 11:30 AM
+you think after 10 days the message would disappear 
+Nevaeh (Alicia) — Yesterday at 11:33 AM
+(we'll lose it after ten days and only the person that cast it can read it, is that right?)
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:34 AM
+(Lol we’ve got a wizlock over here)
+Kasma "Kaz" Planewalker — Yesterday at 11:34 AM
+(we've got someone who studies her own magic items, at least 😂 )
+!spell illusory script
+Kasma "Kaz" Planewalker
+Illusory Script
+1st-level illusion. (Bard, Warlock, Wizard)
+Meta
+Casting Time: 1 minute (ritual)
+Range: Touch
+Components: S, M (a lead-based ink worth at least 10 gp, which the spell consumes)
+Duration: 10 days
+Description
+You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.
+To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.
+Should the spell be dispelled, the original script and the illusion both disappear.
+A creature with truesight can read the hidden message.
+Spell | BR 252
+Nevaeh (Alicia) — Yesterday at 11:35 AM
+(True sight is out of my domain.)
+Zuggtboy "Zug" Smutwhisper — Yesterday at 11:35 AM
+(Needing of the true sight
+God that is a 6th lvl spell)
+Nevaeh (Alicia) — Yesterday at 11:36 AM
+(Yeah it'll be a bit
+That's pretty handy, first level spell, needs a sixth level to break haha)
+Kasma "Kaz" Planewalker — Yesterday at 11:37 AM
+(That's good cryptography)
+“Maybe Psilofyr can help you see the message, Zug”
+John Dungeon Master — Yesterday at 11:58 AM
+The myconid turns around and says: "our journey will be a lengthy one. I believe creatures like you need to become still and rest when they are as wan as you appear. You may rest now if you wish"
+Kasma "Kaz" Planewalker — Yesterday at 11:59 AM
+"Mm, I could sleep for a year" Kaz yawns again "It's been a day and a half. Literally, I think"
+Zuggtboy "Zug" Smutwhisper — Yesterday at 12:00 PM
+“Yes we safe in the womb of the Mush Mother. Let’s rest.” Zug uses his last spell slot to conjure some mush cakes
+John Dungeon Master — Yesterday at 12:02 PM
+The howdah floor is covered with a soft cushion made of some sort of fungal material.  it isn't slimy just dry and soft 
+Ok so you can go ahead and put in a long rest now
+~~~WE SLEEP ~~~
+Nevaeh (Alicia) — Yesterday at 1:30 PM
+“Zug, how do you feel after your interaction with that raksasha guy? What happened?”
+(Could I check him out and see if he's been cursed or something?)
+John Dungeon Master — Yesterday at 2:29 PM
+How do you want to check him out?
+Zuggtboy "Zug" Smutwhisper — Yesterday at 2:53 PM
+“Ugh… well… as if we weren’t beaten down enough after escaping the Pentadrones AND Tashgar, 
+Ranjat got his backwards ass claws into me and I felt something… evil come inside.”
+“I can’t tell if that evil is still in me”
+Kasma "Kaz" Planewalker — Yesterday at 2:57 PM
+Kaz looks worried. “Can you cast any kind of restoration spell, Nev?”
+Nevaeh (Alicia) — Yesterday at 3:13 PM
+(can I inspect the wound if it's still there? I've got high medicine and I'm a cleric so I imagine I would probably know what I'm looking for?) 
+“I may have something I can try, Kaz.”
+(If we just took a long rest I can possibly prepare some spells that would help, basically I just need to find out if I need to take remove curse or not lol)
+Kasma "Kaz" Planewalker — Yesterday at 4:09 PM
+Her worry turns to relief. "Good. I hope there's nothing wrong, but... everything I've ever learned about fiends suggests that their magic isn't to be taken lightly"
+Nevaeh (Alicia) — Yesterday at 4:23 PM
+She nods in agreement.
+John Dungeon Master — Yesterday at 4:43 PM
+The wound seems to have healed fine with the healing magic you already applied
+Zug, you dream of horrible hellish scenes the whole time, and you gain no benefit from the long rest
+Nevaeh (Alicia) — Yesterday at 5:55 PM
+“Okay, so the wound healed up fine. That should be a good sign?”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 6:04 PM
+“Ugh… no… I felt like I didn’t sleep at all
+Nightmares the whole time
+Like I was in hell”
+(Roll medicine/religion/arcana to diagnose it?)
+“I think I feel worse off than before”
+Kasma "Kaz" Planewalker — Yesterday at 6:41 PM
+Kaz hums, back to worrying. “The clerics who treated me after I got hit by that broken mirror used a spell called Greater Restoration. Is that something either of you can cast?”
+Nevaeh (Alicia) — Yesterday at 7:17 PM
+“Yes, that's a life-saving spell. I have this scroll which we could use” She holds up the scroll of Greater Restoration
+(not sure if it's useful yet though, will need DM to weigh in on what kind of checks I can make to assess Zug's condition)
+Zuggtboy "Zug" Smutwhisper — Yesterday at 7:23 PM
+(Preferably be curse free before heading in, if possible lol)
+(Psilofyr is like “bro it’s every time with you… the fuck”)
+(The horror from the myconids traumatized Zug a little bit. Not only did he puke up the slime but then he and Odo proceeded to melee it to death like, right in front of their salad)
+John Dungeon Master — Yesterday at 7:54 PM
+Nevaeh, you can make a religion check to see if you can think of how to diagnose what’s happening 
+Nevaeh (Alicia) — Yesterday at 8:03 PM
+(Rolls a nat 20)
+if ever there was a time
+John Dungeon Master — Yesterday at 8:03 PM
+Nice!
+Zuggtboy "Zug" Smutwhisper — Yesterday at 8:19 PM
+(Blessed be the Moon Maiden, forever may she be praised)
+John Dungeon Master — Yesterday at 8:26 PM
+There are many different possibilities. If he’s under a spell, detect magic should reveal that and dispel magic should usually be the treatment. If he’s cursed, then the best diagnosis is the treatment: a remove curse spell, if he has a disease or is poisoned, a lesser restoration should take care of that, and if he’s possessed, a dispel evil or protection from evil spell should work
+Nevaeh (Alicia) — Yesterday at 8:36 PM
+(oh, i forgot about the protection spells)
+Odo Falcanspur (Mike) — 06/13/2022
+"ahhh yes that there collection of them mighty quirky little Modron fellas is quite something...not sure we can go back the way we came but I ain't trying to be thinking ‘bout dem things in my noggin right now"
+He hums deeply and appreciatively. “Them there mush cakes gonna hit the spot. Ayyyy Zug ya know I wasn't gonna let him hurt ya right? After all the time ya done been sharing your history with us ain't none of us gonna let them fellas and puppers try to bring ye withum, I tell you what. But it done got me a wonderin… I don't even want another one of them slime critters getting inside ye... I’m worried that’s gonna happen… ye feel anything crawl in that there moufff of yers? I could done take a peek, see if I done see any slime critters in there if ye’d like?”
+Odo turns to the Myconid that's driving the slug elephant 🐘 "ay there good fella! Done wanna say, be mighty ‘ppreciative of this here lil big slug bud ya got, I done grew quiet fond of riding on some lizards, done had me one named Heimlich!  Zuggatboy done named his Sovereign Rosaleeeeaahhh, after a Myconid we done did new from Danksy Colony.  You done be familiar with Danksy Colony? Or even Sovereign Penalayuuuusssh from dat there New Danksy Colony?  They both mighty interesting.  What be your name? Also what be that there name of those we saw earlier before we stepped aboard this here mount of yours?  OooOoo also ya done teach me how to drive this here mount of yours?  Be mighty fond of learning me some new things."
+John Dungeon Master — 06/17/2022
+The myconid driver says telepathically, without turning around, “I am called Erésh… you may control Dictyo if you wish. It will understand you, simply speak a command”
+(You see that you are now traveling down a mossy path through a forest of towering zurkwoods with trunks a dozen feet or more in diameter)
+(From the center of the howdah canopy above you hangs a basket containing glowing green mushrooms, providing the only dim light you can see except for the occasional beam of faint purple light filtering through the gaps in the soaring caps above you) 
+Kasma "Kaz" Planewalker — 06/17/2022
+Kaz looks worriedly at Zug, then back at Erésh. Telepathically, she responds "Would you happen to know anything about rakshasas? One of them seems to have cursed Zuggtboy"
+John Dungeon Master — 06/17/2022
+“…”
+Kasma "Kaz" Planewalker — 06/17/2022
+(like he doesn't know anything, or didn't hear her message?)
+John Dungeon Master — 06/17/2022
+You think he heard you because it’s telepathy. He’s either not answering or taking a long time
+As you’re contemplating this, he says: “all will be well with aid from his friends”
+Kasma "Kaz" Planewalker — 06/17/2022
+Kaz sighs, assuming that Erésh knows what he's talking about. She pulls out the alchemy jug, focuses for a moment, then uncorks the top. She carefully pours out a healthy dollop of honey onto her ration bread. 
+"Would anyone else like some?"
+Nevaeh (Alicia) — 06/17/2022
+Nev goes to take a dollop, compares the viscosity to the slug's slime, and turns a little green. "Uh, sorry. I'm not hungry after all. Thank you though."
+"I'd like to try a few things, Zug. If you don't mind. I think I can help you with your recent, um, bad dreams." 
+"Eresh, is it alright if I cast a few spells here? I don't want to upset anyone...or anything" Looking down at their ride
+Zuggtboy "Zug" Smutwhisper — 06/17/2022
+“You’ve never made me beg for Selune’s grace, Moon Maiden, so please don’t start now. Let the moonlight burn this fiendish malady from my body and mind. Quickly please, ugh I’m suffering and exhausted.”
+Kasma "Kaz" Planewalker — 06/17/2022
+Kaz sympathetically passes Zug the honey
+John Dungeon Master — 06/17/2022
+Erésh says telepathically: “it is permitted”
+Nevaeh (Alicia) — 06/18/2022
+"Okay. Blessed Selune, guide my hands to protect our friends from this evil." She puts her hands on Zug's chest and casts Remove Curse
+John Dungeon Master — 06/18/2022
+(Zug: you feel a pulse of moonlight illuminate your body seemingly from the inside for an instant, and then, a sense of relief) 
+Nevaeh (Alicia) — 06/18/2022
+Nev's eyes glow soft white and then clear up back to her unnatural aqua color "Zug, how do you feel?"
+Zuggtboy "Zug" Smutwhisper — 06/19/2022
+“Have you ever had your soul shat on and then dragged by a rakshasa though Hell? Well I feel like that, but worse.”
+“But I think it’s getting better now, thanks to you, Moon Maiden. What did he do to me??”
+Nevaeh (Alicia) — 06/19/2022
+(DM sir, what would I know about the curse, if anything. Have I seen anything like it before? Was it degenerative? Any reason why he'd do it other than he's a jerkface? Was it tracking him in some way?)
+John Dungeon Master — 06/19/2022
+(The fact that he feels better indicates it was indeed a curse. Other than that, could you roll a religion check? @Nevaeh (Alicia) )
+Nevaeh (Alicia) — 06/19/2022
+6. Welp
+What I have advantage because it's literally the only thing I do lol cleric'ing
+John Dungeon Master — 06/19/2022
+Well, I think you know a lot about Selûne’s religion etc. but probably demonology/ diabolistics isn’t a specialty of yours. What you do know is that wounds caused by creatures of extreme evil are sometimes cursed and Zug was the only one who was clawed by the Rakshasa
+Odo Falcanspur (Mike) — 06/19/2022
+Odo winks and smiles "mighty glad to meeeet ya Erésh" ..."this here Dictyo a mighty fine critter" Odo looks amused at the slug trucking down the mossy pathway
+Odo's eyes grow wide seeing the alchemy jug produce that honey "wellll I’lll be.  never dang figured some honey could come outta that there jug.  That done look much better than that there terrrrible failed attempt at making that there thick mead wine ale booze sludge mix I had done tried before we done saw the githzerai" Odo is impressed the jug made honey.
+Kasma "Kaz" Planewalker — 06/19/2022
+Kaz chuckles. “It can make wine, too, you know”
+Odo Falcanspur (Mike) — 06/19/2022
+Odo scratches his head "welp guess I done never could figure out how to use that there thing right. good to see it getting used for producing something so sweet - looking much better than that mix I did done try to make a long while back"
+Kasma "Kaz" Planewalker — 06/19/2022
+She offers the jug. “Would you like some?”
+Odo Falcanspur (Mike) — 06/19/2022
+Odo nods and smiles "ahhh many thanks Kaz, I’ll take a lil bit and put some in this here waterskin"
+Odo graciously takes a little and dribbles a few long lines of honey into the waterskin with the water - then hands it back to Kaz. 
+"Ya know I done be thinking this here rope been through quiet a bit.  Specially these here rope knot like manacles we done did try to leverage out visiting Torbaldussss.  Thinking mayhaps done be worth stiffening these up a bit?" 
+Looking to Erésh
+"Erésh ya be alright if I done go ahead and light a candle?"
+John Dungeon Master — 06/19/2022
+(You emerge from the forest and find yourselves descending along a path into a wide shallow basin toward the lake which you saw in the distance from the higher vantage point when you entered the realm. Groves and copses of multicolored mushrooms and other fungi in all shapes and sizes are scattered around, as far as you can see to your left and right. All around there are myconids methodically tending their crops. Emerging from the center of the lake, you see the giant mushroom stalk, which must be more than 1000 feet tall. It looks over you now like a skyscraper and fog surrounds its cap)
+Erésh says: “we will arrive soon. If you wish, you may sample some of our crops on the way.” He gestures toward the mushrooms
+Nevaeh (Alicia) — 06/20/2022
+With a childish smile, she says “Okay, this is pretty cool. I don't know where to look, I want to look everywhere all at once. Eresh, what do these fungus grow in, or... Uh, what do you use for plant food? What do you feed them?” She looks to Zug and whispers with her hand by her mouth "Is it poo?"
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz is similarly entranced, writing down all Erésh’s answers and adding a few of her own questions. “How many varieties are there? What are your growing seasons like? Do you have a favorite cultivar?”
+John Dungeon Master — 06/20/2022
+(He seems kind of overwhelmed by all the questions and just sort of looks back and forth between you blinking) then he says: “the ground is fertilized with the remains of things that once lived. From them arise new living things, which in turn will die. Perhaps your friend can explain it?” He looks toward Zug.
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“They fertilize the ground with organic matter, but not manure. It’s the Circle of Life, Nevaeh, and it moves us all.” Zug draws the classic rainbow enso circle into the air with druidcraft spores
+Turning to Kaz “They don’t understand time, seasons, and favorites like we do. They’re literally just sentient mushrooms… who are probably tripping balls at any given moment. I probably couldn’t answer those questions if I was as high as them.”
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz methodically scribbles Zug’s answers in her journal. “Are they constantly high due to their physiology, or their diet, or a combination of both?” 
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“I’m gonna go with both. Normally I’d ask for clarification, but they wouldn’t know how to answer.”
+Kasma "Kaz" Planewalker — 06/20/2022
+She nods, finishing her sentence with a decisive pen flick. “Excellent, thank you Zug. I’d like to try a few different mushroom varieties, but preferably not ones that… interact poorly with each other.” She looks over Dictyo’s side, then reaches out to delicately pluck a few of the mushrooms she can reach. “Will these be okay?”
+John Dungeon Master — 06/20/2022
+Erésh says: “high?” Blink … blink
+“I am not certain of the tolerances of your flesh bodies”
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz examines one of her mushrooms, then takes a cautious nibble. "I think I've had this one before, or something like it. It's probably safe to eat"
+John Dungeon Master — 06/20/2022
+(It’s quite tasty, if you like mushrooms)
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Sorry kaz, i was looking for mushrooms that will get us fucked up. What were you saying? Ooh looks like you found a good one!! Those are delish.”
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz looks surprised, but shrugs. "Well, I suppose Psilofyr is one of the few deities who would appreciate us showing up high on mushrooms" 
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Seriously. It's like... I wanna get on the level. I want to be there.”
+John Dungeon Master — 06/20/2022
+You find some little mushrooms with a black and white spiral pattern on the top called dreamstools
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Like, now that i'm not cursed and everything.
+Ok. bingo. here we go. lemme go fetch these little bad boys, one sec...”
+Nevaeh (Alicia) — 06/20/2022
+“I'm not hungry...and, I don't think we should be willingly eating mind-altering foods in an unfamiliar place. I mean, I dunno what we're going to find up ahead.”
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+(does zug need to roll acrobatics to hop on and off the elephant slug?)
+John Dungeon Master — 06/20/2022
+(Nope it’s easy enough to hop down and Erésh sees you get off and halts the creature)
+(Erésh seems to be eyeing you closely)
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+"One kindly second, Erésh," Zug elates as he deftly scampers off the ele-snail, wiggling his erect fingers so that the tips touch each other in an undulating fashion. "Dreamstools. And I bet these are gonna be good."
+(how many does zug find)
+John Dungeon Master — 06/20/2022
+4
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Zug returns, feigning disappointment, tenderly cupping a collection of happy little mushrooms in his hands as if they were fragile quail eggs on the verge of hatching. 
+"Awwwwwwwwwww now just look at all these fabulous dreamstools that I found in Mycelia. I want to be able to interact and behave appropriately with the denizens of this realm by eating these magic dreamstools and getting on their level, including their GOD, but oh how could I - a kenku of such modest size and stature - ever possibly eat all four of these dreamstools, all by myself? Whatever am I to doooooooooo...?"
+Zug turns dramatically to the party.
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz snorts, used to Zug's theatrics, but still amused. She holds out her hand. "How long do they last?" 
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+"If only there were a group of brave and hearty adventurers ready to explore not only planes of existence, but also planes of consciousness with me. Oh, if only there were, I don't know, some kind of far-flung fellowship of..." Zug ends his theatrics and his eyes widen as he turns to Kaz
+"I... have... no... idea!", Zug chirps as he plucks one up and slowly presses it into Kaz's palm.
+“I mean typically it's, I dunno, 8-12 hours, on average, and then a cooldown of like 2-8 hours, depending on dosage and whatever else.
+But with these bad boys? I mean...”
+Kasma "Kaz" Planewalker — 06/20/2022
+She studies the mushroom uncertainly. "Normally, I'd be happy to join you, but Nev's got a point. We've still got enemies on our tail... but we should be safe here, right?"
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Zug chuckles and relaxes, laying down on his stomach and admiring the mushrooms in his hands "This might be the safest place we'll ever be in, fam. In our research, we found that there is no information about Mycelia other than that there is no information about Mycelia. Such are the vigilant defenses and monitoring of the realm by Psilofyr and the myconids. Nothing enters or leaves without express permission of the Spore Lord. Isn't that right, Erésh?"
+Odo Falcanspur (Mike) — 06/20/2022
+Odo perks up. "Reckon them there dreamstools could make a mighty fine tea? What if we done put some water, some honey and some of them dreamstools in that there fanciful jug that Kaz done knows how to make the things come outta - could we make a dreamstool mead Zuggtboy?"  Odo thinks a bit, nods, looking towards Zug as Zuggtboy lays down on his stomach admiring the shrooms in his hands.
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+"Sounds like it could be fun, but... the high temperature and fermentation processes could entirely remove the hallucinogenic effect. At that point you'd just be drinking mushroom tea - which could be yummy! - but ultimately anticlimactic, perhaps."
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz winces. "Not in the jug, please. I only just cleaned out the last of your wine experiment"
+She pulls out a few glass flasks and offers them up. "Here. These should be useful for any experiments you'd like to make" 
+John Dungeon Master — 06/20/2022
+Erésh says “You are safe from external danger here, but, you are not safe from the consequences of choices you make”
+Odo Falcanspur (Mike) — 06/20/2022
+Odo sniffs himself, his sweaty armor, nods
+"right fine idea, done figure that there jug ...yeah... that there jug be best not used for that"
+Odo nods at Kaz, slight smile
+Odo looking over at Eresh
+"Ya mighty wise Eresh, mightyyyyy wise"
+Odo chuckles a bit
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Wait a second, Erésh - should we be scarfing these psychedelic mushrooms before meeting Psilofyr or wait until afterwards? Is that the custom for non-myconids meeting Psilofyr for the first time? I have this strong urge to get high and trip balls, but I dunno if that is the will of Psilofyr... or if it's because I'm just always trying to get high and trip balls?”
+John Dungeon Master — 06/20/2022
+Erésh pauses and stares at you
+Squinting a bit
+“Trip” …
+… “Balls?”
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Oh don’t be coy, Erésh. It means…
+John Dungeon Master — 06/20/2022
+Erésh says: “the rapport spores may not be fully connecting our minds on this concept. Let us meld.” 
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“I thought you'd never ask... oh wait, I can do that?!”
+John Dungeon Master — 06/20/2022
+“Yes, you possess symbiotic spores”
+“Come closer”
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Zug scoots forward like an eager caterpillar climbing a branch with the hope of becoming a butterfly.
+John Dungeon Master — 06/20/2022
+As you abruptly join minds with the myconid, you experience an altered state of consciousness. You feel at one with everything around you and communication is seamless. You no longer feel as though your consciousness resides only within the bounds of your own body. You instead feel as though it somehow exists in everything simultaneously. You see the world around you and your friends standing there watching you, as you assume the myconids do: everything is colorful and sparkling and people seem to shine with life energy in a colorful halo. You feel Erésh examine your mind. Then after a few moments, the melding ends and your consciousness returns to normal. 
+Erésh says: “I see. It seems that the effects of these mushrooms may weaken your judgement, it is better that you wait”
+Kasma "Kaz" Planewalker — 06/20/2022
+Kaz nods, gently tucking her dreamstool into her bag.
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Don't worry, little ones. Daddy won't forget you in there.” Zug tucks the mushbabies into his herbalism kit
+“Thank you for the guidance, Erésh. One wouldn't want to make an amateur's mistake on their first trip to Mycelia.”
+Nevaeh (Alicia) — 06/20/2022
+“Are any of these fungi good for medicinal purposes? Or...do the myconid even need medicines?”
+Odo Falcanspur (Mike) — 06/20/2022
+Odo sniffs deeply
+"Ayyy uh Eresh, what done be that smell that I be smelling"
+Odo breathes deeply, sniffing hard, as if there's something in his nasal cavity, but there isn't as he stares out at all the fungi.
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Great question! Let’s see what we can find…
+Could you guide me with some moonlight, Nevaeh?”
+John Dungeon Master — 06/20/2022
+You find a single tiny, almost totally transparent mushroom
+This is a ghoststalk mushroom. If you eat it, for 1 round you can walk straight through matter
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+(The fuck)
+John Dungeon Master — 06/20/2022
+It’s a very rare magical mushroom
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Hey Erésh, what would you say are the most useful types of mushroom here in Mycelia? Could you point some of them out to us?
+Do any confer special abilities like increased cognition or strength? Increased/decreased size?”
+John Dungeon Master — 06/20/2022
+“Of course” blink blink
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Could you point some out for me? I think they would be useful in my service to Psilofyr.
+John Dungeon Master — 06/20/2022
+(he looks pensive)
+Strange mystical effects are uncommon
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Of course they are. But I bet if anyone could spot them, you could, couldn’t you Erésh?
+John Dungeon Master — 06/20/2022
+“No” 
+(He just stays still looking at you) 
+“the most useful fungi are the edible ones” (he gestures to a stand of bluecaps) 
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“That’s ok Erésh. Not everyone can be the best at everything. You just be the best fung-guide that you can be.”
+John Dungeon Master — 06/20/2022
+“Feel free to look for yourselves”
+(You could swear his eyes narrow just a tiny bit but probably your imagination)
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Zug prances off to gather some blue caps and returns with a fuckton. Most he puts in his herbalism kit for storage, but keeps some out to share.
+John Dungeon Master — 06/20/2022
+You mean you gather the spore flour by shaking them I assume
+It can be used to make “blue bread” a staple of underdark race diets
+You encountered it in the drow camp actually
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Yes, but brings some full ones back for everyone to eat
+John Dungeon Master — 06/20/2022
+Ok they’re 4 feet tall though
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Lol nvm
+John Dungeon Master — 06/20/2022
+Ok so you can get like 20lbs of spore flour or more if you want
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+Let’s get 40lbs, store it in the bag of holding
+John Dungeon Master — 06/20/2022
+Ok that takes you an hour to gather
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Erésh, since you love the blue bread so much, could you share with me some of your favorite recipes of Mycelian cuisine through the melding please? I’d love to learn how to make it fresh myself, the bread and anything else”
+John Dungeon Master — 06/20/2022
+“We absorb nutrients through our feet”
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Oh that’s convenient. So you don’t really cook anything then you kinda just eat it all in its natural form?”
+John Dungeon Master — 06/20/2022
+“That is correct”
+Zuggtboy "Zug" Smutwhisper — 06/20/2022
+“Well then what do myconids do for fun? Do you have any hobbies, play any… spore-ts?”
+John Dungeon Master — 06/20/2022
+“We find joy in performing our roles, and melding”
+Odo Falcanspur (Mike) — 06/21/2022
+(oooo ghost mushrooom 👻 !!)
+Nevaeh (Alicia) — 06/21/2022
+I'd like to look for myself 🧐
+(Nev would want to find medicinal mushrooms. Maybe perception/medicine checks? One of these days my high medicine will come in handy)
+Kasma "Kaz" Planewalker — 06/21/2022
+Kaz looks around as well for any unique-looking mushrooms
+John Dungeon Master — 06/21/2022
+Nevaeh, since you were looking specifically for medicinal mushrooms, you do eventually find a small quantity of a variety of lichen called “whitelace” that can bolster a person’s natural healing abilities. If you apply it as a poultice to someone’s wounds during a short rest, they can double the HP they regain from rolling hit dice
+Kaz, you find a red mushroom that looks like it has two horns sticking up from its cap.
+Odo you find a silly looking tall skinny mushroom about 1 cm wide and 5 ft tall
+Odo Falcanspur (Mike) — 06/21/2022
+Odo looks at the tall skinny mushroom. "Mighty tall mushroom over here, feel like it done could eat something, it ain't very thick"
+"Ayyy a Erésh, you done know if this here tall one be mighty useful for anything?"
+Kasma "Kaz" Planewalker — 06/21/2022
+Kaz studies the horned mushroom thoughtfully, rolling it between her fingertips.
+John Dungeon Master — 06/21/2022
+(Kaz doesn’t know what it is but it seems probably magic)
+Erésh says: “that is a rare variety. All mushrooms grow here. You may take one without disrupting the order of things”
+Kasma "Kaz" Planewalker — 06/21/2022
+Kaz looks over to Zug. “D’ya know what this particular mushroom is? Seems magical, but you’re the fun-guy who would know”
+Odo Falcanspur (Mike) — 06/21/2022
+Odo sniffs the five foot tall mushroom 
+Inhales deeply 
+Odo then licks the five foot tall mushroom
+(What's it taste like, is Odo instantly poisoned 🤢🤮😅🤣?)
+John Dungeon Master — 06/21/2022
+@Odo Falcanspur (Mike) it tastes much like a typical mushroom.
+You feel fine
+Nevaeh (Alicia) — 06/21/2022
+“Tastes like dirt, you should be used to that, Odo.”
+Odo Falcanspur (Mike) — 06/21/2022
+Odo nods
+"Reckon not sure what I was expecting"
+Odo chuckles a bit and starts humming his “I’m the bucket man” song to himself again as he carefully exhumes the fungi, digging around it, as to transplant it and the dirt into a bucket
+( @John Dungeon Master am I dexterous enough to do that carefully, not harvesting the mushroom but rather transplanting it into a bucket with its dirt as if it's a plant ☘️ hehe 😅😂?)
+John Dungeon Master — 06/21/2022
+You can try
+John Dungeon Master — 06/22/2022
+The mycelium spreads wayyyy out and interweaves with the surrounding mycelia of other fungi.  It’s not possible to transplant it.
+Odo Falcanspur (Mike) — 06/22/2022
+(can I still harvest it and some of the mycelia in a bucket even if I can't really 'properly' transplant it heheh 😂?)
+John Dungeon Master — 06/22/2022
+Definitely
+Odo Falcanspur (Mike) — 06/22/2022
+(yayyayay!!)
+Zuggtboy "Zug" Smutwhisper — 06/22/2022
+(Identifies the mushrooms Kaz & Odo found)
+John Dungeon Master — 06/22/2022
+Ok the one Kaz found is demonsbane, it can be refined into a poison that affects demons
+The tall silly one is called a “tallboy”, you are pretty sure if you eat the cap it causes you to actually enlarge
+Zuggtboy "Zug" Smutwhisper — 06/22/2022
+"... Odo! cut the head off this one. This one is good for big-ification. We might need this in the future..."
+(has the scenery progressively changed since we've been down here? or smells/temp changed?)
+John Dungeon Master — 06/22/2022
+(Right now you have dismounted and have been looking around this grove by the path for a couple of hours) 
+(You are still in the central basin and the gargantuan mushroom reaches an absurd distance into the air ahead. The sights and smells have changed a lot since you left the towering zurkwood forest a few hours ago. And it’s way warmer and more humid here than it was at the entrance to Mycelia high above back where you came in before your long rest. You’ve traveled many miles apparently) 
+Zuggtboy "Zug" Smutwhisper — 06/22/2022
+(just wanted to make sure that zug is aware of the changes, and also the topography, so if there is a significant change then perhaps it's time for another searching excursion becuase there could be different flora)
+John Dungeon Master — 06/22/2022
+(Yeah, you started searching here in this climate zone. But you get the feeling that magical mushrooms tend to appear kind of at random in mycelia. )
+Zuggtboy "Zug" Smutwhisper — 06/22/2022
+(great. so basically anytime is a good time for a spore_search in Mycelia. figures.)
+(spore_search was the name I gave the RP channel)
+John Dungeon Master — 06/22/2022
+Erésh says: “Are you ready to continue? Your arrival is awaited.”
+Zuggtboy "Zug" Smutwhisper — 06/22/2022
+Zug calls back over his shoulder “You heard the man. Your little mush party is over! It’s rude to keep a god waiting, even for mushroom collecting. Last one back on the howdah is a gnothic’s butthole!”
+Kasma "Kaz" Planewalker — 06/22/2022
+Kaz snorts, disappearing on the spot and reappearing in the howdah. "Like you weren't the first one of us to get distracted mushroom-collectin', Zug" she teases.
+John Dungeon Master — 06/22/2022
+(The slime mold slug has fanned out on the ground while you were mushroom hunting but at Erésh’s command it agglomerates back into slug shape beneath you and begins gliding forward again toward the lake)
+Odo Falcanspur (Mike) — 06/22/2022
+(Nat 1 athletics check to try to dash over to Erésh? Because Odo doesn't want to be a Gnothic’s butthole)
+John Dungeon Master — 06/22/2022
+(Nat 1 I’m afraid in your haste you trip on a mushroom and end up being the last one back as Kaz, who was behind you, suddenly just materializes on the howdah)
+Odo Falcanspur (Mike) — 06/22/2022
+"pfffffffffffffff" 
+"dang shrooms"
+Odo picks himself up after tripping over a mushroom - looking defeated… knowing that he is now the Gnothics Butthole he had so wished he wasn't
+Kasma "Kaz" Planewalker — 06/22/2022
+Kaz chuckles, patting Odo sympathetically as he climbs into the howdah. “Cheer up, Odo. I don’t think gnothics have buttholes”
+John Dungeon Master — 06/22/2022
+You pass by a large mound of humus on your right on which a circle of myconids stands, clearly melding. Ahead, the clouds shift and a vast slanting column of dim purple light filters down from above and illuminates one side of the towering mushroom. It’s reflection streaks across the lake surface, eerily, and then, the clouds move again and it’s dark. Rain starts to fall around you and you hear droplets hitting the canopy.
+Kasma "Kaz" Planewalker — 06/22/2022
+Kaz continues to take notes as they travel, making a few drawings in her journal
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+Zug cocks his head to the side and addresses Kaz playfully. “Wow Kaz, how lucky we are to have a resident expert in extraplanar and arcane buttholology! Does your obsessive intellectual curiosity have any limits? When Heather completed the Circle on that Gnothic, I didn't see a butthole... but she sure smelled like one! Speaking of buttholes...”
+Zug limp-wristedly beckons Nevaeh with mock alarm “Ew! Nevaeh! Odo needs a dirty nothic butthole bath! He can't meet a god in this unclean state.”
+Kasma "Kaz" Planewalker — 06/23/2022
+She chuckles. “My curiosity is, in fact, boundless. It’s gotten me into my fair share of trouble, actually”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“Well I suppose that makes sense... the Far Realm kinda seems like the spooky, mysterious butthole nether-reaches of the entire planescape. Well, I can assure you that a planar buttholologist is a most welcome addition to a fellowship such as ours.”
+“Excuse me - Dr Planar Buttholologist.”
+Kasma "Kaz" Planewalker — 06/23/2022
+She snorts. “I didn’t actually know all that much about the Far Realm before all of this, you know. I was more focused on the study of the Outer Planes. Not that that hasn’t come in handy as well, these days.”
+She shrugs. “I still don’t know much, honestly. I’ll grant you it’s eerie though” 
+She bites her lip. “Speakin’ of my… insatiable curiosity, I’ve had a bad idea for a while now and I just can’t shake it.” She flips back in her journal, stopping on a particular page. “When we were at the library, I read up a bit on Ilsensein, which is one of the powers the mindflayers worship. Ilsensein has a realm in the Outlands, and people sometimes go there to ask after tricky information. Only… they usually don’t come back sane… or at all, actually.”
+She closes the journal, as if to keep the page away from herself. “I know it’s insanely dangerous and I should probably stick to safer avenues of information, but… it’s been on my mind”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“Well if we have to go there to get your answers, Kaz, then so be it.”
+Zug reaches a hand out into the empty space in front of him and then grasps a fistful of air, as if snatching a wish from the ether.
+“I'd dive head-first (but carefully, nonetheless) into even the eeriest of planar buttholes if I thought it could help you.”
+Kasma "Kaz" Planewalker — 06/23/2022
+Kaz laughs, patting Zug’s knee. “Thank you Zug. I would do the same for you as well”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“Kukukukuku... and so there we have it: The Fellowship of Planar Buttholes. Wouldn't that be a fun way to introduce ourselves to a god?”
+Kasma "Kaz" Planewalker — 06/23/2022
+She gives him a flat look. “I refuse.”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“I dunno. It kinda has a nice ring to it. But whatever you say, Dr. Boss of Planar Buttholology.” Zug gives a mock salute and then passes the fuck out, he's finally able to sleep after the lifting of the curse
+Kasma "Kaz" Planewalker — 06/23/2022
+Kaz rolls her eyes, settling back down with her journal and letting Zug rest.
+Odo Falcanspur (Mike) — 06/23/2022
+looking at Zuggtboy, nodding slightly
+Odo sniffs himself deeply
+Odo squats down, sniffing around his feet
+"Reckon maybe I just done smell a bit like the rest of this place... but uhhhh"
+Odo dries up some of his sweaty pits
+"..but uhhh perhaps a bit sweatier...still... maybe this done be because ol' La-shal, that there githzerai, when I done tossed my shirt her way reckon it got worn down a bit more...wonder if she done be good"
+Odo ponders a bit remininscing about La-shal
+"I shoulda borrrowed one of that there Kah-Roat Warriors threads..."
+"Y'all ever think back to when they done called us 'Cutter', felt mighty friendly?...but reckon done fixing to get involved in all that Kah-Roat and Threk theatrics be not the best move- tho Kaz, done be mighty impressed how ya done snagged them arm bands and really done greased that situation all mighty smooth like"
+Odo wiggles his nose as if it's itchy
+"hmmm buttholes... reckon, it not sound as good as 'butt'er. mmm butter...”
+Odo thinks of a massive loaf of sourdough with a large slab of butter
+"Ayyy uh, Eresh, ya done got a pond I could take a dip in before we uh have that there meetin'?... errr, well maybe it don't matter...would I be smell-able?"
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“Honestly Odo i was just thinking some water from Nevaeh's pitcher wouldn't kill you. Like maybe when we get off the howdah. But then again, evidently there's a lake up ahead.
+John Dungeon Master — 06/23/2022
+(As you approach the lake shore, you see a pier made of zurkwood juts out into the water where the path ends and 3 myconids seem to be awaiting your arrival. There is a round boat that seems to be made from an inverted huge mushroom cap moored there.) 
+(The water appears to be largely coated with what you might call pond slime)
+Nevaeh (Alicia) — 06/23/2022
+“I'm not sure that will be any better, Odo. I think the pitcher is your best option. And I highly suggest, of all the times to make yourself presentable, it be before a god. (Is he a god, exactly?)”
+Kasma "Kaz" Planewalker — 06/23/2022
+Kaz tries to Shape Water out of the lake to separate it from the pond slime
+John Dungeon Master — 06/23/2022
+You extract the lumpy fungus slime from some of the water but it’s still pretty turbid
+Kasma "Kaz" Planewalker — 06/23/2022
+She gently returns the water to the lake. "Aye, the pitcher is your best bet, Odo"
+Odo Falcanspur (Mike) — Today at 5:53 PM
+"Ahhh, reckon, that there lake might not be the best of ideas... 'specially...if there toads....fahqing toads..."
+Odo shudders a bit
+"Y'all both right....I'd gladly briefly done be using that there pitcher that there has the water"
+Odo takes some of the pitcher’s water, put it in two separate buckets, one bucket for dirty wash bucket, the other with more clean-like water - as he takes one of the 18in rope segments he used for handcuffs, wad it up, soak it in the bucket, then scrub himself with it (no soap), then kinda wring it out back into the bucket. After he gets under his pits and under his armor (without taking much off), he'd empty the dirty water bucket, let the rope handcuff (1/4) dry, then pour the bucket containing the more clear water over his head/armor/etc, and flick his hair back as if he's a dolphin jumping out of the water
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“Psilofyr is indeed a god, but it's a bit complicated. Psilofyr is in a sense omnipresent, and can manifest in multiple places at once.”
+“Outside of myconids, followers of Psilofyr are extremely rare. It is a god that does not proselytize in quite the same way as we are used to seeing in Toril. So precious little is known about Psilofyr, as we have seen in our research efforts”
+Kasma "Kaz" Planewalker — 06/23/2022
+Kaz holds up her journal to demonstrate. "I won't reveal anythin' Psilofyr doesn't want me sharin', of course"
+John Dungeon Master — 06/23/2022
+Erésh says: “we have arrived, dictyo, kneel.”
+(The slug creature flattens out bringing your howdah close to the ground)
+Erésh says: “please embark”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“Of course. Thank you so much for your help Erésh. Your arrival and assistance has been like a breath of fresh spores. Or dank ones. I actually like the dank ones better, anyhow.”
+I think you can take as many notes as you wish, Kaz. Psilofyr knows all, here and elsewhere, so if there's anything we take from here, it's because it was allowed. We'll be stopped otherwise.
+Kasma "Kaz" Planewalker — 06/23/2022
+She hugs her journal to her chest, nervous about being asked to part with it, but nods
+Gently, she steps onto the boat
+Nevaeh (Alicia) — 06/23/2022
+After disembarking Nev puts her hand out to pat the slug as a sign of affection "Thanks for the ride, we really needed the moment of respite." holding her hand up, shakily "Uh..." she puts her hand back down and smiles "Yeah, just thank you."
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+Zug ushers everyone else onto the boat and then boards it himself
+John Dungeon Master — 06/23/2022
+Erésh and the 3 other myconids step onto the boat behind you. The newcomers pick up zurkwood oars and begin to propel the boat out into the lake
+The inside of the mushroom cap boat has been carved out leaving a bench-like seat wrapping around the inside of the hull. The oar-bearing myconid crew stands up on the rim. Erésh sits in the center with the four of you
+The gigantic mushroom at the center of the lake looks impossibly enormous from here. It’s top is shrouded in fog.
+Kasma "Kaz" Planewalker — 06/23/2022
+Kaz picks at a small sliver of the seat, curious about the texture
+John Dungeon Master — 06/23/2022
+It’s been hardened and has the texture of soft wood
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+Wait... hey Erésh, is that big mushroom Psilofyr?
+John Dungeon Master — 06/23/2022
+“That is the palace of Psilofyr”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+OK, i was gonna say...
+Kasma "Kaz" Planewalker — 06/23/2022
+Kaz looks up in awe. "How long did it take to build? Or, grow, I suppose"
+John Dungeon Master — 06/23/2022
+“I do not know”
+Kasma "Kaz" Planewalker — 06/23/2022
+She hums in response, only half aware of everyone else as she starts another sketch.
+John Dungeon Master — 06/23/2022
+In a moment of quiet, Erésh turns to Zug and says “why … do you call yourself that … name?”
+Zuggtboy "Zug" Smutwhisper — 06/23/2022
+“It seemed like a good idea at the time, it really did. But then again, I was actually possessed by a demon slime from Juiblex, and he kept talking about Zuggtmoy. So that explains that?” Zug cringes and hides under his hat “It’s… subject to change.”
+John Dungeon Master — 06/23/2022
+Erésh says: “you must have a true name. All things have names. Think and you may remember yours”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 1:25 AM
+“Well, I guess I could always fall back on “Turdbeak”. That one brings back a lot of great memories. No, not really, Erésh. That’s called “sarcasm.” I hate that name. You see, Turdbeak was my slave name. I used to be a mindless slave to a Rakshasa. Yes, he was evil and had backwards hands. But no, I’m fine now. I think. Well, I was cursed just a couple hours ago - by the very same Rakshasa actually! I escaped and he found me, dagnabbit, you know how shrewd those fiends can get. Chasing folks all across the frickin planes…”
+John Dungeon Master — Yesterday at 1:26 AM
+blink…blink
+Nevaeh (Alicia) — Yesterday at 2:19 PM
+“Is it truly memory loss, or just memory repression?”
+Kasma "Kaz" Planewalker — Yesterday at 2:21 PM
+Kaz looks up from her journal. “…surely your parents must have named you something, before Ranjat enslaved you”
+Zuggtboy "Zug" Smutwhisper — Yesterday at 3:24 PM
+“My parents were also slaves. I wasn't kidnapped and sold into slavery, I was born into it.
+As far as I know, my family was one among others that were bred to be servant slaves for Ranjat. My family in particular were used as emissaries and spies. I guess that explains why I can do my sneaks so good.”
+“I imagine it's a bit of both. But another thing is just the consecutive years of mind control, it has a way of... emptying you out on the inside. It disrupts the natural time continuity that I think helps people construct and maintain memories. So it's hard to remember anything from before I ate the demo-mush and fell in with the lizardfolk.”
+Odo Falcanspur (Mike) — Today at 5:56 PM
+"I not sure you 'ver been doneh mentionin' that befor'...I had no idea your folks were also slaves...you know where they are now?"
+John Dungeon Master — Today at 1:19 PM
+(It takes an hour or so to cross the lake to the island with the gigantic mushroom. When you arrive, the myconids tie the boat to a pier similar to the one you boarded at. The base of the enormous stalk looks like a sheer cliff face from this vantage point.) 
+Erésh says: “we have a short way to go, come” 
+Nevaeh (Alicia) — Today at 5:42 PM
+(Should we start the session here?)
+John Dungeon Master — Today at 5:43 PM
+Sure
